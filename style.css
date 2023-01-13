@@ -1,8 +1,12 @@
 input[type=checkbox] {
-    pointer-events: auto !important;
+    pointer-events: fill !important;
 }
 
 sup {
+    font-family: Consolas !important;
+}
+
+a {
     font-family: Consolas !important;
 }
 
