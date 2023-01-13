@@ -7,15 +7,9 @@ div[class=scr] {
     background-color: black;
 }
 
-.markdown-body sup {
-    font-family: Consolas;
+sup>a {
+    font-family: Consolas !important;
 }
-
-/*
-sup {font-family: Consolas !important;}
-
-a {font-family: Consolas !important;}
-*/
 
 sup>a::before {
     content: none !important;
@@ -23,4 +17,39 @@ sup>a::before {
 
 sup>a::after {
     content: none !important;
+}
+
+.markdown-body {
+    font-family: Consolas !important;
+}
+
+/*space*/
+sp::before {
+    content: '\2003';
+}
+
+sp::after {
+    content: '\2003';
+}
+
+/*shortSpace*/
+ss::before {
+    content: '\00a0';
+}
+
+ss::after {
+    content: '\2003';
+}
+
+/*longSpace*/
+ls::before {
+    content: '\2003\2002';
+}
+
+ls::after {
+    content: '\2003';
+}
+
+black {
+    color: black
 }
