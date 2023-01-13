@@ -109,6 +109,6 @@ The training always consists of the same sequence: first, warm-up; second, exerc
 <html>
     <head>
         <link rel="stylesheet" href="style.css">
-        <script src="scripts.js"></script>
+        <script src="script.js"></script>
     </head>
 </html>
