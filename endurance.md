@@ -111,6 +111,8 @@ The training always consists of the same sequence: first, warm-up; second, exerc
         <link rel="stylesheet" href="style.css">
     </head>
     <footer>
-        <script type="text/javascript" src="script.js"></script>
+        <div style="color:inherit">
+            <script type="text/javascript" src="script.js"></script>
+        </div>
     </footer>
 </html>
