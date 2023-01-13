@@ -107,8 +107,8 @@ The training always consists of the same sequence: first, warm-up; second, exerc
 [^weeks]: _**Weeks**_: weeks of duration of the current training type.
 
 <html>
-    <footer>
+    <head>
         <link rel="stylesheet" href="style.css">
         <script src="scripts.js"></script>
-    </footer>
+    </head>
 </html>
