@@ -50,7 +50,7 @@ The training always consists of the same sequence: first, warm-up; second, exerc
 
 ### :leg: Legs
 
-- [ ] **`02 sup`** [^sup]&nbsp;|&emsp; Squat / Glute bridge
+- [ ] **`02 sup`** [^sup]&nbsp;|&nbsp; Squat / Glute bridge
 - [ ] **`02 sup`** &emsp;&ensp;|&emsp; Bulgarian split squat / Step-up
 - [ ] **`02 sup`** &emsp;&ensp;|&emsp; Lunge / Glute kickbacks
 - [ ] **`02 sup`** &emsp;&ensp;|&emsp; Side lunge / Heel raises
@@ -107,20 +107,8 @@ The training always consists of the same sequence: first, warm-up; second, exerc
 [^weeks]: _**Weeks**_: weeks of duration of the current training type.
 
 <html>
-    <head>
-        <style>
-            input[type=checkbox] {
-                pointer-events: auto;
-            }
-            .github-markdown-body sup>a{
-                font-family: Consolas
-            }
-            .github-markdown-body sup>a::before {
-                content: "";
-            }
-            .github-markdown-body sup>a::after {
-                content: "";
-            }
-        </style>
-    </head>
+    <footer>
+        <link rel="stylesheet" href="style.css">
+        <script src="scripts.js"></script>
+    </footer>
 </html>

@@ -1,12 +1,15 @@
 input[type=checkbox] {
     pointer-events: auto;
 }
-.github-markdown-body sup>a{
-    font-family: Consolas;
+
+sup>a {
+    font-family: Consolas !important;
 }
-.github-markdown-body sup>a::before {
-    content: "";
+
+sup>a::before {
+    content: none !important;
 }
-.github-markdown-body sup>a::after {
-    content: "";
+
+sup>a::after {
+    content: none !important;
 }
