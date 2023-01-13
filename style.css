@@ -2,6 +2,11 @@ input[type=checkbox] {
     pointer-events: fill !important;
 }
 
+div[class=scr] {
+    color: black;
+    background-color: black;
+}
+
 .markdown-body sup {
     font-family: Consolas;
 }
