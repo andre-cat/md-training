@@ -2,13 +2,15 @@ input[type=checkbox] {
     pointer-events: fill !important;
 }
 
-sup {
-    font-family: Consolas !important;
+.markdown-body sup {
+    font-family: Consolas;
 }
 
-a {
-    font-family: Consolas !important;
-}
+/*
+sup {font-family: Consolas !important;}
+
+a {font-family: Consolas !important;}
+*/
 
 sup>a::before {
     content: none !important;
