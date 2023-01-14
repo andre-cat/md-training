@@ -1,10 +1,6 @@
 input[type=checkbox] {
     pointer-events: fill !important;
-}
-
-div[class=scr] {
-    color: black;
-    background-color: black;
+    margin-left: 20px !important;
 }
 
 sup>a {
@@ -17,10 +13,6 @@ sup>a::before {
 
 sup>a::after {
     content: none !important;
-}
-
-.markdown-body {
-    font-family: Consolas !important;
 }
 
 /*space*/
@@ -50,6 +42,22 @@ ls::after {
     content: '\2003';
 }
 
-black {
-    color: black
+green {
+    color: lime;
+}
+
+yellow {
+    color: gold;
+}
+
+red {
+    color: crimson;
+}
+
+orange {
+    color: orange;
+}
+
+mono {
+    font-family: Consolas;
 }
