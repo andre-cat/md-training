@@ -1,6 +1,6 @@
 input[type=checkbox] {
     pointer-events: fill !important;
-    margin-left: 20px !important;
+    margin-left: 15px !important;
 }
 
 sup>a {
@@ -42,15 +42,15 @@ ls::after {
     content: '\2003';
 }
 
-green {
+hig {
     color: lime;
 }
 
-yellow {
-    color: gold;
+med {
+    color: orange;
 }
 
-red {
+low {
     color: crimson;
 }
 
