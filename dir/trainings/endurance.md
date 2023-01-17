@@ -61,7 +61,10 @@ Weeks: 2 schedules
 
 - [ ] **`02 min`** <sp>|</sp> Jumping rope <br>
 
-> :warning: Suggestion: perform **static stretching** after warming up.
+> :warning: Suggestion: perform **static stretching** after warming up. <br>
+> <staticsession></staticsession>
+
+<holi></holi>
 
 [^sup]: _**sup**_: Superset [^superset].
 
@@ -70,9 +73,20 @@ Weeks: 2 schedules
 [home]: ../workout.md
 [definition]: ../definitions.md
 
-<html>
-    <head>
-        <link rel='stylesheet' href='../../src/style.css'>
-        <script type='text/javascript' src='../../src/script.js'></script>
-    </head>
-</html>
+<style>
+    accent { color: orange; }
+
+    sup>a { font-family: Consolas !important; }
+
+    sp::before { content: '\2003'; }
+
+    sp::after  { content: '\2003'; }
+
+    ss::before { content: '\00a0'; }
+
+    ss::after  { content: '\2003'; }
+
+    ls::before { content: '\2003\2002'; }
+
+    ls::after  { content: '\2003'; }
+<style>

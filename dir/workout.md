@@ -1,11 +1,8 @@
 # <accent>Workout</accent>
 
-
 ## Structure
 
 The training plan structure is oriented to avoid specialization, confort and energy efficiency, so constantly alternate the focus of training: endurance, strength, power and flexibility.
-
-==sss==
 
 <br>
 
@@ -74,8 +71,12 @@ The training always consists of the same sequence: first, warm-up; second, exerc
 
 [definitions]: definitions.md
 
-<html>
-    <head>
-        <link rel='stylesheet' href='../src/style.css'>
-    </head>
-</html>
+<style>
+    accent { color: orange; }
+
+    low { color: crimson; }
+
+    med { color: orange; }
+
+    hig { color: lime; }
+</style>
