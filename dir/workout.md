@@ -43,7 +43,7 @@ In addition to load and repetitions [^rep], the nature of the trainings also dif
 
 Each module lasts for the completion of two **2** schedules of more than 7 days \(see the [schedule for each training](#modules)\)\.
 
-> **Note**
+> **Note**  
 > Since there is no flexibility module and it is not specified in any schedule, it is recommended to incorporate flexibility training sessions every resistance or [HIIT][definitions] day\.
 
 ## Sequence

@@ -10,7 +10,7 @@ Weeks: 2 schedules
 ```
 
 > **Note**  
-> If you forgot any parameter see [workout page][home] for more information\.
+> If you forgot the meaning of any parameter see [workout page][home] for more information\.
 
 ## Eschedule
 
