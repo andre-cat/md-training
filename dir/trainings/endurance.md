@@ -9,7 +9,8 @@ Break: 1 day
 Weeks: 2 schedules
 ```
 
-> :grey_question: If you forgot any parameter see [workout page][home] for more information\.
+> **Note**  
+> If you forgot any parameter see [workout page][home] for more information\.
 
 ## Eschedule
 
@@ -25,7 +26,7 @@ Weeks: 2 schedules
 - [ ] **`01 min`** &emsp;|&emsp; Skipping
 - [ ] **`01 min`** &emsp;|&emsp; Crawling
 
-> **Warning**
+> **Warning**  
 > Perform **dynamic stretching** before warming up\.
 
 ### :leg: Legs
@@ -60,7 +61,7 @@ Weeks: 2 schedules
 
 - [ ] **`02 min`** &emsp;|&emsp; Jumping rope
 
-> **Warning**
+> **Warning**  
 > Perform **static stretching** after warming up\.
 
 ---

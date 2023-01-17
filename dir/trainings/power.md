@@ -1,3 +1,3 @@
-# [:back:][home] <accent>Power</accent>
+# [:back:][home] $\textsf{\color{orange}{POWER}}$
 
 [home]: ../workout.md
