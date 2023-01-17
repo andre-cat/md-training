@@ -1,6 +1,4 @@
-# [:back:][home] <accent>Endurance</accent>
-
----
+# [:back:][home] $\textsf{\color{orange}{ENDURANCE}}$
 
 ## Parameters
 
@@ -11,7 +9,7 @@ Break: 1 day
 Weeks: 2 schedules
 ```
 
-> :grey_question: If you forgot any parameter see [workout page][home] for more information.
+> :grey_question: If you forgot any parameter see [workout page][home] for more information\.
 
 ## Eschedule
 
@@ -21,72 +19,55 @@ Weeks: 2 schedules
 
 ### :sweat_drops: Warm-up
 
-- [ ] **`25 rep`** <sp>|</sp> Jumping Jacks
-- [ ] **`25 rep`** <sp>|</sp> Mountain climbers
-- [ ] **`25 rep`** <sp>|</sp> Reverse mountain climbers
-- [ ] **`01 min`** <sp>|</sp> Skipping
-- [ ] **`01 min`** <sp>|</sp> Crawling
+- [ ] **`25 rep`** &emsp;|&emsp; Jumping Jacks
+- [ ] **`25 rep`** &emsp;|&emsp; Mountain climbers
+- [ ] **`25 rep`** &emsp;|&emsp; Reverse mountain climbers
+- [ ] **`01 min`** &emsp;|&emsp; Skipping
+- [ ] **`01 min`** &emsp;|&emsp; Crawling
 
-> :warning: Suggestion: perform **dynamic stretching** before warming up.
+> **Warning**
+> Perform **dynamic stretching** before warming up\.
 
 ### :leg: Legs
 
-- [ ] **`02 sup`** [^sup]<ss>|</ss> Squat / Glute bridge
-- [ ] **`02 sup`** <ls>|</ls> Bulgarian split squat / Step-up
-- [ ] **`02 sup`** <ls>|</ls> Lunge / Glute kickbacks
-- [ ] **`02 sup`** <ls>|</ls> Side lunge / Heel raises
-- [ ] **`12 rep`** <ls>|</ls> Deadlift
-- [ ] **`01 min`** <ls>|</ls> Isometric squat
+- [ ] **`02`[`sup`](#footnotes)**&emsp;|&emsp; Squat / Glute bridge
+- [ ] **`02 sup`** &emsp;|&emsp; Bulgarian split squat / Step-up
+- [ ] **`02 sup`** &emsp;|&emsp; Lunge / Glute kickbacks
+- [ ] **`02 sup`** &emsp;|&emsp; Side lunge / Heel raises
+- [ ] **`12 rep`** &emsp;|&emsp; Deadlift
+- [ ] **`01 min`** &emsp;|&emsp; Isometric squat
 
 ### :muscle: Arms
 
-- [ ] **`02 sup`** <sp>|</sp> Push-up / Pull-up
-- [ ] **`02 sup`** <sp>|</sp> Vertical push-up / Horizontal pull-up
-- [ ] **`02 sup`** <sp>|</sp> Hindu push-up / Chin-up
-- [ ] **`02 sup`** <sp>|</sp> Diamond push-up / Negative pull-up
-- [ ] **`30 sec`** <sp>|</sp> Isometric push-up
-- [ ] **`30 sec`** <sp>|</sp> Isometric pull-up
+- [ ] **`02 sup`** &emsp;|&emsp; Push-up / Pull-up
+- [ ] **`02 sup`** &emsp;|&emsp; Vertical push-up / Horizontal pull-up
+- [ ] **`02 sup`** &emsp;|&emsp; Hindu push-up / Chin-up
+- [ ] **`02 sup`** &emsp;|&emsp; Diamond push-up / Negative pull-up
+- [ ] **`30 sec`** &emsp;|&emsp; Isometric push-up
+- [ ] **`30 sec`** &emsp;|&emsp; Isometric pull-up
 
 ### :fire: [HIIT][definition]
 
-- [ ] **`Tabata`** <sup>[What it is Tabata?][definition]</sup> <ss>|</ss> Jumping rope
+- [ ] [**`Tabata`**][definition] &emsp;|&emsp; Jumping rope
 
 ### :zap: Resistance
 
-- [ ] **`100 rep`** <sp>|</sp> Squat <br>
-- [ ] **`050 rep`** <sp>|</sp> Push-up <br>
-- [ ] **`004 min`** <sp>|</sp> Jumping rope <br>
+- [ ] **`100 rep`** &emsp;|&emsp; Squat
+- [ ] **`050 rep`** &emsp;|&emsp; Push-up
+- [ ] **`004 min`** &emsp;|&emsp; Jumping rope
 
 ### :snowflake: Cool-down
 
-- [ ] **`02 min`** <sp>|</sp> Jumping rope <br>
+- [ ] **`02 min`** &emsp;|&emsp; Jumping rope
 
-> :warning: Suggestion: perform **static stretching** after warming up. <br>
-> <staticsession></staticsession>
+> **Warning**
+> Perform **static stretching** after warming up\.
 
-<holi></holi>
+---
 
-[^sup]: _**sup**_: Superset [^superset].
+### Footnotes
 
-[^superset]: _**Superset**_: 10 or 12 repetitions of two consecutive exercises (without rest in between).
+_**sup**_: superset, 10 or 12 repetitions of two consecutive exercises (without rest in between)\.
 
 [home]: ../workout.md
 [definition]: ../definitions.md
-
-<style>
-    accent { color: orange; }
-
-    sup>a { font-family: Consolas !important; }
-
-    sp::before { content: '\2003'; }
-
-    sp::after  { content: '\2003'; }
-
-    ss::before { content: '\00a0'; }
-
-    ss::after  { content: '\2003'; }
-
-    ls::before { content: '\2003\2002'; }
-
-    ls::after  { content: '\2003'; }
-<style>
