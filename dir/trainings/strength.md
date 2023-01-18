@@ -1,4 +1,4 @@
-# [:back:][home] $\textsf{\textbf{\color{orange}{STRENGTH}}}$
+# [:back:][home] $\textsf{\color{orange}{STRENGTH}}$
 
 ## Parameters
 
@@ -13,62 +13,66 @@ Time: (01 min, 02 min)
 > **Note**  
 > If you forgot the meaning of any parameter see [workout page][home] for more information\.
 
+## Training
+
 ### :sweat_drops: Warm-up
 
-- [ ] **`50 rep`** &emsp;|&emsp; Jumping Jacks
-- [ ] **`50 rep`** &emsp;|&emsp; Mountain climbers
-- [ ] **`50 rep`** &emsp;|&emsp; Reverse mountain climbers
-- [ ] **`02 min`** &emsp;|&emsp; Skipping
-- [ ] **`02 min`** &emsp;|&emsp; Crawling
++ [ ] **`50 rep`** &emsp;|&emsp; Jumping Jack
++ [ ] **`50 rep`** &emsp;|&emsp; Mountain climber
++ [ ] **`50 rep`** &emsp;|&emsp; Reverse mountain climber
++ [ ] **`02 min`** &emsp;|&emsp; Skipping
 
 > **Warning**  
 > Perform **dynamic stretching** before warming up\.
 
-### :leg: Legs
+### :running: Exercise
 
-- [ ] **`08 ⨉ 10`** &emsp;|&emsp; Squat
-- [ ] **`08 ⨉ 10`** &emsp;|&emsp; Heel rais
-- [ ] **`08 ⨉ 10`** &emsp;|&emsp; Bulgarian split squat
-- [ ] **`08 ⨉ 10`** &emsp;|&emsp; Lunge
-- [ ] **`08 ⨉ 10`** &emsp;|&emsp; Single-leg glute bridge
+> #### :leg: Legs
 
-### :muscle: Arms (Push)
++ [ ] **`03 ⨉ 08 - 10`** &emsp;|&emsp; Squat
++ [ ] **`03 ⨉ 08 - 10`** &emsp;|&emsp; Heel rais
++ [ ] **`03 ⨉ 08 - 10`** &emsp;|&emsp; Bulgarian split squat
++ [ ] **`03 ⨉ 08 - 10`** &emsp;|&emsp; Lunge
++ [ ] _**`02 ⨉ 08 - 10`** &emsp;|&emsp; Single-leg glute bridge_
 
-- [ ] **`03 ⨉ 05 - 08`** &emsp;|&emsp; Push-up
-- [ ] **`03 ⨉ 05 - 08`** &emsp;|&emsp; Vertical push-up
-- [ ] **`03 ⨉ 05 - 08`** &emsp;|&emsp; Diamond push-up
-- [ ] **`03 ⨉ 05 - 08`** &emsp;|&emsp; Dip
-- [ ] **`03 ⨉ 05 - 08`** &emsp;|&emsp; Uneven Push-Up
+> #### :muscle: Arms (Push)
 
-### :muscle: Arms (Pull)
++ [ ] **`03 ⨉ 05 - 08`** &emsp;|&emsp; Push-up
++ [ ] **`03 ⨉ 05 - 08`** &emsp;|&emsp; Vertical push-up
++ [ ] **`03 ⨉ 05 - 08`** &emsp;|&emsp; Diamond push-up
++ [ ] **`03 ⨉ 05 - 08`** &emsp;|&emsp; Dip
++ [ ] _**`02 ⨉ 05 - 08`** &emsp;|&emsp; Uneven push-Up_
 
-- [ ] **`03 ⨉ 03 - 05`** &emsp;|&emsp; Pull-up
-- [ ] **`03 ⨉ 03 - 05`** &emsp;|&emsp; Horizontal pull-up
-- [ ] **`03 ⨉ 03 - 05`** &emsp;|&emsp; Chin-up
-- [ ] **`03 ⨉ 03 - 05`** &emsp;|&emsp; Negative pull-up
-- [ ] **`03 ⨉ 03 - 05`** &emsp;|&emsp; Narrow grip pull-up
+> #### :muscle: Arms (Pull)
 
-### :chocolate_bar: Abs
++ [ ] **`03 ⨉ 03 - 05`** &emsp;|&emsp; Pull-up
++ [ ] **`03 ⨉ 03 - 05`** &emsp;|&emsp; Horizontal pull-up
++ [ ] **`03 ⨉ 03 - 05`** &emsp;|&emsp; Chin-up
++ [ ] **`03 ⨉ 03 - 05`** &emsp;|&emsp; Negative pull-up
++ [ ] _**`02 ⨉ 03 - 05`** &emsp;|&emsp; Narrow grip pull-up_
 
-- [ ] **`03 ⨉ 08 - 10 rep`** &emsp;|&emsp; Ab
-- [ ] **`03 ⨉ 08 - 10 rep`** &emsp;|&emsp; V-up
-- [ ] **`03 ⨉ 10 - 15 rep`** &emsp;|&emsp; Bicycle crunch
-- [ ] **`03 ⨉ 05 - 08 rep`** &emsp;|&emsp; Superman push-up
-- [ ] **`02 ⨉ 08 - 10 rep`** &emsp;|&emsp; Superman ab
+> #### :chocolate_bar: Abs
 
-### :fire: [HIIT][definition]
++ [ ] **`03 ⨉ 08 - 10`** &emsp;|&emsp; Ab
++ [ ] **`03 ⨉ 08 - 10`** &emsp;|&emsp; V-up
++ [ ] **`03 ⨉ 10 - 15`** &emsp;|&emsp; Bicycle crunch
++ [ ] **`03 ⨉ 05 - 08`** &emsp;|&emsp; Superman push-up
++ [ ] _**`02 ⨉ 08 - 10`** &emsp;|&emsp; Superman ab_
 
-- [ ] [**`Tabata`**][definition] &emsp;|&emsp; Jumping rope
+> #### :fire: [HIIT][definition]
 
-### :zap: Challenge
++ [ ] [**`Tabata`**][definition] &emsp;|&emsp; Jumping rope
 
-- [ ] **`100 rep`** &emsp;|&emsp; Squat
-- [ ] **`050 rep`** &emsp;|&emsp; Push-up
-- [ ] **`004 min`** &emsp;|&emsp; Jumping rope
+> #### :zap: Challenge
+
++ [ ] **`25 rep`** &emsp;|&emsp; Squat
++ [ ] **`12 rep`** &emsp;|&emsp; Push-up
++ [ ] **`06 rep`** &emsp;|&emsp; Pull-up
++ [ ] **`04 min`** &emsp;|&emsp; Jumping rope
 
 ### :snowflake: Cool-down
 
-- [ ] **`02 min`** &emsp;|&emsp; Jumping rope
++ [ ] **`04 min`** &emsp;|&emsp; Jumping rope
 
 > **Warning**  
 > Perform **static stretching** after warming up\.

@@ -1,4 +1,4 @@
-# Intensity
+# $\textsf{\color{orange}{INTENSITY}}$
 
 The level of intensity from 1 to 5 for the 5 basic movements:
 
