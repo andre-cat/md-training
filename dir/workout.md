@@ -2,9 +2,9 @@
 
 ## Structure
 
-The training plan structure is oriented to avoid specialization, confort and energy efficiency, so constantly alternate the focus of training: endurance, strength, power and flexibility\.
+The training plan is oriented to avoid specialization, comfort and energy efficiency and aims to develop the physical qualities of **endurance**, **strength**, **power** and **flexibility**.
 
-To achieve this, the schedule will be completed 2 or more times for each training module.
+To achieve this every few schedules the type of training changes and ends with a mixed training module.
 
 ```mermaid
 ---
@@ -29,12 +29,12 @@ flowchart LR
     A([ENDURANCE])
     B[STRENGTH]
     C[POWER]
-    D[GLOBAL]
+    D[MIXED]
 
-    A --2 weeks--> B
-    B --2 weeks--> C
-    C --2 weeks--> D
-    D --4 weeks--> A
+    A --2 sche--> B
+    B --2 sche--> C
+    C --2 sche--> D
+    D --4 sche--> A
 
 ```
 
@@ -82,7 +82,7 @@ Each emoji specifies a type of training:
 
 ## Sequence
 
-The training always consists of the same sequence: first, warm-up; second, exercises by muscle group; third, cool-down\. Graphically:
+The training always consists of the same sequence: first, warm-up; second, exercise; third, cool-down\. Graphically:
 
 > ### :one: :sweat_drops: &rarr; :two: :running: &rarr; :three: :snowflake: &#8203;
 >
@@ -118,6 +118,8 @@ When no exercise in the training is isometric, the word ~~rep~~ is deleted; the 
     > reps $\scriptsize{\textsf{\color{orange}{MED •}}}$
     > rest $\scriptsize{\textsf{\color{orange}{MED •}}}$
     > time $\scriptsize{\textsf{\color{orange}{MED •}}}$
+
+4. ### [**`Mixed`**](none.md)
 
 [^min]: Abbreviated as "min"\.
 

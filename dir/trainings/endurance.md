@@ -4,10 +4,10 @@
 
 ```plaintext
 Load: M - 1
-Reps: 10 - 12 reps
-Rest: 01 day
-Sche: 02 schedules
-Time: (30 sec, 01 min)
+Reps: 10 - 12
+Rest: 01
+Sche: 02
+Time: (30, 60)
 ```
 
 > **Note**  
@@ -23,7 +23,7 @@ Time: (30 sec, 01 min)
 + [ ] **`01 min`** &emsp;|&emsp; Skipping
 
 > **Warning**  
-> Perform **dynamic stretching** before warming up\.
+> Perform **dynamic stretching** before warm-up\.
 
 ### :running: Exercise
 
@@ -32,7 +32,7 @@ Time: (30 sec, 01 min)
 + [ ] **`02`[`sup`](#footnotes)**&emsp;|&emsp; Squat / Glute bridge
 + [ ] **`02 sup`** &emsp;|&emsp; Bulgarian split squat / Step-up
 + [ ] **`02 sup`** &emsp;|&emsp; Lunge / Glute kickback
-+ [ ] **`02 sup`** &emsp;|&emsp; Side lunge / Heel raises
++ [ ] **`02 sup`** &emsp;|&emsp; Side lunge / Heel raise
 + [ ] **`12 rep`** &emsp;|&emsp; Deadlift
 + [ ] **`01 min`** &emsp;|&emsp; Isometric squat
 
@@ -68,7 +68,7 @@ Time: (30 sec, 01 min)
 + [ ] **`02 min`** &emsp;|&emsp; Jumping rope
 
 > **Warning**  
-> Perform **static stretching** after warming up\.
+> Perform **static stretching** after cool-down\.
 
 ---
 

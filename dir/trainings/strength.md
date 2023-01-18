@@ -4,10 +4,10 @@
 
 ```plaintext
 Load: M + 1
-Reps: 05 - 08 reps
-Rest: 02 days
-Sche: 02 schedules
-Time: (01 min, 02 min)
+Reps: 05 - 08
+Rest: 02
+Sche: 02
+Time: (1.00, 2.00)
 ```
 
 > **Note**  
@@ -23,7 +23,7 @@ Time: (01 min, 02 min)
 + [ ] **`02 min`** &emsp;|&emsp; Skipping
 
 > **Warning**  
-> Perform **dynamic stretching** before warming up\.
+> Perform **dynamic stretching** before warm-up\.
 
 ### :running: Exercise
 
@@ -75,7 +75,7 @@ Time: (01 min, 02 min)
 + [ ] **`04 min`** &emsp;|&emsp; Jumping rope
 
 > **Warning**  
-> Perform **static stretching** after warming up\.
+> Perform **static stretching** after cool-down\.
 
 ---
 

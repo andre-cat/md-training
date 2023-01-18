@@ -4,10 +4,10 @@
 
 ```plaintext
 Load: M
-Reps: 08 - 10 reps
-Rest: 01 - 02 day(s)
-Sche: 02 schedules
-Time: (45 sec, 90 sec)
+Reps: 08 - 10
+Rest: 01 - 02
+Sche: 02
+Time: (0.75, 1.00)
 ```
 
 > **Note**  
@@ -23,7 +23,7 @@ Time: (45 sec, 90 sec)
 + [ ] **`03 min`** &emsp;|&emsp; Skipping
 
 > **Warning**  
-> Perform **dynamic stretching** before warming up\.
+> Perform **dynamic stretching** before warm-up\.
 
 ### :running: Exercise
 
@@ -72,7 +72,7 @@ Time: (45 sec, 90 sec)
 + [ ] **`06 min`** &emsp;|&emsp; Jumping rope
 
 > **Warning**  
-> Perform **static stretching** after warming up\.
+> Perform **static stretching** after cool-down\.
 
 [home]: ../workout.md
 [definition]: ../definitions.md
