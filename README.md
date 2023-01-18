@@ -1,4 +1,4 @@
-# $\textsf{\color{orange}{$MD-WORKOUT}}
+# $\textsf{\color{orange}{MD-WORKOUT}}$
 
 Markdown practice with physical training routines to practice GitHub Flavored Markdown.
 

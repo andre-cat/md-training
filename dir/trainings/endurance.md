@@ -1,22 +1,17 @@
-# [:back:][home] $\textsf{\color{orange}{ENDURANCE}}$
+# [:back:][home] $\textsf{\textbf{\color{orange}{ENDURANCE}}}$
 
 ## Parameters
 
 ```plaintext
-Level: Max
-Timer: 1 min
-Break: 1 day
-Weeks: 2 schedules
+Load: M - 1
+Reps: 10 - 12 reps
+Rest: 01 day
+Sche: 02 schedules
+Time: (30 sec, 01 min)
 ```
 
 > **Note**  
 > If you forgot the meaning of any parameter see [workout page][home] for more information\.
-
-## Eschedule
-
-|D1|D2|D3|D4|D5|D6|D7|D8|
-|--|--|--|--|--|--|--|--|
-|:leg:|:muscle:|:leg:|:muscle:|:palm_tree:|:fire:|:zap:|:palm_tree:|
 
 ### :sweat_drops: Warm-up
 
@@ -33,7 +28,7 @@ Weeks: 2 schedules
 
 - [ ] **`02`[`sup`](#footnotes)**&emsp;|&emsp; Squat / Glute bridge
 - [ ] **`02 sup`** &emsp;|&emsp; Bulgarian split squat / Step-up
-- [ ] **`02 sup`** &emsp;|&emsp; Lunge / Glute kickbacks
+- [ ] **`02 sup`** &emsp;|&emsp; Lunge / Glute kickback
 - [ ] **`02 sup`** &emsp;|&emsp; Side lunge / Heel raises
 - [ ] **`12 rep`** &emsp;|&emsp; Deadlift
 - [ ] **`01 min`** &emsp;|&emsp; Isometric squat
@@ -42,16 +37,24 @@ Weeks: 2 schedules
 
 - [ ] **`02 sup`** &emsp;|&emsp; Push-up / Pull-up
 - [ ] **`02 sup`** &emsp;|&emsp; Vertical push-up / Horizontal pull-up
-- [ ] **`02 sup`** &emsp;|&emsp; Hindu push-up / Chin-up
+- [ ] **`02 sup`** &emsp;|&emsp; Shoulder push-up / Chin-up
 - [ ] **`02 sup`** &emsp;|&emsp; Diamond push-up / Negative pull-up
 - [ ] **`30 sec`** &emsp;|&emsp; Isometric push-up
 - [ ] **`30 sec`** &emsp;|&emsp; Isometric pull-up
+
+### :chocolate_bar: Abs
+
+- [ ] **`02 sup`** &emsp;|&emsp; Ab / Side plank
+- [ ] **`02 sup`** &emsp;|&emsp; L-sit / Reverse plank
+- [ ] **`02 sup`** &emsp;|&emsp; Bird dog / Bicycle crunch
+- [ ] **`02 sup`** &emsp;|&emsp; V with rotation / Plank
+- [ ] **`01 sup`** &emsp;|&emsp; Sitting punch / Flutter kick
 
 ### :fire: [HIIT][definition]
 
 - [ ] [**`Tabata`**][definition] &emsp;|&emsp; Jumping rope
 
-### :zap: Resistance
+### :zap: Challenge
 
 - [ ] **`100 rep`** &emsp;|&emsp; Squat
 - [ ] **`050 rep`** &emsp;|&emsp; Push-up
