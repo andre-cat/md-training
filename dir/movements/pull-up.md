@@ -1,6 +1,6 @@
 # [:back:][home] <accent>Pull-up</accent>
 
-[home]: ../workout.md
+[home]: ../training.md
 
 <style>
     accent { color: orange; }

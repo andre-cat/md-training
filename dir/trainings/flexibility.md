@@ -1,63 +1,105 @@
-# [:back:][home] $\textsf{\color{orange}{POWER}}$
+# [:back:][home] $\textsf{\color{orange}{FLEXIBILITY}}$
 
 ## Training
 
-### :sweat_drops: Warm-up
+### :fire: Warm-up
 
-+ [ ] **`01 min`** &emsp;|&emsp; [Alligator crawl][fun-crawling]
-+ [ ] **`01 min`** &emsp;|&emsp; [Barrel crawl][legendary-crawling]
-+ [ ] **`01 min`** &emsp;|&emsp; [Bear crawl][fun-crawling]
-+ [ ] **`01 min`** &emsp;|&emsp; [Circle crawl][legendary-crawling]
-+ [ ] **`01 min`** &emsp;|&emsp; [Crab crawl][legendary-crawling]
-+ [ ] **`01 min`** &emsp;|&emsp; Exorcists crawl
-+ [ ] **`01 min`** &emsp;|&emsp; [Frog crawl][legendary-crawling]
-+ [ ] **`01 min`** &emsp;|&emsp; [Frog kip crawl][legendary-crawling]
-+ [ ] **`01 min`** &emsp;|&emsp; [Frog roll crawl][legendary-crawling]
-+ [ ] **`01 min`** &emsp;|&emsp; [Gorilla crawl][fun-crawling]
-+ [ ] **`01 min`** &emsp;|&emsp; [Ground kong crawl][legendary-crawling]
-+ [ ] **`01 min`** &emsp;|&emsp; [Inchworms crawl][fun-crawling]
-+ [ ] **`01 min`** &emsp;|&emsp; [Sideway crawl][fun-crawling]
-+ [ ] **`01 min`** &emsp;|&emsp; [Sideway gorilla crawl][fun-crawling]
-+ [ ] **`01 min`** &emsp;|&emsp; [Sideway plank crawl][fun-crawling]
-+ [ ] **`01 min`** &emsp;|&emsp; [Soldier crawl][fun-crawling]
-+ [ ] **`01 min`** &emsp;|&emsp; [Spider crawl](https://www.youtube.com/watch?v=_K7rv_vFOWM)
-+ [ ] **`01 min`** &emsp;|&emsp; [Tornado crawl][legendary-crawling]
+1. Option one:
+    + [ ] **`01 min`** &emsp;|&emsp; [Alligator crawl][fun-crawling]
+    + [ ] **`01 min`** &emsp;|&emsp; [Barrel crawl][legendary-crawling]
+    + [ ] **`01 min`** &emsp;|&emsp; [Bear crawl][fun-crawling]
+    + [ ] **`01 min`** &emsp;|&emsp; [Circle crawl][legendary-crawling]
+    + [ ] **`01 min`** &emsp;|&emsp; [Crab crawl][legendary-crawling]
+    + [ ] **`01 min`** &emsp;|&emsp; [Frog crawl][legendary-crawling]
 
-> **Warning**  
-> Perform **dynamic stretching** before warming up\.
+2. Option two:
+    + [ ] **`01 min`** &emsp;|&emsp; [Frog kip crawl][legendary-crawling]
+    + [ ] **`01 min`** &emsp;|&emsp; [Frog roll crawl][legendary-crawling]
+    + [ ] **`01 min`** &emsp;|&emsp; [Gorilla crawl][fun-crawling]
+    + [ ] **`01 min`** &emsp;|&emsp; [Ground kong crawl][legendary-crawling]
+    + [ ] **`01 min`** &emsp;|&emsp; [Inchworms crawl][fun-crawling]
+    + [ ] **`01 min`** &emsp;|&emsp; [Sideway crawl][fun-crawling]
 
-### :leg: Legs
+3. Option tree:
+    + [ ] **`01 min`** &emsp;|&emsp; [Sideway gorilla crawl][fun-crawling]
+    + [ ] **`01 min`** &emsp;|&emsp; [Sideway plank crawl][fun-crawling]
+    + [ ] **`01 min`** &emsp;|&emsp; [Soldier crawl][fun-crawling]
+    + [ ] **`01 min`** &emsp;|&emsp; [Spider crawl][spider-crawl]
+    + [ ] **`01 min`** &emsp;|&emsp; [Tornado crawl][legendary-crawling]
+    + [ ] **`01 min`** &emsp;|&emsp; Exorcists crawl
 
-+ [ ] **`10 sec`** &emsp;|&emsp; Jump lunge
-+ [ ] **`10 sec`** &emsp;|&emsp; Knee to chest hop
-+ [ ] **`10 sec`** &emsp;|&emsp; Box jump
-+ [ ] **`10 sec`** &emsp;|&emsp; Jump squat
-+ [ ] **`10 sec`** &emsp;|&emsp; Lateral lunge
+### :sweat_drops: Work-out
 
-### :muscle: Arms (Push)
+> #### :cartwheeling: [Dynamic stretch][dynamic-stretch]
 
-+ [ ] **``** &emsp;|&emsp; Clapping push-up
-+ [ ] **``** &emsp;|&emsp; Hindu push-up
-+ [ ] **``** &emsp;|&emsp; Spartan push-up
-+ [ ] **``** &emsp;|&emsp; Wall tricep extension
-+ [ ] **``** &emsp;|&emsp; T push-up
++ [ ] **`20 sec`** &emsp;|&emsp; Arm swings
++ [ ] **`20 sec`** &emsp;|&emsp; Bent over twist
++ [ ] **`20 sec`** &emsp;|&emsp; Big arm circles
++ [ ] **`20 sec`** &emsp;|&emsp; Forward leg swings
++ [ ] **`20 sec`** &emsp;|&emsp; Hip circles
++ [ ] **`20 sec`** &emsp;|&emsp; Knee circles
++ [ ] **`20 sec`** &emsp;|&emsp; Lateral leg swings
++ [ ] **`20 sec`** &emsp;|&emsp; Neck rolls
++ [ ] **`20 sec`** &emsp;|&emsp; Shoulder rolls
++ [ ] **`20 sec`** &emsp;|&emsp; Wrist circles
 
-### :muscle: Arms (Pull)
+> #### :muscle: [Upper body][upper-stretch]
 
-+ [ ] **``** &emsp;|&emsp; Pull-up
-+ [ ] **``** &emsp;|&emsp; Horizontal pull-up
-+ [ ] **``** &emsp;|&emsp; Chin-up
-+ [ ] **``** &emsp;|&emsp; Muscle-up
-+ [ ] **``** &emsp;|&emsp; Commando pull-up
++ [ ] **`20 sec`** &emsp;|&emsp; Bicep stretch
++ [ ] **`20 sec`** &emsp;|&emsp; Chest stretch
++ [ ] **`20 sec`** &emsp;|&emsp; Kneck strecth
++ [ ] **`20 sec`** &emsp;|&emsp; Shoulder stretch
++ [ ] **`20 sec`** &emsp;|&emsp; Tricep stretch
++ [ ] **`20 sec`** &emsp;|&emsp; Upper back stretch
++ [ ] **`20 sec`** &emsp;|&emsp; Wrist stretch
 
-### :chocolate_bar: Abs
+> #### :leg: [Lower body][lower-stretch]
 
-+ [ ] **``** &emsp;|&emsp; Ab
-+ [ ] **``** &emsp;|&emsp; Hollow extension to cannonball
-+ [ ] **``** &emsp;|&emsp; Knee to elbow
-+ [ ] **``** &emsp;|&emsp; Side jackknife
-+ [ ] **``** &emsp;|&emsp; Back extension
++ [ ] **`20 sec`** &emsp;|&emsp; Calf stretch
++ [ ] **`20 sec`** &emsp;|&emsp; Glute stretch
++ [ ] **`20 sec`** &emsp;|&emsp; Harmstring stretch
++ [ ] **`20 sec`** &emsp;|&emsp; Hip flexor stretch
++ [ ] **`20 sec`** &emsp;|&emsp; Inner thigh stretch
++ [ ] **`20 sec`** &emsp;|&emsp; Outer thigh stretch
++ [ ] **`20 sec`** &emsp;|&emsp; Quad stretch
 
-[home]: ../workout.md
-[legendary-crawling]: https://www.youtube.com/watch?v=ilKXs2R7F7k
+> #### :shield: [Core][core-stretch]
+
++ [ ] **`20 sec`** &emsp;|&emsp; Abdominal stretch
++ [ ] **`20 sec`** &emsp;|&emsp; Back stretch
++ [ ] **`20 sec`** &emsp;|&emsp; Lower back stretch
++ [ ] **`20 sec`** &emsp;|&emsp; Obliques stretch
+
+> #### :lotus_position: [Yoga][yoga-stretch]
+
++ [ ] **`20 sec`** &emsp;|&emsp; Bridge pose
++ [ ] **`20 sec`** &emsp;|&emsp; Child's pose
++ [ ] **`20 sec`** &emsp;|&emsp; Clasp hand forward fold
++ [ ] **`20 sec`** &emsp;|&emsp; Crescent lunge pose
++ [ ] **`20 sec`** &emsp;|&emsp; Downward facing dog
++ [ ] **`20 sec`** &emsp;|&emsp; Extended puppy pose
++ [ ] **`20 sec`** &emsp;|&emsp; Hero pose
++ [ ] **`20 sec`** &emsp;|&emsp; High lunge pose
++ [ ] **`20 sec`** &emsp;|&emsp; Low lunge pose
++ [ ] **`20 sec`** &emsp;|&emsp; Seated side bend
++ [ ] **`20 sec`** &emsp;|&emsp; Seated spinal twist
++ [ ] **`20 sec`** &emsp;|&emsp; Standing forward bend
++ [ ] **`20 sec`** &emsp;|&emsp; Supine spinal twist
++ [ ] **`20 sec`** &emsp;|&emsp; Wide Angle Seated Forward Bend Pose
++ [ ] **`20 sec`** &emsp;|&emsp; Wind release pose
+
+### Webgraphy
+
+1. Spotebi. (2023). Exercise guide. SPOTEBI: FITNESS & NUTRITION. <https://www.spotebi.com/exercise-guide/>.
+
+[home]: ../training.md
+
 [fun-crawling]: https://redefiningstrength.com/crawling-exercises-21-fun-crawls-to-include-in-your-workouts/
+[legendary-crawling]: https://www.youtube.com/watch?v=ilKXs2R7F7k
+[spider-crawl]: https://www.youtube.com/watch?v=_K7rv_vFOWM
+
+[core-stretch]: https://www.spotebi.com/workout-routines/core-static-stretching-exercises/
+[dynamic-stretch]: https://www.spotebi.com/workout-routines/flexibility-exercises-dynamic-stretching-routine-for-women/
+[lower-stretch]: https://www.spotebi.com/workout-routines/lower-body-stretching-routine/
+[upper-stretch]: https://www.spotebi.com/workout-routines/upper-body-stretching-exercises/
+[yoga-stretch]: https://www.spotebi.com/yoga-sequences/full-body-stretch/

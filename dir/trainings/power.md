@@ -1,5 +1,11 @@
 # [:back:][home] $\textsf{\color{orange}{POWER}}$
 
+|Phase     |Velocity|Tempo (s)|
+|:--------:|:------:|:-------:|
+|Concentric|Fast    |0        |
+|End       |Zero    |2        |
+|Eccentric |Slow    |3        |
+
 ## Parameters
 
 ```plaintext
@@ -25,9 +31,9 @@ Time: (0.75, 1.00)
 > **Warning**  
 > Perform **dynamic stretching** before warm-up\.
 
-### :running: Exercise
+### :sweat_drops: Work-out
 
-> #### :leg: Legs
+> #### :leg: Lower body
 
 + [ ] **`03 ⨉ 08 - 10`** &emsp;|&emsp; Jump lunge
 + [ ] **`03 ⨉ 08 - 10`** &emsp;|&emsp; Knee to chest hop
@@ -35,7 +41,7 @@ Time: (0.75, 1.00)
 + [ ] **`03 ⨉ 05 - 08`** &emsp;|&emsp; Jump squat
 + [ ] _**`02 ⨉ 05 - 08`** &emsp;|&emsp; Lateral lunge_
 
-> #### :muscle: Arms (Push)
+> #### :muscle: Upper body (push)
 
 + [ ] **`03 ⨉ 05 - 08`** &emsp;|&emsp; Clapping push-up
 + [ ] **`03 ⨉ 05 - 08`** &emsp;|&emsp; Hindu push-up
@@ -43,7 +49,7 @@ Time: (0.75, 1.00)
 + [ ] **`03 ⨉ 05 - 08`** &emsp;|&emsp; Wall tricep extension
 + [ ] _**`02 ⨉ 05 - 08`** &emsp;|&emsp; T push-up_
 
-> #### :muscle: Arms (Pull)
+> #### :muscle: Upper body (pull)
 
 + [ ] **`03 ⨉ 03 - 05`** &emsp;|&emsp; Pull-up
 + [ ] **`03 ⨉ 03 - 05`** &emsp;|&emsp; Horizontal pull-up
@@ -51,9 +57,9 @@ Time: (0.75, 1.00)
 + [ ] **`03 ⨉ 03 - 05`** &emsp;|&emsp; Muscle-up
 + [ ] _**`02 ⨉ 03 - 05`** &emsp;|&emsp; Commando pull-up_
 
-> #### :chocolate_bar: Abs
+> #### :shield: Core
 
-+ [ ] **`03 ⨉ 08 - 10`** &emsp;|&emsp; Ab
++ [ ] **`03 ⨉ 08 - 10`** &emsp;|&emsp; Abdominal
 + [ ] **`03 ⨉ 08 - 10`** &emsp;|&emsp; Hollow extension to cannonball
 + [ ] **`03 ⨉ 15 - 20`** &emsp;|&emsp; Knee to elbow
 + [ ] **`03 ⨉ 08 - 10`** &emsp;|&emsp; Side jackknife
@@ -63,7 +69,7 @@ Time: (0.75, 1.00)
 
 + [ ] [**`Tabata`**][definition] &emsp;|&emsp; High knees jump rope
 
-> #### :zap: Challenge
+> #### :triangular_flag_on_post: Challenge
 
 + [ ] **`50 rep`** &emsp;|&emsp; Burpee
 
@@ -74,5 +80,5 @@ Time: (0.75, 1.00)
 > **Warning**  
 > Perform **static stretching** after cool-down\.
 
-[home]: ../workout.md
+[home]: ../training.md
 [definition]: ../definitions.md

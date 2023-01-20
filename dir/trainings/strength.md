@@ -1,5 +1,11 @@
 # [:back:][home] $\textsf{\color{orange}{STRENGTH}}$
 
+|Phase     |Velocity|Tempo (s)|
+|:--------:|:------:|:-------:|
+|Concentric|Slow    |2        |
+|End       |Cons    |0        |
+|Eccentric |Slow    |2        |
+
 ## Parameters
 
 ```plaintext
@@ -15,7 +21,7 @@ Time: (1.00, 2.00)
 
 ## Training
 
-### :sweat_drops: Warm-up
+### :fire: Warm-up
 
 + [ ] **`50 rep`** &emsp;|&emsp; Jumping Jack
 + [ ] **`50 rep`** &emsp;|&emsp; Mountain climber
@@ -25,7 +31,7 @@ Time: (1.00, 2.00)
 > **Warning**  
 > Perform **dynamic stretching** before warm-up\.
 
-### :running: Exercise
+### :sweat_drops: Exercise
 
 > #### :leg: Legs
 
@@ -51,19 +57,19 @@ Time: (1.00, 2.00)
 + [ ] **`03 ⨉ 03 - 05`** &emsp;|&emsp; Negative pull-up
 + [ ] _**`02 ⨉ 03 - 05`** &emsp;|&emsp; Narrow grip pull-up_
 
-> #### :chocolate_bar: Abs
+> #### :shield: Abs
 
-+ [ ] **`03 ⨉ 08 - 10`** &emsp;|&emsp; Ab
++ [ ] **`03 ⨉ 08 - 10`** &emsp;|&emsp; Abdominal
 + [ ] **`03 ⨉ 08 - 10`** &emsp;|&emsp; V-up
 + [ ] **`03 ⨉ 10 - 15`** &emsp;|&emsp; Bicycle crunch
 + [ ] **`03 ⨉ 05 - 08`** &emsp;|&emsp; Superman push-up
 + [ ] _**`02 ⨉ 08 - 10`** &emsp;|&emsp; Superman ab_
 
-> #### :fire: [HIIT][definition]
+> #### :stopwatch: [HIIT][definition]
 
 + [ ] [**`Tabata`**][definition] &emsp;|&emsp; Jumping rope
 
-> #### :zap: Challenge
+> #### :triangular_flag_on_post: Challenge
 
 + [ ] **`25 rep`** &emsp;|&emsp; Squat
 + [ ] **`12 rep`** &emsp;|&emsp; Push-up
@@ -83,5 +89,5 @@ Time: (1.00, 2.00)
 
 _**sup**_: superset, 10 or 12 repetitions of two consecutive exercises (without rest in between)\.
 
-[home]: ../workout.md
+[home]: ../training.md
 [definition]: ../definitions.md

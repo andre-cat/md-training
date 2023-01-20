@@ -2,4 +2,4 @@
 
 Markdown practice with physical training routines to practice GitHub Flavored Markdown.
 
-**Start [here](dir/workout.md)!!!**:boom:
+**Start [here](dir/training.md)!!!**:boom:
