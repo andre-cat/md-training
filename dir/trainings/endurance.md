@@ -1,25 +1,25 @@
-# [:back:][home] $\textsf{\color{orange}{ENDURANCE}}$
+# [:arrow_left:][prev] $\textsf{\color{orange}{ENDURANCE}}$ [:arrow_right:][next]
 
 |Phase     |Velocity|Tempo (s)|
 |:--------:|:------:|:-------:|
-|Concentric|Slow    |1        |
-|End       |Cons    |0        |
-|Eccentric |Slow    |1        |
+|Concentric|Slow    |0        |
+|End       |Cons    |1        |
+|Eccentric |Slow    |2        |
 
-## Parameters
+## [Parameters](../training.md#parameters)
 
 ```plaintext
 Load: M - 1
 Reps: 10 - 12
 Rest: 01
 Sche: 02
-Time: (30, 60)
+Time: (30 sec, 60 sec)
 ```
 
 > **Note**  
 > If you forgot the meaning of any parameter see the [training page][home] for more information\.
 
-## Training
+## Workout
 
 ### :fire: Warm-up
 
@@ -59,9 +59,9 @@ Time: (30, 60)
 + [ ] **`02 sup`** &emsp;|&emsp; V with rotation / Plank
 + [ ] **`01 sup`** &emsp;|&emsp; Sitting punch / Flutter kick
 
-> #### :stopwatch: [HIIT][definition]
+> #### :stopwatch: [HIIT][defi]
 
-+ [ ] [**`Tabata`**][definition] &emsp;|&emsp; Jumping rope
++ [ ] [**`Tabata`**][defi] &emsp;|&emsp; Jumping rope
 
 > #### :triangular_flag_on_post: Challenge
 
@@ -76,13 +76,15 @@ Time: (30, 60)
 > **Warning**  
 > Perform **static stretching** after cool-down\.
 
----
-
-### Footnotes
+## Footnotes
 
 _**sup**_: superset, 10 or 12 repetitions of two consecutive exercises (without rest in between)\.
 
-[home]: ../training.md
-[definition]: ../definitions.md
+---
 
-## :soon: &#8203;
+[![Man's abdominals](../../src/six_pack_little.svg "six-pack")][home]
+
+[defi]: ../definitions.md
+[home]: ../training.md
+[next]: ../trainings/strength.md
+[prev]: ../training.md

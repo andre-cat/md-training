@@ -1,10 +1,10 @@
-# $\textsf{\color{orange}{TRAINING}}$
+# ![Man's abdominals](../src/six_pack.svg "six-pack") $\textsf{\color{orange}{TRAINING}}$
 
 ## Plan
 
-The training plan is oriented to avoid specialization, comfort and energy efficiency and aims to develop the physical qualities of **endurance**, **strength**, **power** and **flexibility** over 4 training modules.
+The training plan is oriented to avoid specialization, comfort and energy efficiency and aims to develop the physical qualities of **endurance**, **strength**, **power** and **flexibility** over 10 schedules.
 
-To achieve this, in the plan the module (or type of training) changes every few schedules and ends with the mixed training module.
+To achieve this, it is proposed to execute a different training (focused on a particular physical quality) every 2 schedules and to finish with a mixed training of 4 schedules.
 
 ```mermaid
 ---
@@ -40,26 +40,26 @@ flowchart LR
 
 ## Parameters
 
-The nature of the trainings differ in the following factors:
+The nature of the trainings differs in the following factors:
 
 + **`LOAD:`** \(or intensity\) the number of difficulty of the exercises. **M** for the maximum intensity \([How is it measured?](none.md)\)\.
 + **`REPS:`** \(repetitions[^rep] or volume\) the number of times one completes an exercise.
 + **`REST:`** Days of rest that _should_ be taken per muscle group \(**upper body** and **lower body**\)\.
-+ **`SCHE:`** \(or schedules\) number of schedules to be completed by type of training\.
-+ **`TIME:`** \(or time of break\) a tuple formed by the rest between sets and the rest between exercises in seconds[^sec]\.
++ **`SCHE:`** \(or schedules\) number of schedules to be completed by training\.
++ **`TIME:`** \(or time of break\) a tuple formed by the rest between sets and the rest between exercises in seconds[^sec] or minutes [^min]\.
 + **`VELO:`** \(or velocity\) speed of execution of the exercises.
 
 ## Schedule
 
-Each module lasts for the completion of the following schedule 2 or more times.
+Each training lasts for the completion of the following schedule 2 or more times.
 
 |D1   |D2      |D3         |D4   |D5      |D6         |D7         |D8                       |D9      |
 |:---:|:------:|:---------:|:---:|:------:|:---------:|:---------:|:-----------------------:|:------:|
 |:leg:|:muscle:|:palm_tree:|:leg:|:muscle:|:palm_tree:|:stopwatch:|:triangular_flag_on_post:|:shield:|
 
-Each emoji specifies a different training day:
+Each emoji specifies a different workout day:
 
-|TRAINING DAY    |EMOJI                    |
+|DAY             |EMOJI                    |
 |:---------------|:-----------------------:|
 |Challenge day   |:triangular_flag_on_post:|
 |Core day        |:shield:                 |
@@ -70,21 +70,18 @@ Each emoji specifies a different training day:
 |Upper body day  |:muscle:                 |
 
 > **Note**  
-> Since nowhere in this schedule is [flexibility training](none.md) specified, it is recommended to incorporate it every callenge or [HIIT][definitions] day:
+> Since nowhere in the plan is the [flexibility training](none.md) specified, it is recommended to incorporate a session every [HIIT][defi] day:
 >
-> |:stopwatch:|:triangular_flag_on_post::octopus:|
-> |-|-|
->
-> |:stopwatch::octopus:|:triangular_flag_on_post:|
-> |-|-|
+> |:stopwatch::octopus:|
+> |--------------------|
 
 ## Sequence
 
-A training session \(or training day\) always consists of the same sequence: first, warm-up; second, workout; third, cool-down\. Graphically:
+A workout session always consists of the same sequence: first, warm-up; second, workout; third, cool-down\. Graphically:
 
 > ### :one::fire: &rarr; :two::sweat_drops: &rarr; :three::snowflake: &#8203;
 >
->> _Sequence of all training sessions._
+>> _Sequence of all workout sessions._
 
 ## Notes
 
@@ -92,7 +89,7 @@ A training session \(or training day\) always consists of the same sequence: fir
 
 > **\[sets\]** &times; **\[minimum repetitions\] - \[maximum repetitions\]**  
 > or  
-> **\[sets\]** &times; **\[time in seconds or minutes[^min]**\].
+> **\[sets\]** &times; **\[time in seconds or minutes\]**.
 
 + When no exercise in training is a time exercise, the word ~~rep~~ is deleted
 + The last exercises are always _optional_.
@@ -125,11 +122,11 @@ A training session \(or training day\) always consists of the same sequence: fir
 
 4. ### [**`Mixed`**](none.md)
 
-    > All modules in one\.
+    > A mix of endurance, strength and power trainings\.
 
 5. ### [**`Flexibility`**](trainings/flexibility.md)
 
-jkk
+   > Suggested exercises for flexibility training\.
 
 [^min]: Abbreviated as "min"\.
 
@@ -137,4 +134,4 @@ jkk
 
 [^sec]: Abbreviated as "sec"\.
 
-[definitions]: definitions.md
+[defi]: definitions.md

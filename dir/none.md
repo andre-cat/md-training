@@ -1,1 +1,1 @@
-# [:back:](training.md) There is nothing here :robot: &#8203;
+# [:back:](training.md) There is nothing here; run. :running: &#8203;

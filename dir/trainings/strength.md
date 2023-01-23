@@ -1,9 +1,9 @@
-# [:back:][home] $\textsf{\color{orange}{STRENGTH}}$
+# [:arrow_left:][prev] $\textsf{\color{orange}{STRENGTH}}$ [:arrow_right:][next]
 
 |Phase     |Velocity|Tempo (s)|
 |:--------:|:------:|:-------:|
 |Concentric|Slow    |2        |
-|End       |Cons    |0        |
+|End       |Cons    |1        |
 |Eccentric |Slow    |2        |
 
 ## Parameters
@@ -19,7 +19,7 @@ Time: (1.00, 2.00)
 > **Note**  
 > If you forgot the meaning of any parameter see [workout page][home] for more information\.
 
-## Training
+## Workout
 
 ### :fire: Warm-up
 
@@ -36,7 +36,7 @@ Time: (1.00, 2.00)
 > #### :leg: Legs
 
 + [ ] **`03 ⨉ 08 - 10`** &emsp;|&emsp; Squat
-+ [ ] **`03 ⨉ 08 - 10`** &emsp;|&emsp; Heel rais
++ [ ] **`03 ⨉ 08 - 10`** &emsp;|&emsp; Heel raise
 + [ ] **`03 ⨉ 08 - 10`** &emsp;|&emsp; Bulgarian split squat
 + [ ] **`03 ⨉ 08 - 10`** &emsp;|&emsp; Lunge
 + [ ] _**`02 ⨉ 08 - 10`** &emsp;|&emsp; Single-leg glute bridge_
@@ -65,9 +65,9 @@ Time: (1.00, 2.00)
 + [ ] **`03 ⨉ 05 - 08`** &emsp;|&emsp; Superman push-up
 + [ ] _**`02 ⨉ 08 - 10`** &emsp;|&emsp; Superman ab_
 
-> #### :stopwatch: [HIIT][definition]
+> #### :stopwatch: [HIIT][defi]
 
-+ [ ] [**`Tabata`**][definition] &emsp;|&emsp; Jumping rope
++ [ ] [**`Tabata`**][defi] &emsp;|&emsp; Jumping rope
 
 > #### :triangular_flag_on_post: Challenge
 
@@ -83,11 +83,15 @@ Time: (1.00, 2.00)
 > **Warning**  
 > Perform **static stretching** after cool-down\.
 
----
-
-### Footnotes
+## Footnotes
 
 _**sup**_: superset, 10 or 12 repetitions of two consecutive exercises (without rest in between)\.
 
+---
+
+[![Man's abdominals](../../src/six_pack_little.svg "six-pack")][home]
+
+[defi]: ../definitions.md
 [home]: ../training.md
-[definition]: ../definitions.md
+[next]: ../trainings/power.md
+[prev]: ../trainings/endurance.md

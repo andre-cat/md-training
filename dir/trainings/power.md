@@ -1,4 +1,4 @@
-# [:back:][home] $\textsf{\color{orange}{POWER}}$
+# [:arrow_left:][prev] $\textsf{\color{orange}{POWER}}$ [:arrow_right:][next]
 
 |Phase     |Velocity|Tempo (s)|
 |:--------:|:------:|:-------:|
@@ -19,7 +19,7 @@ Time: (0.75, 1.00)
 > **Note**  
 > If you forgot the meaning of any parameter see [workout page][home] for more information\.
 
-## Training
+## Workout
 
 ### :sweat_drops: Warm-up
 
@@ -65,9 +65,9 @@ Time: (0.75, 1.00)
 + [ ] **`03 ⨉ 08 - 10`** &emsp;|&emsp; Side jackknife
 + [ ] _**`02 ⨉ 08 - 10`** &emsp;|&emsp; Back extension_
 
-> #### :fire: [HIIT][definition]
+> #### :fire: [HIIT][defi]
 
-+ [ ] [**`Tabata`**][definition] &emsp;|&emsp; High knees jump rope
++ [ ] [**`Tabata`**][defi] &emsp;|&emsp; High knees jump rope
 
 > #### :triangular_flag_on_post: Challenge
 
@@ -80,5 +80,11 @@ Time: (0.75, 1.00)
 > **Warning**  
 > Perform **static stretching** after cool-down\.
 
+---
+
+[![Man's abdominals](../../src/six_pack_little.svg "six-pack")][home]
+
+[defi]: ../definitions.md
 [home]: ../training.md
-[definition]: ../definitions.md
+[next]: ../trainings/mixed.md
+[prev]: ../trainings/strength.md

@@ -1,6 +1,6 @@
 # [:back:][home] $\textsf{\color{orange}{FLEXIBILITY}}$
 
-## Training
+## Workout
 
 ### :fire: Warm-up
 
@@ -47,7 +47,7 @@
 
 + [ ] **`20 sec`** &emsp;|&emsp; Bicep stretch
 + [ ] **`20 sec`** &emsp;|&emsp; Chest stretch
-+ [ ] **`20 sec`** &emsp;|&emsp; Kneck strecth
++ [ ] **`20 sec`** &emsp;|&emsp; Neck stretch
 + [ ] **`20 sec`** &emsp;|&emsp; Shoulder stretch
 + [ ] **`20 sec`** &emsp;|&emsp; Tricep stretch
 + [ ] **`20 sec`** &emsp;|&emsp; Upper back stretch
@@ -57,7 +57,7 @@
 
 + [ ] **`20 sec`** &emsp;|&emsp; Calf stretch
 + [ ] **`20 sec`** &emsp;|&emsp; Glute stretch
-+ [ ] **`20 sec`** &emsp;|&emsp; Harmstring stretch
++ [ ] **`20 sec`** &emsp;|&emsp; Hamstrings stretch
 + [ ] **`20 sec`** &emsp;|&emsp; Hip flexor stretch
 + [ ] **`20 sec`** &emsp;|&emsp; Inner thigh stretch
 + [ ] **`20 sec`** &emsp;|&emsp; Outer thigh stretch
@@ -88,18 +88,20 @@
 + [ ] **`20 sec`** &emsp;|&emsp; Wide Angle Seated Forward Bend Pose
 + [ ] **`20 sec`** &emsp;|&emsp; Wind release pose
 
-### Webgraphy
+## Webgraphy
 
 1. Spotebi. (2023). Exercise guide. SPOTEBI: FITNESS & NUTRITION. <https://www.spotebi.com/exercise-guide/>.
 
-[home]: ../training.md
+---
 
-[fun-crawling]: https://redefiningstrength.com/crawling-exercises-21-fun-crawls-to-include-in-your-workouts/
-[legendary-crawling]: https://www.youtube.com/watch?v=ilKXs2R7F7k
-[spider-crawl]: https://www.youtube.com/watch?v=_K7rv_vFOWM
+[![Man's abdominals](../../src/six_pack_little.svg "six-pack")][home]
 
 [core-stretch]: https://www.spotebi.com/workout-routines/core-static-stretching-exercises/
 [dynamic-stretch]: https://www.spotebi.com/workout-routines/flexibility-exercises-dynamic-stretching-routine-for-women/
+[fun-crawling]: https://redefiningstrength.com/crawling-exercises-21-fun-crawls-to-include-in-your-workouts/
+[home]: ../training.md
+[legendary-crawling]: https://www.youtube.com/watch?v=ilKXs2R7F7k
 [lower-stretch]: https://www.spotebi.com/workout-routines/lower-body-stretching-routine/
+[spider-crawl]: https://www.youtube.com/watch?v=_K7rv_vFOWM
 [upper-stretch]: https://www.spotebi.com/workout-routines/upper-body-stretching-exercises/
 [yoga-stretch]: https://www.spotebi.com/yoga-sequences/full-body-stretch/
