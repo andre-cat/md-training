@@ -1,23 +1,32 @@
 # [:arrow_left:][prev] $\textsf{\color{orange}{POWER}}$ [:arrow_right:][next]
 
-|Phase     |Velocity|Tempo (s)|
-|:--------:|:------:|:-------:|
-|Concentric|Fast    |0        |
-|End       |Zero    |2        |
-|Eccentric |Slow    |3        |
+Tempo: fast or explosive
 
-## Parameters
+For fast:
+
+|Phase                  |Velocity|Tempo (s)|
+|:---------------------:|:------:|:-------:|
+|[con](../glossary.md#c)|Fast    |0        |
+|[iso](../glossary.md#i)|Stop    |0        |
+|[ecc](../glossary.md#e)|Slow    |0        |
+
+For explosive:
+
+|Phase                  |Velocity|Tempo (s)|
+|:---------------------:|:------:|:-------:|
+|[con](../glossary.md#c)|Fast    |0        |
+|[iso](../glossary.md#i)|Stop    |2        |
+|[ecc](../glossary.md#e)|Slow    |3        |
+
+## [Parameters](../training.md#parameters)
 
 ```plaintext
-Load: M
+Load: MAX
 Reps: 08 - 10
 Rest: 01 - 02
 Sche: 02
 Time: (0.75, 1.00)
 ```
-
-> **Note**  
-> If you forgot the meaning of any parameter see [workout page][home] for more information\.
 
 ## Workout
 
@@ -65,9 +74,9 @@ Time: (0.75, 1.00)
 + [ ] **`03 ⨉ 08 - 10`** &emsp;|&emsp; Side jackknife
 + [ ] _**`02 ⨉ 08 - 10`** &emsp;|&emsp; Back extension_
 
-> #### :fire: [HIIT][defi]
+> #### :fire: [HIIT][abcd]
 
-+ [ ] [**`Tabata`**][defi] &emsp;|&emsp; High knees jump rope
++ [ ] [**`Tabata`**][abcd] &emsp;|&emsp; High knees jump rope
 
 > #### :triangular_flag_on_post: Challenge
 
@@ -82,9 +91,8 @@ Time: (0.75, 1.00)
 
 ---
 
-[![Man's abdominals](../../src/six_pack_little.svg "six-pack")][home]
+[![Man's abdominals](../../src/six_pack_little.svg)](../training.md "Training")
 
-[defi]: ../definitions.md
-[home]: ../training.md
-[next]: ../trainings/mixed.md
-[prev]: ../trainings/strength.md
+[abcd]: ../glossary.md "Glossary"
+[next]: ../trainings/mixed.md "Mixed training"
+[prev]: ../trainings/strength.md "Strength training"

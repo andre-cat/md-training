@@ -1,5 +1,5 @@
-# $\textsf{\color{orange}{MD-WORKOUT}}$
+# $\textsf{\color{orange}{MD-BODY-TRAINING}}$
 
-Markdown practice with physical training routines to practice GitHub Flavored Markdown.
+Markdown practice with physical training routines to practice GitHub Flavored Markdown\.
 
-**Start [here](dir/training.md)!!!**:point_left:
+**Start [here](dir/training.md)!!!** :point_left:

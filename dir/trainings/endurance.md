@@ -1,23 +1,32 @@
 # [:arrow_left:][prev] $\textsf{\color{orange}{ENDURANCE}}$ [:arrow_right:][next]
 
-|Phase     |Velocity|Tempo (s)|
-|:--------:|:------:|:-------:|
-|Concentric|Slow    |0        |
-|End       |Cons    |1        |
-|Eccentric |Slow    |2        |
+Tempo: moderate or normal
+
+For moderate:
+
+|Phase                  |Velocity|Tempo (s)|
+|:---------------------:|:------:|:-------:|
+|[con](../glossary.md#c)|Fast    |0        |
+|[iso](../glossary.md#i)|Stop    |1        |
+|[ecc](../glossary.md#e)|Slow    |2        |
+
+For normal:
+
+|Phase                  |Velocity|Tempo (s)|
+|:---------------------:|:------:|:-------:|
+|[con](../glossary.md#c)|Fast    |0        |
+|[iso](../glossary.md#i)|Stop    |0        |
+|[ecc](../glossary.md#e)|Slow    |2        |
 
 ## [Parameters](../training.md#parameters)
 
 ```plaintext
-Load: M - 1
+Load: MAX - 1
 Reps: 10 - 12
 Rest: 01
 Sche: 02
 Time: (30 sec, 60 sec)
 ```
-
-> **Note**  
-> If you forgot the meaning of any parameter see the [training page][home] for more information\.
 
 ## Workout
 
@@ -59,9 +68,9 @@ Time: (30 sec, 60 sec)
 + [ ] **`02 sup`** &emsp;|&emsp; V with rotation / Plank
 + [ ] **`01 sup`** &emsp;|&emsp; Sitting punch / Flutter kick
 
-> #### :stopwatch: [HIIT][defi]
+> #### :stopwatch: [HIIT][abcd]
 
-+ [ ] [**`Tabata`**][defi] &emsp;|&emsp; Jumping rope
++ [ ] [**`Tabata`**][abcd] &emsp;|&emsp; Jumping rope
 
 > #### :triangular_flag_on_post: Challenge
 
@@ -82,9 +91,8 @@ _**sup**_: superset, 10 or 12 repetitions of two consecutive exercises (without 
 
 ---
 
-[![Man's abdominals](../../src/six_pack_little.svg "six-pack")][home]
+[![Man's abdominals](../../src/six_pack_little.svg)](../training.md "Training")
 
-[defi]: ../definitions.md
-[home]: ../training.md
-[next]: ../trainings/strength.md
-[prev]: ../training.md
+[abcd]: ../glossary.md "Glossary"
+[next]: ../trainings/strength.md "Strength"
+[prev]: ../training.md "Training"

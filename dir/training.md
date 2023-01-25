@@ -1,10 +1,10 @@
-# ![Man's abdominals](../src/six_pack.svg "six-pack") $\textsf{\color{orange}{TRAINING}}$
+# ![Man's abdominals](../src/six_pack.svg) $\textsf{\color{orange}{TRAINING}}$
 
 ## Plan
 
-The training plan is oriented to avoid specialization, comfort and energy efficiency and aims to develop the physical qualities of **endurance**, **strength**, **power** and **flexibility** over 10 schedules.
+The training plan is oriented to avoid specialization, comfort and energy efficiency and aims to develop the physical qualities of **endurance**, **strength**, **power** and **flexibility** over 10 schedules\.
 
-To achieve this, it is proposed to execute a different training (focused on a particular physical quality) every 2 schedules and to finish with a mixed training of 4 schedules.
+To achieve this, it is proposed to execute a different training \(focused on a particular physical quality\) every 2 schedules and to finish with a mixed training of 4 schedules\.
 
 ```mermaid
 ---
@@ -14,14 +14,10 @@ title: TRAINING PLAN FLOWCHART
 %%{
     init: {
         "fontFamily": "lucida console",
-        "logLevel": "fatal",
         "flowchart": {
             "htmlLabels": true,
             "curve": "linear"
-        },
-        "sequence": {
-            "mirrorActors": false
-        },
+        }
     }
 }%%
 
@@ -30,6 +26,7 @@ flowchart LR
     B[STRENGTH]
     C[POWER]
     D[MIXED]
+    E(FLEXIBILITY)
 
     A --2 sche--> B
     B --2 sche--> C
@@ -42,16 +39,16 @@ flowchart LR
 
 The nature of the trainings differs in the following factors:
 
-+ **`LOAD:`** \(or intensity\) the number of difficulty of the exercises. **M** for the maximum intensity \([How is it measured?](none.md)\)\.
-+ **`REPS:`** \(repetitions[^rep] or volume\) the number of times one completes an exercise.
++ **`LOAD:`** \(or intensity\) the number of [difficulty of the exercises](parameters/intensity.md#workout "How it is measured?")\. **MAX** for the maximum intensity\.
++ **`REPS:`** \(repetitions[^rep] or volume\) the number of times one completes an exercise\.
 + **`REST:`** Days of rest that _should_ be taken per muscle group \(**upper body** and **lower body**\)\.
 + **`SCHE:`** \(or schedules\) number of schedules to be completed by training\.
-+ **`TIME:`** \(or time of break\) a tuple formed by the rest between sets and the rest between exercises in seconds[^sec] or minutes [^min]\.
-+ **`VELO:`** \(or velocity\) speed of execution of the exercises.
++ **`TIME:`** \(or time of break\) a tuple formed by the rest between sets and the rest between exercises in seconds[^sec] or minutes[^min]\.
++ **`VELO:`** \(or velocity\) speed of execution of the exercises\.
 
 ## Schedule
 
-Each training lasts for the completion of the following schedule 2 or more times.
+Each training lasts for the completion of the following schedule 2 or more times\.
 
 |D1   |D2      |D3         |D4   |D5      |D6         |D7         |D8                       |D9      |
 |:---:|:------:|:---------:|:---:|:------:|:---------:|:---------:|:-----------------------:|:------:|
@@ -70,7 +67,7 @@ Each emoji specifies a different workout day:
 |Upper body day  |:muscle:                 |
 
 > **Note**  
-> Since nowhere in the plan is the [flexibility training](none.md) specified, it is recommended to incorporate a session every [HIIT][defi] day:
+> Since nowhere in the plan is the [flexibility training](trainings/flexibility.md) specified, it is recommended to incorporate a session every [HIIT][abcd] day:
 >
 > |:stopwatch::octopus:|
 > |--------------------|
@@ -85,14 +82,14 @@ A workout session always consists of the same sequence: first, warm-up; second, 
 
 ## Notes
 
-+ The following nomenclature is used to express the number of sets and repetitions.
++ The following nomenclature is used to express the number of sets and repetitions\.
 
 > **\[sets\]** &times; **\[minimum repetitions\] - \[maximum repetitions\]**  
 > or  
 > **\[sets\]** &times; **\[time in seconds or minutes\]**.
 
 + When no exercise in training is a time exercise, the word ~~rep~~ is deleted
-+ The last exercises are always _optional_.
++ The last exercises are always _optional_\.
 
 ## Trainings
 
@@ -124,9 +121,9 @@ A workout session always consists of the same sequence: first, warm-up; second, 
 
     > A mix of endurance, strength and power trainings\.
 
-5. ### [**`Flexibility`**](trainings/flexibility.md)
+---
 
-   > Suggested exercises for flexibility training\.
+## [:back:][back] [:twisted_rightwards_arrows:][tree] [:capital_abcd:][abcd]
 
 [^min]: Abbreviated as "min"\.
 
@@ -134,4 +131,6 @@ A workout session always consists of the same sequence: first, warm-up; second, 
 
 [^sec]: Abbreviated as "sec"\.
 
-[defi]: definitions.md
+[abcd]: glossary.md "Glossary"
+[back]: ../README.md "ReadMe"
+[tree]: index.md "Index"

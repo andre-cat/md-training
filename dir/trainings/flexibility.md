@@ -1,4 +1,4 @@
-# [:back:][home] $\textsf{\color{orange}{FLEXIBILITY}}$
+# [:back:][back] $\textsf{\color{orange}{FLEXIBILITY}}$
 
 ## Workout
 
@@ -94,14 +94,15 @@
 
 ---
 
-[![Man's abdominals](../../src/six_pack_little.svg "six-pack")][home]
+[![Man's abdominals](../../src/six_pack_little.svg "six-pack")](../training.md "Training")
 
-[core-stretch]: https://www.spotebi.com/workout-routines/core-static-stretching-exercises/
-[dynamic-stretch]: https://www.spotebi.com/workout-routines/flexibility-exercises-dynamic-stretching-routine-for-women/
-[fun-crawling]: https://redefiningstrength.com/crawling-exercises-21-fun-crawls-to-include-in-your-workouts/
-[home]: ../training.md
-[legendary-crawling]: https://www.youtube.com/watch?v=ilKXs2R7F7k
-[lower-stretch]: https://www.spotebi.com/workout-routines/lower-body-stretching-routine/
-[spider-crawl]: https://www.youtube.com/watch?v=_K7rv_vFOWM
-[upper-stretch]: https://www.spotebi.com/workout-routines/upper-body-stretching-exercises/
-[yoga-stretch]: https://www.spotebi.com/yoga-sequences/full-body-stretch/
+[back]: ../training.md "Training"
+
+[core-stretch]: https://www.spotebi.com/workout-routines/core-static-stretching-exercises/ "Core stretch"
+[dynamic-stretch]: https://www.spotebi.com/workout-routines/flexibility-exercises-dynamic-stretching-routine-for-women/ "Dynamic stretch"
+[fun-crawling]: https://redefiningstrength.com/crawling-exercises-21-fun-crawls-to-include-in-your-workouts/ "Fun crawling"
+[legendary-crawling]: https://www.youtube.com/watch?v=ilKXs2R7F7k "Legendary crawling"
+[lower-stretch]: https://www.spotebi.com/workout-routines/lower-body-stretching-routine/ "Lower body stretch"
+[spider-crawl]: https://www.youtube.com/watch?v=_K7rv_vFOWM "Spider crawl"
+[upper-stretch]: https://www.spotebi.com/workout-routines/upper-body-stretching-exercises/ "Upper body stretch"
+[yoga-stretch]: https://www.spotebi.com/yoga-sequences/full-body-stretch/ "Yoga stretch"
