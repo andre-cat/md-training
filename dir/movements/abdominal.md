@@ -1,7 +1,7 @@
-# [:back:][home] <accent>Abdominals</accent>
+# [:back:][back] <accent>Abdominals</accent>
 
-[home]: ../training.md
+`TYPE: CORE`
 
-<style>
-    accent { color: orange; }
-<style>
+[back]: movements.md
+
+[![Man's abdominals](../../src/six_pack_little.svg)](training.md "Home")

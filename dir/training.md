@@ -26,7 +26,6 @@ flowchart LR
     B[STRENGTH]
     C[POWER]
     D[MIXED]
-    E(FLEXIBILITY)
 
     A --2 sche--> B
     B --2 sche--> C
@@ -37,14 +36,14 @@ flowchart LR
 
 ## Parameters
 
-The nature of the trainings differs in the following factors:
+The nature of the trainings differs in the following factors\:
 
-+ **`LOAD:`** \(or intensity\) the number of [difficulty of the exercises](parameters/intensity.md#workout "How it is measured?")\. **MAX** for the maximum intensity\.
-+ **`REPS:`** \(repetitions[^rep] or volume\) the number of times one completes an exercise\.
-+ **`REST:`** Days of rest that _should_ be taken per muscle group \(**upper body** and **lower body**\)\.
-+ **`SCHE:`** \(or schedules\) number of schedules to be completed by training\.
-+ **`TIME:`** \(or time of break\) a tuple formed by the rest between sets and the rest between exercises in seconds[^sec] or minutes[^min]\.
-+ **`VELO:`** \(or velocity\) speed of execution of the exercises\.
++ **`LOAD\:`** \(or intensity [<sup>\[How is it measured?\]</sup>][load]\) the number of difficulty of the exercises\. **MAX** for the maximum intensity\.
++ **`REPS\:`** \(repetitions[^rep] or volume\) the number of times one completes an exercise\.
++ **`REST\:`** Days of rest that _should_ be taken per muscle group \(**upper body** and **lower body**\)\.
++ **`SCHE\:`** \(or schedules\) number of schedules to be completed by training\.
++ **`TIME\:`** \(or time of break\) a tuple formed by the rest between sets and the rest between exercises in seconds[^sec] or minutes[^min]\.
++ **`VELO\:`** \(or velocity\) speed of execution of the exercises\.
 
 ## Schedule
 
@@ -54,7 +53,7 @@ Each training lasts for the completion of the following schedule 2 or more times
 |:---:|:------:|:---------:|:---:|:------:|:---------:|:---------:|:-----------------------:|:------:|
 |:leg:|:muscle:|:palm_tree:|:leg:|:muscle:|:palm_tree:|:stopwatch:|:triangular_flag_on_post:|:shield:|
 
-Each emoji specifies a different workout day:
+Each emoji specifies a different workout day\:
 
 |DAY             |EMOJI                    |
 |:---------------|:-----------------------:|
@@ -67,14 +66,14 @@ Each emoji specifies a different workout day:
 |Upper body day  |:muscle:                 |
 
 > **Note**  
-> Since nowhere in the plan is the [flexibility training](trainings/flexibility.md) specified, it is recommended to incorporate a session every [HIIT][abcd] day:
+> Since nowhere in the schedule is the [flexibility day][flex] specified, it is recommended to incorporate a session every [HIIT](glossary.md#h) day\:
 >
 > |:stopwatch::octopus:|
 > |--------------------|
 
 ## Sequence
 
-A workout session always consists of the same sequence: first, warm-up; second, workout; third, cool-down\. Graphically:
+A workout session \(or day\) always consists of the same sequence\: first, warm-up; second, workout; third, cool-down\. Graphically\:
 
 > ### :one::fire: &rarr; :two::sweat_drops: &rarr; :three::snowflake: &#8203;
 >
@@ -84,46 +83,31 @@ A workout session always consists of the same sequence: first, warm-up; second, 
 
 + The following nomenclature is used to express the number of sets and repetitions\.
 
-> **\[sets\]** &times; **\[minimum repetitions\] - \[maximum repetitions\]**  
+> **\[sets\]** &times; **\[minimum repetitions\] \- \[maximum repetitions\]**  
 > or  
-> **\[sets\]** &times; **\[time in seconds or minutes\]**.
+> **\[sets\]** &times; **\[minimum time \- maximum time\]**.
 
-+ When no exercise in training is a time exercise, the word ~~rep~~ is deleted
-+ The last exercises are always _optional_\.
++ When no exercise in training is a time exercise, the word ~~rep~~ is deleted\.
++ The last exercises with italic emphasis are always _optional_\.
 
-## Trainings
+## [Trainings][trai]
 
-1. ### [**`Endurance`**](trainings/endurance.md)
+> **Warning**  
+> Each time at the beginning of the 10-week plan, the [intensity test][load] must be performed\.
 
-    > load $\scriptsize{\textsf{\color{red}{LOW ↓}}}$  
-    > reps $\scriptsize{\textsf{\color{lime}{HIG ↑}}}$  
-    > rest $\scriptsize{\textsf{\color{red}{LOW ↓}}}$  
-    > time $\scriptsize{\textsf{\color{red}{LOW ↓}}}$  
-    > velo $\scriptsize{\textsf{\color{orange}{MED •}}}$
+See [here][endu] the first training\!
 
-2. ### [**`Strength`**](trainings/strength.md)
+## [Movements][move]
 
-    > load $\scriptsize{\textsf{\color{lime}{HIG ↑}}}$  
-    > reps $\scriptsize{\textsf{\color{red}{LOW ↓}}}$  
-    > rest $\scriptsize{\textsf{\color{lime}{HIG ↑}}}$  
-    > time $\scriptsize{\textsf{\color{lime}{HIG ↑}}}$  
-    > velo $\scriptsize{\textsf{\color{red}{LOW ↓}}}$
+The 5 basic movements from which the other exercises of the program are derived\.
 
-3. ### [**`Power`**](trainings/power.md)
+## [Tests][test]
 
-    > load $\scriptsize{\textsf{\color{orange}{MED •}}}$  
-    > reps $\scriptsize{\textsf{\color{orange}{MED •}}}$  
-    > rest $\scriptsize{\textsf{\color{orange}{MED •}}}$  
-    > time $\scriptsize{\textsf{\color{orange}{MED •}}}$  
-    > velo $\scriptsize{\textsf{\color{lime}{HIG ↑}}}$
-
-4. ### [**`Mixed`**](none.md)
-
-    > A mix of endurance, strength and power trainings\.
+Intensity test and challenges\.
 
 ---
 
-## [:back:][back] [:twisted_rightwards_arrows:][tree] [:capital_abcd:][abcd]
+## [:back:][back] [:twisted_rightwards_arrows:][tree] [:capital_abcd:][abcd] [:soon:][endu]
 
 [^min]: Abbreviated as "min"\.
 
@@ -133,4 +117,10 @@ A workout session always consists of the same sequence: first, warm-up; second, 
 
 [abcd]: glossary.md "Glossary"
 [back]: ../README.md "ReadMe"
+[endu]: trainings/endurance.md "Endurance training"
+[flex]: trainings/flexibility.md "Flexibility training"
+[load]: tests/intensity.md "Intensity test"
+[move]: movements/movements.md "Movements"
+[test]: tests/tests.md "Tests"
+[trai]: trainings/trainings.md "Trainings"
 [tree]: index.md "Index"

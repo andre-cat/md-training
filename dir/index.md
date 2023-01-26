@@ -19,6 +19,6 @@
 
 ---
 
-[![Man's abdominals](../src/six_pack_little.svg)](training.md "Training")
+[![Man's abdominals](../src/six_pack_little.svg)](training.md "Home")
 
 [back]: training.md "Training"
