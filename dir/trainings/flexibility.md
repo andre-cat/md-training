@@ -1,36 +1,36 @@
-# [:back:][back] $\textsf{\color{orange}{FLEXIBILITY}}$
+# [:back:][back] $\color{orange}\textsf{FLEXIBILITY}$
 
 ## Workout
 
 ### :fire: Warm-up
 
 1. Option one:
-    + [ ] **`01 min`** &emsp;\|&emsp; [Alligator crawl][fun-crawling]
-    + [ ] **`01 min`** &emsp;\|&emsp; [Barrel crawl][legendary-crawling]
-    + [ ] **`01 min`** &emsp;\|&emsp; [Bear crawl][fun-crawling]
-    + [ ] **`01 min`** &emsp;\|&emsp; [Circle crawl][legendary-crawling]
-    + [ ] **`01 min`** &emsp;\|&emsp; [Crab crawl][legendary-crawling]
-    + [ ] **`01 min`** &emsp;\|&emsp; [Frog crawl][legendary-crawling]
+    + [ ] **`01 min`** &emsp;\|&emsp; [Alligator crawl][func-url]
+    + [ ] **`01 min`** &emsp;\|&emsp; [Barrel crawl][lege-url]
+    + [ ] **`01 min`** &emsp;\|&emsp; [Bear crawl][func-url]
+    + [ ] **`01 min`** &emsp;\|&emsp; [Circle crawl][lege-url]
+    + [ ] **`01 min`** &emsp;\|&emsp; [Crab crawl][lege-url]
+    + [ ] **`01 min`** &emsp;\|&emsp; [Frog crawl][lege-url]
 
 2. Option two:
-    + [ ] **`01 min`** &emsp;\|&emsp; [Frog kip crawl][legendary-crawling]
-    + [ ] **`01 min`** &emsp;\|&emsp; [Frog roll crawl][legendary-crawling]
-    + [ ] **`01 min`** &emsp;\|&emsp; [Gorilla crawl][fun-crawling]
-    + [ ] **`01 min`** &emsp;\|&emsp; [Ground kong crawl][legendary-crawling]
-    + [ ] **`01 min`** &emsp;\|&emsp; [Inchworms crawl][fun-crawling]
-    + [ ] **`01 min`** &emsp;\|&emsp; [Sideway crawl][fun-crawling]
+    + [ ] **`01 min`** &emsp;\|&emsp; [Frog kip crawl][lege-url]
+    + [ ] **`01 min`** &emsp;\|&emsp; [Frog roll crawl][lege-url]
+    + [ ] **`01 min`** &emsp;\|&emsp; [Gorilla crawl][func-url]
+    + [ ] **`01 min`** &emsp;\|&emsp; [Ground kong crawl][lege-url]
+    + [ ] **`01 min`** &emsp;\|&emsp; [Inchworms crawl][func-url]
+    + [ ] **`01 min`** &emsp;\|&emsp; [Sideway crawl][func-url]
 
 3. Option tree:
-    + [ ] **`01 min`** &emsp;\|&emsp; [Sideway gorilla crawl][fun-crawling]
-    + [ ] **`01 min`** &emsp;\|&emsp; [Sideway plank crawl][fun-crawling]
-    + [ ] **`01 min`** &emsp;\|&emsp; [Soldier crawl][fun-crawling]
-    + [ ] **`01 min`** &emsp;\|&emsp; [Spider crawl][spider-crawl]
-    + [ ] **`01 min`** &emsp;\|&emsp; [Tornado crawl][legendary-crawling]
+    + [ ] **`01 min`** &emsp;\|&emsp; [Sideway gorilla crawl][func-url]
+    + [ ] **`01 min`** &emsp;\|&emsp; [Sideway plank crawl][func-url]
+    + [ ] **`01 min`** &emsp;\|&emsp; [Soldier crawl][func-url]
+    + [ ] **`01 min`** &emsp;\|&emsp; [Spider crawl][spid-url]
+    + [ ] **`01 min`** &emsp;\|&emsp; [Tornado crawl][lege-url]
     + [ ] **`01 min`** &emsp;\|&emsp; Exorcists crawl
 
 ### :sweat_drops: Work-out
 
-> #### :cartwheeling: [Dynamic stretch][dynamic-stretch]
+> #### :cartwheeling: [Dynamic stretch][dyna-url]
 
 + [ ] **`20 sec`** &emsp;\|&emsp; Arm swings
 + [ ] **`20 sec`** &emsp;\|&emsp; Bent over twist
@@ -43,7 +43,7 @@
 + [ ] **`20 sec`** &emsp;\|&emsp; Shoulder rolls
 + [ ] **`20 sec`** &emsp;\|&emsp; Wrist circles
 
-> #### :muscle: [Upper body][upper-stretch]
+> #### :muscle: [Upper body][uppe-url]
 
 + [ ] **`20 sec`** &emsp;\|&emsp; Bicep stretch
 + [ ] **`20 sec`** &emsp;\|&emsp; Chest stretch
@@ -53,7 +53,7 @@
 + [ ] **`20 sec`** &emsp;\|&emsp; Upper back stretch
 + [ ] **`20 sec`** &emsp;\|&emsp; Wrist stretch
 
-> #### :leg: [Lower body][lower-stretch]
+> #### :leg: [Lower body][lowe-url]
 
 + [ ] **`20 sec`** &emsp;\|&emsp; Calf stretch
 + [ ] **`20 sec`** &emsp;\|&emsp; Glute stretch
@@ -63,14 +63,14 @@
 + [ ] **`20 sec`** &emsp;\|&emsp; Outer thigh stretch
 + [ ] **`20 sec`** &emsp;\|&emsp; Quad stretch
 
-> #### :shield: [Core][core-stretch]
+> #### :shield: [Core][core-url]
 
 + [ ] **`20 sec`** &emsp;\|&emsp; Abdominal stretch
 + [ ] **`20 sec`** &emsp;\|&emsp; Back stretch
 + [ ] **`20 sec`** &emsp;\|&emsp; Lower back stretch
 + [ ] **`20 sec`** &emsp;\|&emsp; Obliques stretch
 
-> #### :lotus_position: [Yoga][yoga-stretch]
+> #### :lotus_position: [Yoga][yoga-url]
 
 + [ ] **`20 sec`** &emsp;\|&emsp; Bridge pose
 + [ ] **`20 sec`** &emsp;\|&emsp; Child's pose
@@ -94,15 +94,17 @@
 
 ---
 
-[![Man's abdominals](../../src/six_pack_little.svg)](../training.md "Home")
+[![Man's abdominals](../../src/six_pack_little.svg)](../home.md "Home")
 
+<!-- internal -->
 [back]: trainings.md "Trainings"
 
-[core-stretch]: https://www.spotebi.com/workout-routines/core-static-stretching-exercises/ "Core stretch"
-[dynamic-stretch]: https://www.spotebi.com/workout-routines/flexibility-exercises-dynamic-stretching-routine-for-women/ "Dynamic stretch"
-[fun-crawling]: https://redefiningstrength.com/crawling-exercises-21-fun-crawls-to-include-in-your-workouts/ "Fun crawling"
-[legendary-crawling]: https://www.youtube.com/watch?v=ilKXs2R7F7k "Legendary crawling"
-[lower-stretch]: https://www.spotebi.com/workout-routines/lower-body-stretching-routine/ "Lower body stretch"
-[spider-crawl]: https://www.youtube.com/watch?v=_K7rv_vFOWM "Spider crawl"
-[upper-stretch]: https://www.spotebi.com/workout-routines/upper-body-stretching-exercises/ "Upper body stretch"
-[yoga-stretch]: https://www.spotebi.com/yoga-sequences/full-body-stretch/ "Yoga stretch"
+<!-- external -->
+[core-url]: https://www.spotebi.com/workout-routines/core-static-stretching-exercises/ "Core stretch"
+[dyna-url]: https://www.spotebi.com/workout-routines/flexibility-exercises-dynamic-stretching-routine-for-women/ "Dynamic stretch"
+[func-url]: https://redefiningstrength.com/crawling-exercises-21-fun-crawls-to-include-in-your-workouts/ "Fun crawling"
+[lege-url]: https://www.youtube.com/watch?v=ilKXs2R7F7k "Legendary crawling"
+[lowe-url]: https://www.spotebi.com/workout-routines/lower-body-stretching-routine/ "Lower body stretch"
+[spid-url]: https://www.youtube.com/watch?v=_K7rv_vFOWM "Spider crawl"
+[uppe-url]: https://www.spotebi.com/workout-routines/upper-body-stretching-exercises/ "Upper body stretch"
+[yoga-url]: https://www.spotebi.com/yoga-sequences/full-body-stretch/ "Yoga stretch"

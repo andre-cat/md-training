@@ -1,4 +1,4 @@
-# [:arrow_left:][prev] $\textsf{\color{orange}{ENDURANCE}}$ [:arrow_right:][next]
+# [:arrow_left:][prev] $\color{orange}\textsf{ENDURANCE}$ [:arrow_right:][next]
 
 [`Tempo`](../glossary.md#t)\: moderate or normal
 
@@ -18,7 +18,7 @@ For normal:
 |[iso](../glossary.md#i)|Stop    |0        |
 |[ecc](../glossary.md#e)|Slow    |2        |
 
-## [Parameters](../training.md#parameters)
+## [Parameters](../home.md#parameters)
 
 ```plaintext
 Load: MAX - 1
@@ -91,8 +91,9 @@ _**sup**_\: superset, 10 or 12 repetitions of two consecutive exercises (without
 
 ---
 
-[![Man's abdominals](../../src/six_pack_little.svg)](../training.md "Home")
+[![Man's abdominals](../../src/six_pack_little.svg)](../home.md "Home")
 
+<!-- internal -->
 [abcd]: ../glossary.md "Glossary"
 [next]: ../trainings/strength.md "Strength training"
 [prev]: ../trainings/trainings.md "Trainings"

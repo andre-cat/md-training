@@ -1,6 +1,6 @@
-# [:back:][back] $\textsf{\color{orange}{INDEX}}$
+# [:back:][back] $\color{orange}\textsf{INDEX}$
 
-+ [Training](training.md)
++ [Training](home.md)
   + [Glossary](glossary.md)
   + `Movements`
     + [Abdominals](movements/abdominal.md)
@@ -19,6 +19,7 @@
 
 ---
 
-[![Man's abdominals](../src/six_pack_little.svg)](training.md "Home")
+[![Man's abdominals](../src/six_pack_little.svg)](home.md "Home")
 
-[back]: training.md "Training"
+<!-- internal -->
+[back]: home.md "Training"

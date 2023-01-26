@@ -1,41 +1,47 @@
-# [:back:][back] $\textsf{\color{orange}{TRAININGS}}$
+# [:back:][back] $\color{orange}\textsf{TRAININGS}$
 
 ## Primary
 
-1. ### [**`Endurance`**](trainings/endurance.md)
+1. ### [**`Endurance`**][endu]
 
-    > load $\scriptsize{\textsf{\color{red}{LOW ↓}}}$  
-    > reps $\scriptsize{\textsf{\color{lime}{HIG ↑}}}$  
-    > rest $\scriptsize{\textsf{\color{red}{LOW ↓}}}$  
-    > time $\scriptsize{\textsf{\color{red}{LOW ↓}}}$  
-    > velo $\scriptsize{\textsf{\color{orange}{MED •}}}$
+    > load $\scriptsize\color{red}\textsf{LOW ↓}$  
+    > reps $\scriptsize\color{lime}\textsf{HIG ↑}$  
+    > rest $\scriptsize\color{red}\textsf{LOW ↓}$  
+    > time $\scriptsize\color{red}\textsf{LOW ↓}$  
+    > velo $\scriptsize\color{orange}\textsf{MED •}$
 
-2. ### [**`Strength`**](trainings/strength.md)
+2. ### [**`Strength`**][stre]
 
-    > load $\scriptsize{\textsf{\color{lime}{HIG ↑}}}$  
-    > reps $\scriptsize{\textsf{\color{red}{LOW ↓}}}$  
-    > rest $\scriptsize{\textsf{\color{lime}{HIG ↑}}}$  
-    > time $\scriptsize{\textsf{\color{lime}{HIG ↑}}}$  
-    > velo $\scriptsize{\textsf{\color{red}{LOW ↓}}}$
+    > load $\scriptsize\color{lime}\textsf{HIG ↑}$  
+    > reps $\scriptsize\color{red}\textsf{LOW ↓}$  
+    > rest $\scriptsize\color{lime}\textsf{HIG ↑}$  
+    > time $\scriptsize\color{lime}\textsf{HIG ↑}$  
+    > velo $\scriptsize\color{red}\textsf{LOW ↓}$
 
-3. ### [**`Power`**](trainings/power.md)
+3. ### [**`Power`**][powe]
 
-    > load $\scriptsize{\textsf{\color{orange}{MED •}}}$  
-    > reps $\scriptsize{\textsf{\color{orange}{MED •}}}$  
-    > rest $\scriptsize{\textsf{\color{orange}{MED •}}}$  
-    > time $\scriptsize{\textsf{\color{orange}{MED •}}}$  
-    > velo $\scriptsize{\textsf{\color{lime}{HIG ↑}}}$
+    > load $\scriptsize\color{orange}\textsf{MED •}$  
+    > reps $\scriptsize\color{orange}\textsf{MED •}$  
+    > rest $\scriptsize\color{orange}\textsf{MED •}$  
+    > time $\scriptsize\color{orange}\textsf{MED •}$  
+    > velo $\scriptsize\color{lime}\textsf{HIG ↑}$
 
-4. ### [**`Mixed`**](trainings/mixed.md)
+4. ### [**`Mixed`**][mixe]
 
     > A mix of endurance, strength and power trainings\.
 
 ## Secondary
 
-1. ### [**`Flexibility`**](trainings/flexibility.md)
+1. ### [**`Flexibility`**][flex]
 
     > Exercises for flexibility workouts\.
 
-[![Man's abdominals](../../src/six_pack_little.svg)](training.md "Home")
+[![Man's abdominals](../../src/six_pack_little.svg)](home.md "Home")
 
-[back]: ../training.md
+<!-- internal -->
+[back]: ../home.md "Training"
+[endu]: endurance.md "Endurance training"
+[flex]: flexibility.md "Flexibility training"
+[mixe]: mixed.md "Mixed training"
+[powe]: power.md "Power training"
+[stre]: strength.md "Strength training"

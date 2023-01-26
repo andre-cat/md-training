@@ -1,4 +1,4 @@
-# [:arrow_left:][prev] $\textsf{\color{orange}{STRENGTH}}$ [:arrow_right:][next]
+# [:arrow_left:][prev] $\color{orange}\textsf{STRENGTH}$ [:arrow_right:][next]
 
 [`Tempo`](../glossary.md#t)\: slow
 
@@ -8,7 +8,7 @@
 |[iso](../glossary.md#i)|Stop    |1        |
 |[ecc](../glossary.md#e)|Slow    |2        |
 
-## [Parameters](../training.md#parameters)
+## [Parameters](../home.md#parameters)
 
 ```plaintext
 Load: MAX + 1
@@ -32,7 +32,7 @@ Time: (1.00, 2.00)
 
 ### :sweat_drops: Exercise
 
-> #### :leg: Legs
+> #### :leg: Lower body
 
 + [ ] **`03 ⨉ 08 - 10`** &emsp;\|&emsp; Squat
 + [ ] **`03 ⨉ 08 - 10`** &emsp;\|&emsp; Heel raise
@@ -40,7 +40,7 @@ Time: (1.00, 2.00)
 + [ ] **`03 ⨉ 08 - 10`** &emsp;\|&emsp; Lunge
 + [ ] _**`02 ⨉ 08 - 10`** &emsp;\|&emsp; Single-leg glute bridge_
 
-> #### :muscle: Arms (Push)
+> #### :muscle: Upper body \(push\)
 
 + [ ] **`03 ⨉ 05 - 08`** &emsp;\|&emsp; Push-up
 + [ ] **`03 ⨉ 05 - 08`** &emsp;\|&emsp; Vertical push-up
@@ -48,7 +48,7 @@ Time: (1.00, 2.00)
 + [ ] **`03 ⨉ 05 - 08`** &emsp;\|&emsp; Dip
 + [ ] _**`02 ⨉ 05 - 08`** &emsp;\|&emsp; Uneven push-Up_
 
-> #### :muscle: Arms (Pull)
+> #### :muscle: Upper body \(pull\)
 
 + [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Pull-up
 + [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Horizontal pull-up
@@ -56,7 +56,7 @@ Time: (1.00, 2.00)
 + [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Negative pull-up
 + [ ] _**`02 ⨉ 03 - 05`** &emsp;\|&emsp; Narrow grip pull-up_
 
-> #### :shield: Abs
+> #### :shield: Core
 
 + [ ] **`03 ⨉ 08 - 10`** &emsp;\|&emsp; Abdominal
 + [ ] **`03 ⨉ 08 - 10`** &emsp;\|&emsp; V-up
@@ -82,14 +82,11 @@ Time: (1.00, 2.00)
 > **Warning**  
 > Perform **static stretching** after cool-down\.
 
-## Footnotes
-
-_**sup**_\: superset, 10 or 12 repetitions of two consecutive exercises \(without rest in between\)\.
-
 ---
 
-[![Man's abdominals](../../src/six_pack_little.svg)](../training.md "Home")
+[![Man's abdominals](../../src/six_pack_little.svg)](../home.md "Home")
 
+<!-- internal -->
 [abcd]: ../glossary.md "Glossary"
 [next]: ../trainings/power.md "Power training"
 [prev]: ../trainings/endurance.md "Endurance training"

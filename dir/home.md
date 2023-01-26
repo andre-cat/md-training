@@ -1,4 +1,4 @@
-# ![Man's abdominals](../src/six_pack.svg) $\textsf{\color{orange}{TRAINING}}$
+# ![Man's abdominals](../src/six_pack.svg) $\color{orange}\textsf{TRAINING}$
 
 ## Plan
 
@@ -38,12 +38,12 @@ flowchart LR
 
 The nature of the trainings differs in the following factors\:
 
-+ **`LOAD\:`** \(or intensity [<sup>\[How is it measured?\]</sup>][load]\) the number of difficulty of the exercises\. **MAX** for the maximum intensity\.
-+ **`REPS\:`** \(repetitions[^rep] or volume\) the number of times one completes an exercise\.
-+ **`REST\:`** Days of rest that _should_ be taken per muscle group \(**upper body** and **lower body**\)\.
-+ **`SCHE\:`** \(or schedules\) number of schedules to be completed by training\.
-+ **`TIME\:`** \(or time of break\) a tuple formed by the rest between sets and the rest between exercises in seconds[^sec] or minutes[^min]\.
-+ **`VELO\:`** \(or velocity\) speed of execution of the exercises\.
++ **`LOAD:`** \(or intensity [<sup>\[How is it measured?\]</sup>][inte]\) the number of difficulty of the exercises\. **MAX** for the maximum intensity\.
++ **`REPS:`** \(repetitions[^rep] or volume\) the number of times one completes an exercise\.
++ **`REST:`** Days of rest that _should_ be taken per muscle group \(**upper body** and **lower body**\)\.
++ **`SCHE:`** \(or schedules\) number of schedules to be completed by training\.
++ **`TIME:`** \(or time of break\) a tuple formed by the rest between sets and the rest between exercises in seconds[^sec] or minutes[^min]\.
++ **`VELO:`** \(or velocity\) speed of execution of the exercises\.
 
 ## Schedule
 
@@ -93,7 +93,7 @@ A workout session \(or day\) always consists of the same sequence\: first, warm-
 ## [Trainings][trai]
 
 > **Warning**  
-> Each time at the beginning of the 10-week plan, the [intensity test][load] must be performed\.
+> Each time at the beginning of the 10-week plan, the [intensity test][inte] must be performed\.
 
 See [here][endu] the first training\!
 
@@ -103,11 +103,11 @@ The 5 basic movements from which the other exercises of the program are derived\
 
 ## [Tests][test]
 
-Intensity test and challenges\.
+Several tests and challenges\.
 
 ---
 
-## [:back:][back] [:twisted_rightwards_arrows:][tree] [:capital_abcd:][abcd] [:soon:][endu]
+## [:back:][back] [:twisted_rightwards_arrows:][inde] [:capital_abcd:][glos] [:soon:][endu]
 
 [^min]: Abbreviated as "min"\.
 
@@ -115,12 +115,13 @@ Intensity test and challenges\.
 
 [^sec]: Abbreviated as "sec"\.
 
-[abcd]: glossary.md "Glossary"
+<!-- internal -->
 [back]: ../README.md "ReadMe"
 [endu]: trainings/endurance.md "Endurance training"
 [flex]: trainings/flexibility.md "Flexibility training"
-[load]: tests/intensity.md "Intensity test"
+[glos]: glossary.md "Glossary"
+[inde]: index.md "Index"
+[inte]: tests/intensity.md "Intensity test"
 [move]: movements/movements.md "Movements"
 [test]: tests/tests.md "Tests"
 [trai]: trainings/trainings.md "Trainings"
-[tree]: index.md "Index"

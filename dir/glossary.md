@@ -1,4 +1,4 @@
-# [:back:][back] $\textsf{\color{orange}{GLOSSARY}}$
+# [:back:][back] $\color{orange}\textsf{GLOSSARY}$
 
 ## C
 
@@ -19,7 +19,7 @@
 ## T
 
 + _**Tabata**_\: a HIIT workout that consists of performing an exercise for 20 seconds, resting for 10 and repeating the previous 8 times\.
-+ _**Tempo**_\: Muscle contraction time[<sup>?</sup>][temp]\. The smaller the tempo the faster the contraction\.
++ _**Tempo**_\: Muscle contraction time[<sup>?</sup>][temp-url]\. The smaller the tempo the faster the contraction\.
 
 ### Trainings
 
@@ -28,7 +28,7 @@
 
 ---
 
-[![Man's abdominals](../src/six_pack_little.svg)](training.md "Home")
+[![Man's abdominals](../src/six_pack_little.svg)](home.md "Home")
 
 [^con]: Abbreviated as "con"\.
 
@@ -37,7 +37,7 @@
 [^iso]: Abbreviated as "iso"\.
 
 <!-- internal -->
-[back]: training.md "Training"
+[back]: home.md "Training"
 [endu]: trainings/endurance.md "Endurance training"
 [flex]: trainings/flexibility.md "Flexibility training"
 [mixe]: trainings/mixed.md "Mixed training"
@@ -45,4 +45,4 @@
 [stre]: trainings/strength.md "Strength training"
 
 <!-- external -->
-[temp]: https://thebodysmith.com/know-your-tempo/ "Know your tempo"
+[temp-url]: https://thebodysmith.com/know-your-tempo/ "Know your tempo"

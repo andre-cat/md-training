@@ -1,4 +1,4 @@
-# [:arrow_left:][prev] $\textsf{\color{orange}{POWER}}$ [:arrow_right:][next]
+# [:arrow_left:][prev] $\color{orange}\textsf{POWER}$ [:arrow_right:][next]
 
 [`Tempo`](../glossary.md#t)\: fast or explosive
 
@@ -18,7 +18,7 @@ For explosive:
 |[iso](../glossary.md#i)|Stop    |2        |
 |[ecc](../glossary.md#e)|Slow    |3        |
 
-## [Parameters](../training.md#parameters)
+## [Parameters](../home.md#parameters)
 
 ```plaintext
 Load: MAX
@@ -50,7 +50,7 @@ Time: (0.75, 1.00)
 + [ ] **`03 ⨉ 05 - 08`** &emsp;\|&emsp; Jump squat
 + [ ] _**`02 ⨉ 05 - 08`** &emsp;\|&emsp; Lateral lunge_
 
-> #### :muscle: Upper body (push)
+> #### :muscle: Upper body \(push\)
 
 + [ ] **`03 ⨉ 05 - 08`** &emsp;\|&emsp; Clapping push-up
 + [ ] **`03 ⨉ 05 - 08`** &emsp;\|&emsp; Hindu push-up
@@ -58,7 +58,7 @@ Time: (0.75, 1.00)
 + [ ] **`03 ⨉ 05 - 08`** &emsp;\|&emsp; Wall tricep extension
 + [ ] _**`02 ⨉ 05 - 08`** &emsp;\|&emsp; T push-up_
 
-> #### :muscle: Upper body (pull)
+> #### :muscle: Upper body \(pull\)
 
 + [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Pull-up
 + [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Horizontal pull-up
@@ -91,8 +91,9 @@ Time: (0.75, 1.00)
 
 ---
 
-[![Man's abdominals](../../src/six_pack_little.svg)](../training.md "Home")
+[![Man's abdominals](../../src/six_pack_little.svg)](../home.md "Home")
 
+<!-- internal -->
 [abcd]: ../glossary.md "Glossary"
 [next]: ../trainings/mixed.md "Mixed training"
 [prev]: ../trainings/strength.md "Strength training"

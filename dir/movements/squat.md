@@ -1,6 +1,6 @@
 # [:back:][home] <accent>Squat</accent>
 
-[home]: ../training.md
+[home]: ../home.md
 
 <style>
     accent { color: orange; }

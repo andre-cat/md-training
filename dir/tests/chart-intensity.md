@@ -1,4 +1,4 @@
-# [:back:][back] $\textsf{\color{orange}{CHART: INTENSITY TEST}}$
+# [:back:][back] $\color{orange}\textsf{CHART: INTENSITY TEST}$
 
 With the movements of abdominal, pull-up, push-up, squat and vertical push-up, do\:
 
@@ -21,7 +21,7 @@ flowchart TB
     0(["#127937;Start"])
     1["#128293;Warm-up"]
     3["#128170;Next move"]
-    4{"First time?&#49;&#65039;&#8419;"}
+    4{"First time?#9757;"}
     4Y["#128304;MAX = 1"]
     5["#128166;Do at MAX"]
     6{"Done?#127919;"}
@@ -31,7 +31,7 @@ flowchart TB
     6N{"Next move?#129461;"}
     6NY["#128168;Rest: 1 min"]
     6NY0(("Go to #128308;"))
-    6NN["&#10052;&#65039;Cool-down"]
+    6NN["#128167;Cool-down"]
     7(["#128682;End"])
 
     subgraph 2["Point #128308;"]
@@ -53,6 +53,7 @@ flowchart TB
 
 ---
 
-[![Man's abdominals](../../src/six_pack_little.svg)](../training.md "Home")
+[![Man's abdominals](../../src/six_pack_little.svg)](../home.md "Home")
 
+<!-- internal -->
 [back]: intensity.md "Intensity test"

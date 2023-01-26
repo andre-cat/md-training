@@ -1,4 +1,4 @@
-# [:back:][back] $\textsf{\color{orange}{INTENSITY TEST}}$
+# [:back:][back] $\color{orange}\textsf{INTENSITY TEST}$
 
 > ## Intensity
 >
@@ -78,7 +78,10 @@ flowchart TB
 
 [^pul]: 45 sec active hung; 20 sec isometric position\.
 
-[![Man's abdominals](../../src/six_pack_little.svg)](../training.md "Home")
+---
 
+[![Man's abdominals](../../src/six_pack_little.svg)](../home.md "Home")
+
+<!-- internal -->
 [back]: tests.md "Tests"
 [move]: ../movements/movements.md "Movements"
