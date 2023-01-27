@@ -1,24 +1,24 @@
 # [:arrow_left:][prev] $\color{orange}\textsf{ENDURANCE}$ [:arrow_right:][next]
 
-[`Tempo`](../glossary.md#t)\: moderate or normal
+[`Tempo`][lett]\: moderate or normal
 
 For moderate:
 
-|Phase                  |Velocity|Tempo (s)|
-|:---------------------:|:------:|:-------:|
-|[con](../glossary.md#c)|Fast    |0        |
-|[iso](../glossary.md#i)|Stop    |1        |
-|[ecc](../glossary.md#e)|Slow    |2        |
+|Phase      |Velocity|Tempo (s)|
+|:----------|:------:|:-------:|
+|[con][letc]|Fast    |0        |
+|[iso][leti]|Stop    |1        |
+|[ecc][lete]|Slow    |2        |
 
 For normal:
 
-|Phase                  |Velocity|Tempo (s)|
-|:---------------------:|:------:|:-------:|
-|[con](../glossary.md#c)|Fast    |0        |
-|[iso](../glossary.md#i)|Stop    |0        |
-|[ecc](../glossary.md#e)|Slow    |2        |
+|Phase      |Velocity|Tempo (s)|
+|:---------:|:------:|:-------:|
+|[con][letc]|Fast    |0        |
+|[iso][leti]|Stop    |0        |
+|[ecc][lete]|Slow    |2        |
 
-## [Parameters](../home.md#parameters)
+## [Parameters][para]
 
 ```plaintext
 Load: MAX - 1
@@ -68,9 +68,9 @@ Time: (30 sec, 60 sec)
 + [ ] **`02 sup`** &emsp;\|&emsp; V with rotation / Plank
 + [ ] _**`01 sup`** &emsp;\|&emsp; Sitting punch / Flutter kick_
 
-> #### :stopwatch: [HIIT][abcd]
+> #### :stopwatch: [HIIT][glos]
 
-+ [ ] [**`Tabata`**][abcd] &emsp;\|&emsp; Jumping rope
++ [ ] [**`Tabata`**][glos] &emsp;\|&emsp; Jumping rope
 
 > #### :triangular_flag_on_post: Challenge
 
@@ -87,13 +87,18 @@ Time: (30 sec, 60 sec)
 
 ## Footnotes
 
-_**sup**_\: superset, 10 or 12 repetitions of two consecutive exercises (without rest in between)\.
+_**sup**_\: superset, 10 or 12 repetitions of two consecutive exercises \(without rest in between\)\.
 
 ---
 
-[![Man's abdominals](../../src/six_pack_little.svg)](../home.md "Home")
+[![abs](../images/six_pack_little.svg)](../training-1.md "Training 1")
 
 <!-- internal -->
-[abcd]: ../glossary.md "Glossary"
-[next]: ../trainings/strength.md "Strength training"
-[prev]: ../trainings/trainings.md "Trainings"
+[glos]: ../../glossary.md "Glossary"
+[letc]: ../../glossary.md#c "C"
+[lete]: ../../glossary.md#e "E"
+[leti]: ../../glossary.md#i "I"
+[lett]: ../../glossary.md#t "T"
+[next]: strength.md "Strength"
+[para]: ../training-1.md#parameters
+[prev]: modules.md "Modules"

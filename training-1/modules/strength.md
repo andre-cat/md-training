@@ -1,14 +1,14 @@
 # [:arrow_left:][prev] $\color{orange}\textsf{STRENGTH}$ [:arrow_right:][next]
 
-[`Tempo`](../glossary.md#t)\: slow
+[`Tempo`][lett]\: slow
 
-|Phase                  |Velocity|Tempo (s)|
-|:---------------------:|:------:|:-------:|
-|[con](../glossary.md#c)|Fast    |2        |
-|[iso](../glossary.md#i)|Stop    |1        |
-|[ecc](../glossary.md#e)|Slow    |2        |
+|Phase      |Velocity|Tempo (s)|
+|:---------:|:------:|:-------:|
+|[con][letc]|Fast    |2        |
+|[iso][leti]|Stop    |1        |
+|[ecc][lete]|Slow    |2        |
 
-## [Parameters](../home.md#parameters)
+## [Parameters][para]
 
 ```plaintext
 Load: MAX + 1
@@ -64,9 +64,9 @@ Time: (1.00, 2.00)
 + [ ] **`03 ⨉ 05 - 08`** &emsp;\|&emsp; Superman push-up
 + [ ] _**`02 ⨉ 08 - 10`** &emsp;\|&emsp; Superman ab_
 
-> #### :stopwatch: [HIIT][abcd]
+> #### :stopwatch: [HIIT][glos]
 
-+ [ ] [**`Tabata`**][abcd] &emsp;\|&emsp; Jumping rope
++ [ ] [**`Tabata`**][glos] &emsp;\|&emsp; Jumping rope
 
 > #### :triangular_flag_on_post: Challenge
 
@@ -84,9 +84,14 @@ Time: (1.00, 2.00)
 
 ---
 
-[![Man's abdominals](../../src/six_pack_little.svg)](../home.md "Home")
+[![abs](../images/six_pack_little.svg)](../training-1.md "Training 1")
 
 <!-- internal -->
-[abcd]: ../glossary.md "Glossary"
-[next]: ../trainings/power.md "Power training"
-[prev]: ../trainings/endurance.md "Endurance training"
+[glos]: ../../glossary.md "Glossary"
+[letc]: ../../glossary.md#c "C"
+[lete]: ../../glossary.md#e "E"
+[leti]: ../../glossary.md#i "I"
+[lett]: ../../glossary.md#t "T"
+[next]: power.md "Power"
+[para]: ../training-1.md#parameters
+[prev]: endurance.md "Endurance"

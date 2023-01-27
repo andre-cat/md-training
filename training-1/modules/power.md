@@ -1,24 +1,24 @@
 # [:arrow_left:][prev] $\color{orange}\textsf{POWER}$ [:arrow_right:][next]
 
-[`Tempo`](../glossary.md#t)\: fast or explosive
+[`Tempo`][lett]\: fast or explosive
 
 For fast:
 
-|Phase                  |Velocity|Tempo (s)|
-|:---------------------:|:------:|:-------:|
-|[con](../glossary.md#c)|Fast    |0        |
-|[iso](../glossary.md#i)|Stop    |0        |
-|[ecc](../glossary.md#e)|Slow    |0        |
+|Phase      |Velocity|Tempo (s)|
+|:---------:|:------:|:-------:|
+|[con][letc]|Fast    |0        |
+|[iso][leti]|Stop    |0        |
+|[ecc][lete]|Slow    |0        |
 
 For explosive:
 
-|Phase                  |Velocity|Tempo (s)|
-|:---------------------:|:------:|:-------:|
-|[con](../glossary.md#c)|Fast    |0        |
-|[iso](../glossary.md#i)|Stop    |2        |
-|[ecc](../glossary.md#e)|Slow    |3        |
+|Phase      |Velocity|Tempo (s)|
+|:---------:|:------:|:-------:|
+|[con][letc]|Fast    |0        |
+|[iso][leti]|Stop    |2        |
+|[ecc][lete]|Slow    |3        |
 
-## [Parameters](../home.md#parameters)
+## [Parameters][para]
 
 ```plaintext
 Load: MAX
@@ -74,9 +74,9 @@ Time: (0.75, 1.00)
 + [ ] **`03 ⨉ 08 - 10`** &emsp;\|&emsp; Side jackknife
 + [ ] _**`02 ⨉ 08 - 10`** &emsp;\|&emsp; Back extension_
 
-> #### :fire: [HIIT][abcd]
+> #### :fire: [HIIT][glos]
 
-+ [ ] [**`Tabata`**][abcd] &emsp;\|&emsp; High knees jump rope
++ [ ] [**`Tabata`**][glos] &emsp;\|&emsp; High knees jump rope
 
 > #### :triangular_flag_on_post: Challenge
 
@@ -91,9 +91,14 @@ Time: (0.75, 1.00)
 
 ---
 
-[![Man's abdominals](../../src/six_pack_little.svg)](../home.md "Home")
+[![abs](../images/six_pack_little.svg)](../home.md "Home")
 
 <!-- internal -->
-[abcd]: ../glossary.md "Glossary"
-[next]: ../trainings/mixed.md "Mixed training"
-[prev]: ../trainings/strength.md "Strength training"
+[glos]: ../../glossary.md "Glossary"
+[letc]: ../../glossary.md#c "C"
+[lete]: ../../glossary.md#e "E"
+[leti]: ../../glossary.md#i "I"
+[lett]: ../../glossary.md#t "T"
+[next]: mixed-1.md "Mixed"
+[para]: ../training-1.md#parameters
+[prev]: strength.md "Strength"

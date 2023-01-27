@@ -53,7 +53,7 @@ flowchart TB
 
 ---
 
-[![Man's abdominals](../../src/six_pack_little.svg)](../home.md "Home")
+[![abs](../images/six_pack_little.svg)](training-1.md "Training 1")
 
 <!-- internal -->
-[back]: intensity.md "Intensity test"
+[back]: ../tests/intensity.md "Intensity test"

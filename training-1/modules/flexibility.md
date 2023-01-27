@@ -94,10 +94,10 @@
 
 ---
 
-[![Man's abdominals](../../src/six_pack_little.svg)](../home.md "Home")
+[![abs](../images/six_pack_little.svg)](../training-1.md "Training 1")
 
 <!-- internal -->
-[back]: trainings.md "Trainings"
+[back]: modules.md "Modules"
 
 <!-- external -->
 [core-url]: https://www.spotebi.com/workout-routines/core-static-stretching-exercises/ "Core stretch"

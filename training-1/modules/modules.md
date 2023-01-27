@@ -1,4 +1,4 @@
-# [:back:][back] $\color{orange}\textsf{TRAININGS}$
+# [:back:][back] $\color{orange}\textsf{MODULES}$
 
 ## Primary
 
@@ -26,9 +26,14 @@
     > time $\scriptsize\color{orange}\textsf{MED •}$  
     > velo $\scriptsize\color{lime}\textsf{HIG ↑}$
 
-4. ### [**`Mixed`**][mixe]
+4. ### **`Mixed`**
 
     > A mix of endurance, strength and power trainings\.
+    >
+    > 1. [**`MIXED 1`**][mix1]
+    > 2. [**`MIXED 2`**][mix2]
+    > 3. [**`MIXED 3`**][mix3]
+    > 4. [**`MIXED 4`**][mix4]
 
 ## Secondary
 
@@ -36,12 +41,15 @@
 
     > Exercises for flexibility workouts\.
 
-[![Man's abdominals](../../src/six_pack_little.svg)](home.md "Home")
+[![abs](../images/six_pack_little.svg)](../training-1.md "Training 1")
 
 <!-- internal -->
-[back]: ../home.md "Training"
-[endu]: endurance.md "Endurance training"
-[flex]: flexibility.md "Flexibility training"
-[mixe]: mixed.md "Mixed training"
-[powe]: power.md "Power training"
-[stre]: strength.md "Strength training"
+[back]: ../training-1.md "Training 1"
+[endu]: endurance.md "Endurance"
+[flex]: flexibility.md "Flexibility"
+[mix1]: mixed-1.md "Mixed 1"
+[mix2]: mixed-2.md "Mixed 2"
+[mix3]: mixed-3.md "Mixed 3"
+[mix4]: mixed-4.md "Mixed 4"
+[powe]: power.md "Power"
+[stre]: strength.md "Strength"

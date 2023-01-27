@@ -4,7 +4,7 @@
 
 ---
 
-[![Man's abdominals](../../src/six_pack_little.svg)](../home.md "Home")
+[![abs](../images/six_pack_little.svg)](../home.md "Home")
 
 <!-- internal -->
 [back]: ../home.md

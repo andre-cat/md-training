@@ -1,5 +1,7 @@
-# $\color{orange}\textsf{MD-BODY-TRAINING}$
+# $\color{orange}\textsf{WELCOME TO MD-BODY-TRAINING!}$
 
-Markdown practice with physical training routines to practice GitHub Flavored Markdown\.
+## What is this?
 
-**Start [here](dir/home.md)\!\!\!** :point_left:
+A markdown practice with physical training routines to practice GitHub Flavored Markdown\.
+
+**Start [here](home.md)\!\!\!** :point_left:

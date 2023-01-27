@@ -1,14 +1,16 @@
-# ![Man's abdominals](../src/six_pack.svg) $\color{orange}\textsf{TRAINING}$
+# [![abs](images/six_pack.svg)][tra1] $\color{orange}\textsf{TRAINING 1}$
 
 ## Plan
 
-The training plan is oriented to avoid specialization, comfort and energy efficiency and aims to develop the physical qualities of **endurance**, **strength**, **power** and **flexibility** over 10 schedules\.
+`TYPE: CALISTHENICS`
 
-To achieve this, it is proposed to execute a different training \(focused on a particular physical quality\) every 2 schedules and to finish with a mixed training of 4 schedules\.
+The training 1 plan is oriented to avoid specialization, comfort and energy efficiency and aims to develop the physical qualities of **endurance**, **strength**, **power** and **flexibility** over 10 schedules\.
+
+To achieve this, it is proposed to execute a different training module \(focused on a particular physical quality\) every 2 schedules and to finish with a mixed module of 4 schedules\.
 
 ```mermaid
 ---
-title: TRAINING PLAN FLOWCHART
+title: TRAINING 1 FLOWCHART
 ---
 
 %%{
@@ -36,7 +38,7 @@ flowchart LR
 
 ## Parameters
 
-The nature of the trainings differs in the following factors\:
+The nature of the modules differs in the following factors\:
 
 + **`LOAD:`** \(or intensity [<sup>\[How is it measured?\]</sup>][inte]\) the number of difficulty of the exercises\. **MAX** for the maximum intensity\.
 + **`REPS:`** \(repetitions[^rep] or volume\) the number of times one completes an exercise\.
@@ -47,7 +49,7 @@ The nature of the trainings differs in the following factors\:
 
 ## Schedule
 
-Each training lasts for the completion of the following schedule 2 or more times\.
+Each module lasts for the completion of the following schedule 2 or more times\.
 
 |D1   |D2      |D3         |D4   |D5      |D6         |D7         |D8                       |D9      |
 |:---:|:------:|:---------:|:---:|:------:|:---------:|:---------:|:-----------------------:|:------:|
@@ -66,7 +68,7 @@ Each emoji specifies a different workout day\:
 |Upper body day  |:muscle:                 |
 
 > **Note**  
-> Since nowhere in the schedule is the [flexibility day][flex] specified, it is recommended to incorporate a session every [HIIT](glossary.md#h) day\:
+> Since nowhere in the schedule is the [flexibility day][flex] specified, it is recommended to incorporate a session every [HIIT][leth] day\:
 >
 > |:stopwatch::octopus:|
 > |--------------------|
@@ -87,15 +89,15 @@ A workout session \(or day\) always consists of the same sequence\: first, warm-
 > or  
 > **\[sets\]** &times; **\[minimum time \- maximum time\]**.
 
-+ When no exercise in training is a time exercise, the word ~~rep~~ is deleted\.
++ When no exercise in workout is a time exercise, the word ~~rep~~ is deleted\.
 + The last exercises with italic emphasis are always _optional_\.
 
-## [Trainings][trai]
+## [Modules][modu]
 
 > **Warning**  
-> Each time at the beginning of the 10-week plan, the [intensity test][inte] must be performed\.
+> Each time at the beginning of this 10-week training, the [intensity test][inte] must be performed\.
 
-See [here][endu] the first training\!
+See [here][endu] the first module\.
 
 ## [Movements][move]
 
@@ -107,7 +109,7 @@ Several tests and challenges\.
 
 ---
 
-## [:back:][back] [:twisted_rightwards_arrows:][inde] [:capital_abcd:][glos] [:soon:][endu]
+## [:back:][back] [:soon:][endu]
 
 [^min]: Abbreviated as "min"\.
 
@@ -116,12 +118,12 @@ Several tests and challenges\.
 [^sec]: Abbreviated as "sec"\.
 
 <!-- internal -->
-[back]: ../README.md "ReadMe"
-[endu]: trainings/endurance.md "Endurance training"
-[flex]: trainings/flexibility.md "Flexibility training"
-[glos]: glossary.md "Glossary"
-[inde]: index.md "Index"
+[back]: ../home.md "Home"
+[endu]: modules/endurance.md "Endurance training"
+[flex]: modules/flexibility.md "Flexibility training"
 [inte]: tests/intensity.md "Intensity test"
+[leth]: ../glossary.md "H"
+[modu]: modules/modules.md "Modules"
 [move]: movements/movements.md "Movements"
 [test]: tests/tests.md "Tests"
-[trai]: trainings/trainings.md "Trainings"
+[tra1]: training-1.md "Training 1"

@@ -38,7 +38,7 @@ title: INTENSITY TEST
 flowchart TB
     0(["#127937;Start"])
     1{{"#128170;Set move"}}
-    2{"First time?&#49;&#65039;&#8419;"}
+    2{"First time?#9757;"}
     2Y["#128304;MAX = 1"]
     3["#128166;Do at MAX"]
     4{"Done?#127919;"}
@@ -80,7 +80,7 @@ flowchart TB
 
 ---
 
-[![Man's abdominals](../../src/six_pack_little.svg)](../home.md "Home")
+[![abs](../images/six_pack_little.svg)](../home.md "Home")
 
 <!-- internal -->
 [back]: tests.md "Tests"
