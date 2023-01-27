@@ -18,7 +18,7 @@
 
 ### :sweat_drops: Work-out
 
-For each movement, where MAX is the intensity reached \(see [table](#level)\), do the following\:
+For each movement, where MAX is the intensity reached \(see [Table 1]\), do the following\:
 
 ```mermaid
 ---
@@ -59,7 +59,7 @@ flowchart TB
     4Y -- "NO " --> 4YN --> 4YN0 --> 3
 ```
 
-<sub>Click [here](../tests/chart-intensity.md "Complete intensity test") to see the complete chart\.</sub>
+<sub>Click [here][int-cht] to see the complete chart\.</sub>
 
 ### :snowflake: Cool-down
 
@@ -74,14 +74,20 @@ flowchart TB
 |Push-up                  |30 rep|30 rep|30 rep|30 rep|10 rep|
 |Squat                    |30 rep|30 rep|30 rep|15 rep|10 rep|
 |Vertical push-up         |45 sec|45 sec|10 rep|10 rep|10 rep|
-> _Table with criteria to reach intensity levels._
+> _Table 1\: criteria to reach intensity levels._
 
 [^pul]: 45 sec active hung; 20 sec isometric position\.
 
 ---
 
-[![abs](../images/six_pack_little.svg)](../home.md "Home")
+[![abs](../images/six_pack_little.svg)](../training-1.md "Trining 1")
 
 <!-- internal -->
 [back]: tests.md "Tests"
 [move]: ../movements/movements.md "Movements"
+
+<!-- charts -->
+[int-cht]: ../others/chart-intensity-test.md "Complete intensity test"
+
+<!-- named links -->
+[Table 1]: #level "Criteria table"

@@ -2,7 +2,7 @@
 
 + `Index`
 + [Glossary](glossary.md)
-+ [Trainings](home.md#trainings)
++ `Trainings`
   + [Training 1](training-1/training-1.md)
     + [Modules](training-1/modules/modules.md)
       > [Endurance](training-1/modules/endurance.md)  

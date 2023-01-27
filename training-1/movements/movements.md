@@ -12,7 +12,7 @@ You **must** know your maximum intensity or `MAX` for each movement to find out 
 
 ---
 
-[![abs](../images/six_pack_little.svg)](training-1.md "Training 1")
+[![abs](../images/six_pack_little.svg)](../training-1.md "Training 1")
 
 <!-- internal -->
 [abdo]: abdominal.md "Abdominal"

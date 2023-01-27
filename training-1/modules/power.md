@@ -91,7 +91,7 @@ Time: (0.75, 1.00)
 
 ---
 
-[![abs](../images/six_pack_little.svg)](../home.md "Home")
+[![abs](../images/six_pack_little.svg)](../training-1.md "Training 1")
 
 <!-- internal -->
 [glos]: ../../glossary.md "Glossary"
