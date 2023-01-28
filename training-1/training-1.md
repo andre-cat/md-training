@@ -1,4 +1,4 @@
-# [![abs](icons/six_pack.svg)](/)  $\color{#F08000}\textsf{TRAINING 1}$
+# [![abs](icons/six_pack.svg)](#)  $\color{#F08000}\textsf{TRAINING 1}$
 
 ## Plan
 
