@@ -1,4 +1,4 @@
-# [![abs](icons/six_pack.svg)][training 1] $\color{#F08000}\textsf{TRAINING 1}$
+# [![abs](icons/six_pack.svg)](/)  $\color{#F08000}\textsf{TRAINING 1}$
 
 ## Plan
 
@@ -129,4 +129,3 @@ Several tests and challenges\.
 [modules]: modules/modules.md "Modules"
 [movements]: movements/movements.md "Movements"
 [tests]: tests/tests.md "Tests"
-[training 1]: training-1.md "Training 1"

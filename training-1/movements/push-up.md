@@ -1,6 +1,6 @@
 # [:arrow_left:][prev] $\color{#F08000}\textsf{PUSH-UP}$ [:arrow_right:][next]
 
-![icon]
+[![icon]](/)
 
 `TYPE: UPPER BODY`
 

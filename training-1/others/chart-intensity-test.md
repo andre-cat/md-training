@@ -6,7 +6,6 @@ With the movements of abdominal, pull-up, push-up, squat and vertical push-up, d
 ---
 title: INTENSITY TEST
 ---
-
 %%{
     init: {
         "fontFamily": "lucida console",
@@ -16,7 +15,6 @@ title: INTENSITY TEST
         }
     }
 }%%
-
 flowchart TB
     0(["#127937;Start"])
     1["#128293;Warm-up"]

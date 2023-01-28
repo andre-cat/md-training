@@ -2,7 +2,7 @@
 
 > ## Intensity
 >
-> The amount of energy expended per exercise or its difficulty, which is measured from 1 to 5 and and determine which of the 5 exercises to perform for each basic movement\.
+> _The amount of energy expended per exercise or its difficulty\._ Is measured from 1 to 5 and and determine which of the 5 exercises to perform for each basic movement\.
 >
 > **Warning**  
 > Know the 5 [movements] before taking the test\!
@@ -18,13 +18,12 @@
 
 ### :sweat_drops: Work-out
 
-For each movement, where MAX is the intensity reached \(see [table 1]\), do the following\:
+For each movement, where `MAX` is the intensity reached \(see [table 1]\), do the following\:
 
 ```mermaid
 ---
 title: INTENSITY TEST
 ---
-
 %%{
     init: {
         "fontFamily": "lucida console",
@@ -34,7 +33,6 @@ title: INTENSITY TEST
         }
     }
 }%%
-
 flowchart TB
     0(["#127937;Start"])
     1{{"#128170;Set move"}}

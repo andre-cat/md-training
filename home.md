@@ -1,4 +1,6 @@
-# $\color{#F08000}\textsf{MD-BODY-TRAINING!}$
+# $\color{#F08000}\textsf{MD-BODY-TRAINING}$
+
+[//]: # (this menu also is called home)
 
 ## Trainings
 

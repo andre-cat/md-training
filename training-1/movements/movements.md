@@ -2,7 +2,7 @@
 
 Each movement has 5 exercises with a different intensity, where `1 = very easy` and `5 = very hard`\.
 
-You **must** know your maximum intensity or `MAX` for each movement to find out which of its 5 exercises to perform in the workouts\.
+You must know your maximum intensity or `MAX` for each movement to find out which of its 5 exercises to perform in the workouts\.
 
 |                               |                             |                                |
 |:-----------------------------:|:---------------------------:|:------------------------------:|

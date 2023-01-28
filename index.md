@@ -13,7 +13,7 @@
       > [Mixed 3](training-1/modules/mixed-3.md "")  
       > [Mixed 4](training-1/modules/mixed-4.md "")  
       > [Flexibility](training-1/modules/flexibility.md "")  
-    + [Movements](training-1/training-1.md "")
+    + [Movements](training-1/movements/movements.md "")
       > [Abdominals](training-1/movements/abdominal.md "")  
       > [Pull-up](training-1/movements/pull-up.md "")  
       > [Push-up](training-1/movements/push-up.md "")  
