@@ -1,31 +1,31 @@
-# [:arrow_left:][prev] $\color{orange}\textsf{ENDURANCE}$ [:arrow_right:][next]
+# [:arrow_left:][prev] $\color{#F08000}\textsf{ENDURANCE}$ [:arrow_right:][next]
 
-[`Tempo`][lett]\: moderate or normal
+[`TEMPO`][t]\: moderate or normal
 
 For moderate:
 
-|Phase      |Velocity|Tempo (s)|
-|:----------|:------:|:-------:|
-|[con][letc]|Fast    |0        |
-|[iso][leti]|Stop    |1        |
-|[ecc][lete]|Slow    |2        |
+|Phase   |Velocity|Tempo (s)|
+|:-------|:------:|:-------:|
+|[con][c]|Fast    |0        |
+|[iso][i]|Stop    |1        |
+|[ecc][e]|Slow    |2        |
 
 For normal:
 
-|Phase      |Velocity|Tempo (s)|
-|:---------:|:------:|:-------:|
-|[con][letc]|Fast    |0        |
-|[iso][leti]|Stop    |0        |
-|[ecc][lete]|Slow    |2        |
+|Phase   |Velocity|Tempo (s)|
+|:------:|:------:|:-------:|
+|[con][c]|Fast    |0        |
+|[iso][i]|Stop    |0        |
+|[ecc][e]|Slow    |2        |
 
-## [Parameters][para]
+## [Parameters]
 
-```plaintext
-Load: MAX - 1
-Reps: 10 - 12
-Rest: 01
-Sche: 02
-Time: (30 sec, 60 sec)
+```text
+LOAD: MAX - 1
+REPS: 10 - 12
+REST: 01
+SCHE: 02
+TIME: (30 sec, 60 sec)
 ```
 
 ## Workout
@@ -68,9 +68,9 @@ Time: (30 sec, 60 sec)
 + [ ] **`02 sup`** &emsp;\|&emsp; V with rotation / Plank
 + [ ] _**`01 sup`** &emsp;\|&emsp; Sitting punch / Flutter kick_
 
-> #### :stopwatch: [HIIT][glos]
+> #### :stopwatch: [HIIT][h]
 
-+ [ ] [**`Tabata`**][glos] &emsp;\|&emsp; Jumping rope
++ [ ] [**`Tabata`**][t] &emsp;\|&emsp; Jumping rope
 
 > #### :triangular_flag_on_post: Challenge
 
@@ -91,14 +91,18 @@ _**sup**_\: superset, 10 or 12 repetitions of two consecutive exercises \(withou
 
 ---
 
-[![abs](../images/six_pack_little.svg)](../training-1.md "Training 1")
+[![abs](../icons/six_pack_little.svg)](../training-1.md "Training 1")
 
-<!-- internal -->
-[glos]: ../../glossary.md "Glossary"
-[letc]: ../../glossary.md#c "C"
-[lete]: ../../glossary.md#e "E"
-[leti]: ../../glossary.md#i "I"
-[lett]: ../../glossary.md#t "T"
-[next]: strength.md "Strength"
-[para]: ../training-1.md#parameters
+<!-- predefined -->
+[next]: strength.md "Strength module"
 [prev]: modules.md "Modules"
+
+<!-- glossary -->
+[c]: ../../glossary.md#c "C"
+[e]: ../../glossary.md#e "E"
+[h]: ../../glossary.md#h "H"
+[i]: ../../glossary.md#i "I"
+[t]: ../../glossary.md#t "T"
+
+<!-- named -->
+[parameters]: ../training-1.md#parameters "Parameters"

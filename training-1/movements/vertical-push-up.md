@@ -1,6 +1,6 @@
-# [:arrow_left:][prev] $\color{orange}\textsf{VERTICAL PUSH-UP}$ [:arrow_right:][next]
+# [:arrow_left:][prev] $\color{#F08000}\textsf{VERTICAL PUSH-UP}$ [:arrow_right:][next]
 
-![imag]
+![icon]
 
 `TYPE: UPPER BODY`
 
@@ -14,11 +14,11 @@
 
 ---
 
-[![abs](../images/six_pack_little.svg)](../training-1.md "Training 1")
+[![abs](../icons/six_pack_little.svg)](../training-1.md "Training 1")
 
-<!-- internal -->
+<!-- predefined -->
 [next]: movements.md "Movements"
 [prev]: squat.md "Squat"
 
-<!-- images -->
-[imag]: ../images/vertical-push-up.svg
+<!-- icons -->
+[icon]: ../icons/vertical-push-up.svg

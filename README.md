@@ -1,4 +1,4 @@
-# $\color{orange}\textsf{WELCOME TO MD-BODY-TRAINING!}$
+# $\color{#F08000}\textsf{WELCOME TO MD-BODY-TRAINING!}$
 
 ## What is this?
 

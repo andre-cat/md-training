@@ -1,11 +1,11 @@
-# [:back:][back] $\color{orange}\textsf{INTENSITY TEST}$
+# [:back:][back] $\color{#F08000}\textsf{INTENSITY TEST}$
 
 > ## Intensity
 >
 > The amount of energy expended per exercise or its difficulty, which is measured from 1 to 5 and and determine which of the 5 exercises to perform for each basic movement\.
 >
 > **Warning**  
-> Know the [5 movements][move] before taking the test\!
+> Know the 5 [movements] before taking the test\!
 
 ## Test
 
@@ -18,7 +18,7 @@
 
 ### :sweat_drops: Work-out
 
-For each movement, where MAX is the intensity reached \(see [Table 1]\), do the following\:
+For each movement, where MAX is the intensity reached \(see [table 1]\), do the following\:
 
 ```mermaid
 ---
@@ -65,7 +65,7 @@ flowchart TB
 
 + [ ] **`02 min`** &emsp;|&emsp; Jumping rope
 
-## Level
+## Levels
 
 |Movement \/<br>Level     |1     |2     |3     |4     |5     |
 |:------------------------|:----:|:----:|:----:|:----:|:----:|
@@ -80,14 +80,14 @@ flowchart TB
 
 ---
 
-[![abs](../images/six_pack_little.svg)](../training-1.md "Trining 1")
+[![abs](../icons/six_pack_little.svg)](../training-1.md "Trining 1")
 
-<!-- internal -->
+<!-- predefined -->
 [back]: tests.md "Tests"
-[move]: ../movements/movements.md "Movements"
+
+<!-- named -->
+[table 1]: #levels "Criteria table"
+[movements]: ../movements/movements.md "Movements"
 
 <!-- charts -->
 [int-cht]: ../others/chart-intensity-test.md "Complete intensity test"
-
-<!-- named links -->
-[Table 1]: #level "Criteria table"

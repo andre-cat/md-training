@@ -1,31 +1,31 @@
-# [:arrow_left:][prev] $\color{orange}\textsf{POWER}$ [:arrow_right:][next]
+# [:arrow_left:][prev] $\color{#F08000}\textsf{POWER}$ [:arrow_right:][next]
 
-[`Tempo`][lett]\: fast or explosive
+[`TEMPO`][h]\: fast or explosive
 
 For fast:
 
-|Phase      |Velocity|Tempo (s)|
-|:---------:|:------:|:-------:|
-|[con][letc]|Fast    |0        |
-|[iso][leti]|Stop    |0        |
-|[ecc][lete]|Slow    |0        |
+|Phase   |Velocity|Tempo (s)|
+|:------:|:------:|:-------:|
+|[con][c]|Fast    |0        |
+|[iso][i]|Stop    |0        |
+|[ecc][e]|Slow    |0        |
 
 For explosive:
 
-|Phase      |Velocity|Tempo (s)|
-|:---------:|:------:|:-------:|
-|[con][letc]|Fast    |0        |
-|[iso][leti]|Stop    |2        |
-|[ecc][lete]|Slow    |3        |
+|Phase   |Velocity|Tempo (s)|
+|:------:|:------:|:-------:|
+|[con][c]|Fast    |0        |
+|[iso][i]|Stop    |2        |
+|[ecc][e]|Slow    |3        |
 
-## [Parameters][para]
+## [Parameters]
 
-```plaintext
-Load: MAX
-Reps: 08 - 10
-Rest: 01 - 02
-Sche: 02
-Time: (0.75, 1.00)
+```text
+LOAD: MAX
+REPS: 08 - 10
+REST: 01 - 02
+SCHE: 02
+TIME: (0.75, 1.00)
 ```
 
 ## Workout
@@ -74,9 +74,9 @@ Time: (0.75, 1.00)
 + [ ] **`03 ⨉ 08 - 10`** &emsp;\|&emsp; Side jackknife
 + [ ] _**`02 ⨉ 08 - 10`** &emsp;\|&emsp; Back extension_
 
-> #### :fire: [HIIT][glos]
+> #### :fire: [HIIT][h]
 
-+ [ ] [**`Tabata`**][glos] &emsp;\|&emsp; High knees jump rope
++ [ ] [**`Tabata`**][t] &emsp;\|&emsp; High knees jump rope
 
 > #### :triangular_flag_on_post: Challenge
 
@@ -91,14 +91,18 @@ Time: (0.75, 1.00)
 
 ---
 
-[![abs](../images/six_pack_little.svg)](../training-1.md "Training 1")
+[![abs](../icons/six_pack_little.svg)](../training-1.md "Training 1")
 
-<!-- internal -->
-[glos]: ../../glossary.md "Glossary"
-[letc]: ../../glossary.md#c "C"
-[lete]: ../../glossary.md#e "E"
-[leti]: ../../glossary.md#i "I"
-[lett]: ../../glossary.md#t "T"
+<!-- predefined -->
 [next]: mixed-1.md "Mixed"
-[para]: ../training-1.md#parameters
 [prev]: strength.md "Strength"
+
+<!-- glossary -->
+[e]: ../../glossary.md#e "E"
+[c]: ../../glossary.md#c "C"
+[i]: ../../glossary.md#i "I"
+[t]: ../../glossary.md#t "T"
+[h]: ../../glossary.md#h "H"
+
+<!-- named -->
+[parameters]: ../training-1.md#parameters

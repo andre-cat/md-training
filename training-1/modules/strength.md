@@ -1,21 +1,21 @@
-# [:arrow_left:][prev] $\color{orange}\textsf{STRENGTH}$ [:arrow_right:][next]
+# [:arrow_left:][prev] $\color{#F08000}\textsf{STRENGTH}$ [:arrow_right:][next]
 
-[`Tempo`][lett]\: slow
+[`TEMPO`][t]\: slow
 
-|Phase      |Velocity|Tempo (s)|
-|:---------:|:------:|:-------:|
-|[con][letc]|Fast    |2        |
-|[iso][leti]|Stop    |1        |
-|[ecc][lete]|Slow    |2        |
+|Phase   |Velocity|Tempo (s)|
+|:------:|:------:|:-------:|
+|[con][c]|Fast    |2        |
+|[iso][i]|Stop    |1        |
+|[ecc][e]|Slow    |2        |
 
-## [Parameters][para]
+## [Parameters]
 
-```plaintext
-Load: MAX + 1
-Reps: 05 - 08
-Rest: 02
-Sche: 02
-Time: (1.00, 2.00)
+```text
+LOAD: MAX + 1
+REPS: 05 - 08
+REST: 02
+SCHE: 02
+TIME: (1.00, 2.00)
 ```
 
 ## Workout
@@ -64,9 +64,9 @@ Time: (1.00, 2.00)
 + [ ] **`03 ⨉ 05 - 08`** &emsp;\|&emsp; Superman push-up
 + [ ] _**`02 ⨉ 08 - 10`** &emsp;\|&emsp; Superman ab_
 
-> #### :stopwatch: [HIIT][glos]
+> #### :stopwatch: [HIIT][h]
 
-+ [ ] [**`Tabata`**][glos] &emsp;\|&emsp; Jumping rope
++ [ ] [**`Tabata`**][t] &emsp;\|&emsp; Jumping rope
 
 > #### :triangular_flag_on_post: Challenge
 
@@ -84,14 +84,18 @@ Time: (1.00, 2.00)
 
 ---
 
-[![abs](../images/six_pack_little.svg)](../training-1.md "Training 1")
+[![abs](../icons/six_pack_little.svg)](../training-1.md "Training 1")
 
-<!-- internal -->
-[glos]: ../../glossary.md "Glossary"
-[letc]: ../../glossary.md#c "C"
-[lete]: ../../glossary.md#e "E"
-[leti]: ../../glossary.md#i "I"
-[lett]: ../../glossary.md#t "T"
-[next]: power.md "Power"
-[para]: ../training-1.md#parameters
-[prev]: endurance.md "Endurance"
+<!-- predefined -->
+[next]: power.md "Power module"
+[prev]: endurance.md "Endurance module"
+
+<!-- glossary -->
+[h]: ../../glossary.md#h "H"
+[c]: ../../glossary.md#c "C"
+[e]: ../../glossary.md#e "E"
+[t]: ../../glossary.md#t "T"
+[i]: ../../glossary.md#i "I"
+
+<!-- named -->
+[parameters]: ../training-1.md#parameters "Parameters"

@@ -1,4 +1,4 @@
-# [![abs](images/six_pack.svg)][tra1] $\color{orange}\textsf{TRAINING 1}$
+# [![abs](icons/six_pack.svg)][training 1] $\color{#F08000}\textsf{TRAINING 1}$
 
 ## Plan
 
@@ -33,14 +33,13 @@ flowchart LR
     B --2 sche--> C
     C --2 sche--> D
     D --4 sche--> A
-
 ```
 
 ## Parameters
 
 The nature of the modules differs in the following factors\:
 
-+ **`LOAD:`** \(or intensity [<sup>\[How is it measured?\]</sup>][inte]\) the number of difficulty of the exercises\. **MAX** for the maximum intensity\.
++ **`LOAD:`** \(or intensity [<sup>\[How is it measured?\]</sup>][intensity test]\) the number of difficulty of the exercises\. **MAX** for the maximum intensity\.
 + **`REPS:`** \(repetitions[^rep] or volume\) the number of times one completes an exercise\.
 + **`REST:`** Days of rest that _should_ be taken per muscle group \(**upper body** and **lower body**\)\.
 + **`SCHE:`** \(or schedules\) number of schedules to be completed by training\.
@@ -68,7 +67,7 @@ Each emoji specifies a different workout day\:
 |Upper body day  |:muscle:                 |
 
 > **Note**  
-> Since nowhere in the schedule is the [flexibility day][flex] specified, it is recommended to incorporate a session every [HIIT][leth] day\:
+> Since nowhere in the schedule is the [flexibility] day specified, it is recommended to incorporate a session every [HIIT][h] day\:
 >
 > |:stopwatch::octopus:|
 > |--------------------|
@@ -92,24 +91,24 @@ A workout session \(or day\) always consists of the same sequence\: first, warm-
 + When no exercise in workout is a time exercise, the word ~~rep~~ is deleted\.
 + The last exercises with italic emphasis are always _optional_\.
 
-## [Modules][modu]
+## [Modules]
 
 > **Warning**  
-> Each time at the beginning of this 10-week training, the [intensity test][inte] must be performed\.
+> Each time at the beginning of this 10-week training, the [intensity test] must be performed\.
 
-See [here][endu] the first module\.
+See [here][soon] the first module\.
 
-## [Movements][move]
+## [Movements]
 
 The 5 basic movements from which the other exercises of the program are derived\.
 
-## [Tests][test]
+## [Tests]
 
 Several tests and challenges\.
 
 ---
 
-## [:back:][back] [:soon:][endu]
+## [:back:][back] [:soon:][soon]
 
 [^min]: Abbreviated as "min"\.
 
@@ -117,13 +116,17 @@ Several tests and challenges\.
 
 [^sec]: Abbreviated as "sec"\.
 
-<!-- internal -->
+<!-- predefined -->
 [back]: ../home.md "Home"
-[endu]: modules/endurance.md "Endurance training"
-[flex]: modules/flexibility.md "Flexibility training"
-[inte]: tests/intensity.md "Intensity test"
-[leth]: ../glossary.md "H"
-[modu]: modules/modules.md "Modules"
-[move]: movements/movements.md "Movements"
-[test]: tests/tests.md "Tests"
-[tra1]: training-1.md "Training 1"
+[soon]: modules/endurance.md "Endurance module"
+
+<!-- glossary -->
+[h]: ../glossary.md#h "H"
+
+<!-- named -->
+[flexibility]: modules/flexibility.md "Flexibility module"
+[intensity test]: tests/intensity.md "Intensity test"
+[modules]: modules/modules.md "Modules"
+[movements]: movements/movements.md "Movements"
+[tests]: tests/tests.md "Tests"
+[training 1]: training-1.md "Training 1"

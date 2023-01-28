@@ -1,4 +1,4 @@
-# [:back:][back] $\color{orange}\textsf{CHART: INTENSITY TEST}$
+# [:back:][back] $\color{#F08000}\textsf{CHART: INTENSITY TEST}$
 
 With the movements of abdominal, pull-up, push-up, squat and vertical push-up, do\:
 
@@ -53,7 +53,7 @@ flowchart TB
 
 ---
 
-[![abs](../images/six_pack_little.svg)](../training-1.md "Training 1")
+[![abs](../icons/six_pack_little.svg)](../training-1.md "Training 1")
 
-<!-- internal -->
+<!-- predefined -->
 [back]: ../tests/intensity.md "Intensity test"

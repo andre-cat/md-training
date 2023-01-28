@@ -1,6 +1,6 @@
-# [:arrow_left:][prev] $\color{orange}\textsf{SQUAT}$ [:arrow_right:][next]
+# [:arrow_left:][prev] $\color{#F08000}\textsf{SQUAT}$ [:arrow_right:][next]
 
-![imag]
+![icon]
 
 `TYPE: LOWER BODY`
 
@@ -14,11 +14,11 @@
 
 ---
 
-[![abs](../images/six_pack_little.svg)](../training-1.md "Training 1")
+[![abs](../icons/six_pack_little.svg)](../training-1.md "Training 1")
 
-<!-- internal -->
+<!-- predefined -->
 [next]: vertical-push-up.md "Vertical push-up"
 [prev]: push-up.md.md "Push-up"
 
-<!-- images -->
-[imag]: ../images/squat.svg
+<!-- icons -->
+[icon]: ../icons/squat.svg

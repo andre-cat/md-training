@@ -1,4 +1,4 @@
-# [:back:][back] $\color{orange}\textsf{GLOSSARY}$
+# [:back:][back] $\color{#F08000}\textsf{GLOSSARY}$
 
 ## C
 
@@ -30,5 +30,5 @@
 <!-- internal -->
 [back]: index.md "Index"
 
-<!-- external -->
+<!-- url -->
 [temp-url]: https://thebodysmith.com/know-your-tempo/ "Know your tempo"

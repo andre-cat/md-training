@@ -1,4 +1,4 @@
-# [:back:][back] $\color{orange}\textsf{MOVEMENTS}$
+# [:back:][back] $\color{#F08000}\textsf{MOVEMENTS}$ [:soon:][soon]
 
 Each movement has 5 exercises with a different intensity, where `1 = very easy` and `5 = very hard`\.
 
@@ -6,25 +6,27 @@ You **must** know your maximum intensity or `MAX` for each movement to find out 
 
 |                               |                             |                                |
 |:-----------------------------:|:---------------------------:|:------------------------------:|
-|[![abd-img]][abdo]<br>ABDOMINAL|                             |[![pul-img]][pull]<br>PULL-UP   |
-|                               |[![pus-img]][push]<br>PUSH-UP|                                |
-|[![squ-img]][squa]<br>SQUAT    |                             |[![ver-img]][vert]<br>V. PUSH-UP|
+|[![abd-ico]][soon]<br>ABDOMINAL|                             |[![pul-ico]][pull]<br>PULL-UP   |
+|                               |[![pus-ico]][push]<br>PUSH-UP|                                |
+|[![squ-ico]][squa]<br>SQUAT    |                             |[![ver-ico]][vert]<br>V. PUSH-UP|
 
 ---
 
-[![abs](../images/six_pack_little.svg)](../training-1.md "Training 1")
+[![abs](../icons/six_pack_little.svg)](../training-1.md "Training 1")
 
-<!-- internal -->
-[abdo]: abdominal.md "Abdominal"
+<!-- predefined -->
 [back]: ../training-1.md "Training 1"
+[soon]: abdominal.md "Abdominal"
+
+<!-- short -->
 [pull]: pull-up.md "Pull-up"
 [push]: push-up.md "Push-up"
 [squa]: squat.md "Squat"
 [vert]: vertical-push-up.md "Vertical push-up"
 
 <!-- icons -->
-[abd-img]: ../images/abdominal.svg
-[pul-img]: ../images/pull-up.svg
-[pus-img]: ../images/push-up.svg
-[squ-img]: ../images/squat.svg
-[ver-img]: ../images/vertical-push-up.svg
+[abd-ico]: ../icons/abdominal.svg
+[pul-ico]: ../icons/pull-up.svg
+[pus-ico]: ../icons/push-up.svg
+[squ-ico]: ../icons/squat.svg
+[ver-ico]: ../icons/vertical-push-up.svg

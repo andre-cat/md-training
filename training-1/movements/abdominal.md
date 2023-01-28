@@ -1,6 +1,6 @@
-# [:arrow_left:][prev] $\color{orange}\textsf{ABDOMINAL}$ [:arrow_right:][next]
+# [:arrow_left:][prev] $\color{#F08000}\textsf{ABDOMINAL}$ [:arrow_right:][next]
 
-![imag]
+![icon]
 
 `TYPE: CORE`
 
@@ -14,11 +14,11 @@
 
 ---
 
-[![abs](../images/six_pack_little.svg)](../training-1.md "Training 1")
+[![abs](../icons/six_pack_little.svg)](../training-1.md "Training 1")
 
-<!-- internal -->
+<!-- predefined -->
 [next]: pull-up.md "Pull-up"
 [prev]: movements.md "Movements"
 
-<!-- images -->
-[imag]: ../images/abdominal.svg
+<!-- icons -->
+[icon]: ../icons/abdominal.svg
