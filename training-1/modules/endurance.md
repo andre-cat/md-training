@@ -32,9 +32,9 @@ TIME: (30 sec, 60 sec)
 
 ### :fire: Warm-up
 
-+ [ ] **`25 rep`** &emsp;\|&emsp; Jumping Jack
-+ [ ] **`25 rep`** &emsp;\|&emsp; Mountain climber
-+ [ ] **`25 rep`** &emsp;\|&emsp; Reverse mountain climber
++ [ ] **`20 rep`** &emsp;\|&emsp; Jumping Jack
++ [ ] **`20 rep`** &emsp;\|&emsp; Mountain climber
++ [ ] **`20 rep`** &emsp;\|&emsp; Reverse mountain climber
 + [ ] **`01 min`** &emsp;\|&emsp; Skipping
 
 > **Warning**  
@@ -48,7 +48,7 @@ TIME: (30 sec, 60 sec)
 + [ ] **`02 sup`** &emsp;\|&emsp; Bulgarian split squat / Step-up
 + [ ] **`02 sup`** &emsp;\|&emsp; Lunge / Glute kickback
 + [ ] **`02 sup`** &emsp;\|&emsp; Side lunge / Heel raise
-+ [ ] **`12 rep`** &emsp;\|&emsp; Deadlift
++ [ ] _**`12 rep`** &emsp;\|&emsp; Deadlift_
 + [ ] _**`01 min`** &emsp;\|&emsp; Isometric squat_
 
 > #### :muscle: Upper body
@@ -57,7 +57,7 @@ TIME: (30 sec, 60 sec)
 + [ ] **`02 sup`** &emsp;\|&emsp; Vertical push-up / Horizontal pull-up
 + [ ] **`02 sup`** &emsp;\|&emsp; Shoulder push-up / Chin-up
 + [ ] **`02 sup`** &emsp;\|&emsp; Diamond push-up / Negative pull-up
-+ [ ] **`30 sec`** &emsp;\|&emsp; Isometric push-up
++ [ ] _**`30 sec`** &emsp;\|&emsp; Isometric push-up_
 + [ ] _**`30 sec`** &emsp;\|&emsp; Isometric pull-up_
 
 > #### :shield: Core
@@ -80,14 +80,14 @@ TIME: (30 sec, 60 sec)
 
 ### :snowflake: Cool-down
 
-+ [ ] **`02 min`** &emsp;\|&emsp; Jumping rope
++ [ ] **`01 min`** &emsp;\|&emsp; Jumping rope
 
 > **Warning**  
 > Perform **static stretching** after cool-down\.
 
-## Footnotes
+## <sub>Footnotes</sub>
 
-_**sup**_\: superset, 10 or 12 repetitions of two consecutive exercises \(without rest in between\)\.
+<sup>_**sup\:**_ superset, 10 or 12 repetitions of two consecutive exercises \(without rest in between\)\.<br></sup>
 
 ---
 

@@ -4,9 +4,9 @@
 
 `TYPE: CALISTHENICS`
 
-The training 1 plan is oriented to avoid specialization, comfort and energy efficiency and aims to develop the physical qualities of **endurance**, **strength**, **power** and **flexibility** over 10 schedules\.
+The training 1 plan is oriented to avoid specialization, comfort and energy efficiency and aims to develop the physical qualities of **endurance**, **strength**, **power** and **flexibility** over 11 schedules\.
 
-To achieve this, it is proposed to execute a different training module \(focused on a particular physical quality\) every 2 schedules and to finish with a mixed module of 4 schedules\.
+To achieve this, it is proposed to execute a different training module \(focused on a particular physical quality\) every 2 schedules and to finish with a mixed module of 4 schedules and a rest schedule\.
 
 ```mermaid
 ---
@@ -28,11 +28,13 @@ flowchart LR
     B[STRENGTH]
     C[POWER]
     D[MIXED]
+    E["#127796;"]
 
     A --2 sche--> B
     B --2 sche--> C
     C --2 sche--> D
-    D --4 sche--> A
+    D --4 sche--> E
+    E --1 sche--> A
 ```
 
 ## Parameters
@@ -94,7 +96,7 @@ A workout session \(or day\) always consists of the same sequence\: first, warm-
 ## [Modules]
 
 > **Warning**  
-> Each time at the beginning of this 10-week training, the [intensity test] must be performed\.
+> Each time at the beginning of this 11-week training, the [intensity test] must be performed\.
 
 See [here][soon] the first module\.
 

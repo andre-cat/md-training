@@ -27,7 +27,7 @@
 
 [^iso]: Abbreviated as "iso"\.
 
-<!-- internal -->
+<!-- predefined -->
 [back]: index.md "Index"
 
 <!-- url -->

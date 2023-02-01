@@ -63,7 +63,7 @@
 + [ ] **`20 sec`** &emsp;\|&emsp; Outer thigh stretch
 + [ ] **`20 sec`** &emsp;\|&emsp; Quad stretch
 
-> #### :shield: [Core][core]
+> #### :shield: [Core]
 
 + [ ] **`20 sec`** &emsp;\|&emsp; Abdominal stretch
 + [ ] **`20 sec`** &emsp;\|&emsp; Back stretch
@@ -90,7 +90,7 @@
 
 ## Webgraphy
 
-1. Spotebi\. \(2023\)\. Exercise guide\. SPOTEBI\: FITNESS & NUTRITION. <https://www.spotebi.com/exercise-guide/>\.
+1. Spotebi\. \(2023\)\. _Exercise guide_\. SPOTEBI\: FITNESS & NUTRITION. <https://www.spotebi.com/exercise-guide/>\.
 
 ---
 

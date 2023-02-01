@@ -25,17 +25,17 @@ LOAD: MAX
 REPS: 08 - 10
 REST: 01 - 02
 SCHE: 02
-TIME: (0.75, 1.00)
+TIME: (45 sec, 90 sec)
 ```
 
 ## Workout
 
 ### :sweat_drops: Warm-up
 
-+ [ ] **`75 rep`** &emsp;\|&emsp; Jumping Jack
-+ [ ] **`75 rep`** &emsp;\|&emsp; Mountain climber
-+ [ ] **`75 rep`** &emsp;\|&emsp; Reverse mountain climber
-+ [ ] **`03 min`** &emsp;\|&emsp; Skipping
++ [ ] **`30 rep`** &emsp;\|&emsp; Jumping Jack
++ [ ] **`30 rep`** &emsp;\|&emsp; Mountain climber
++ [ ] **`30 rep`** &emsp;\|&emsp; Reverse mountain climber
++ [ ] **`02 min`** &emsp;\|&emsp; Skipping
 
 > **Warning**  
 > Perform **dynamic stretching** before warm-up\.
@@ -47,16 +47,16 @@ TIME: (0.75, 1.00)
 + [ ] **`03 ⨉ 08 - 10`** &emsp;\|&emsp; Jump lunge
 + [ ] **`03 ⨉ 08 - 10`** &emsp;\|&emsp; Knee to chest hop
 + [ ] **`03 ⨉ 08 - 10`** &emsp;\|&emsp; Box jump
-+ [ ] **`03 ⨉ 05 - 08`** &emsp;\|&emsp; Jump squat
-+ [ ] _**`02 ⨉ 05 - 08`** &emsp;\|&emsp; Lateral lunge_
++ [ ] **`03 ⨉ 08 - 10`** &emsp;\|&emsp; Jump squat
++ [ ] _**`02 ⨉ 08 - 10`** &emsp;\|&emsp; Medicine ball throw_
 
 > #### :muscle: Upper body \(push\)
 
-+ [ ] **`03 ⨉ 05 - 08`** &emsp;\|&emsp; Clapping push-up
-+ [ ] **`03 ⨉ 05 - 08`** &emsp;\|&emsp; Hindu push-up
-+ [ ] **`03 ⨉ 05 - 08`** &emsp;\|&emsp; Spartan push-up
-+ [ ] **`03 ⨉ 05 - 08`** &emsp;\|&emsp; Wall tricep extension
-+ [ ] _**`02 ⨉ 05 - 08`** &emsp;\|&emsp; T push-up_
++ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Clapping push-up
++ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Hindu push-up
++ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Spartan push-up
++ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Wall tricep extension
++ [ ] _**`02 ⨉ 03 - 05`** &emsp;\|&emsp; T push-up_
 
 > #### :muscle: Upper body \(pull\)
 
@@ -70,7 +70,7 @@ TIME: (0.75, 1.00)
 
 + [ ] **`03 ⨉ 08 - 10`** &emsp;\|&emsp; Abdominal
 + [ ] **`03 ⨉ 08 - 10`** &emsp;\|&emsp; Hollow extension to cannonball
-+ [ ] **`03 ⨉ 15 - 20`** &emsp;\|&emsp; Knee to elbow
++ [ ] **`03 ⨉ 08 - 10`** &emsp;\|&emsp; Knee to elbow
 + [ ] **`03 ⨉ 08 - 10`** &emsp;\|&emsp; Side jackknife
 + [ ] _**`02 ⨉ 08 - 10`** &emsp;\|&emsp; Back extension_
 
@@ -84,7 +84,7 @@ TIME: (0.75, 1.00)
 
 ### :snowflake: Cool-down
 
-+ [ ] **`06 min`** &emsp;\|&emsp; Jumping rope
++ [ ] **`02 min`** &emsp;\|&emsp; Jumping rope
 
 > **Warning**  
 > Perform **static stretching** after cool-down\.
@@ -94,8 +94,8 @@ TIME: (0.75, 1.00)
 [![abs](../icons/six_pack_little.svg)](../training-1.md "Training 1")
 
 <!-- predefined -->
-[next]: mixed-1.md "Mixed"
-[prev]: strength.md "Strength"
+[next]: mixed-1.md "Mixed 1 module"
+[prev]: strength.md "Strength module"
 
 <!-- glossary -->
 [e]: ../../glossary.md#e "E"
