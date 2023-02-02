@@ -81,7 +81,7 @@ TIME: (30 sec, 01 min)
 [![abs](../icons/six_pack_little.svg)](../training-1.md "Training 1")
 
 <!-- predefined -->
-[next]: rest.md "Rest module"
+[next]: rest.md "🌴"
 [prev]: mixed-3.md "Mixed 3 module"
 
 <!-- glossary -->

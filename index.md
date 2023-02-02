@@ -12,6 +12,7 @@
       > [Mixed 2](training-1/modules/mixed-2.md "")  
       > [Mixed 3](training-1/modules/mixed-3.md "")  
       > [Mixed 4](training-1/modules/mixed-4.md "")  
+      > [Rest](training-1/modules/rest.md "")  
       > [Flexibility](training-1/modules/flexibility.md "")  
     + [Movements](training-1/movements/movements.md "")
       > [Abdominals](training-1/movements/abdominal.md "")  
@@ -25,4 +26,4 @@
       > [Intensity](training-1/tests/intensity.md "")  
 
 <!-- internal -->
-[back]: home.md "Training"
+[back]: home.md "Home"

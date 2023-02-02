@@ -5,7 +5,7 @@
 For moderate:
 
 |Phase   |Velocity|Tempo (s)|
-|:-------|:------:|:-------:|
+|:------:|:------:|:-------:|
 |[con][c]|Fast    |0        |
 |[iso][i]|Stop    |1        |
 |[ecc][e]|Slow    |2        |

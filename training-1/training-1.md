@@ -28,7 +28,7 @@ flowchart LR
     B[STRENGTH]
     C[POWER]
     D[MIXED]
-    E["#127796;"]
+    E[REST]
 
     A --2 sche--> B
     B --2 sche--> C
@@ -86,9 +86,19 @@ A workout session \(or day\) always consists of the same sequence\: first, warm-
 
 + The following nomenclature is used to express the number of sets and repetitions\.
 
-> **\[sets\]** &times; **\[minimum repetitions\] \- \[maximum repetitions\]**  
+For repetition exercises:
+> **\[repetitions\]**  
 > or  
-> **\[sets\]** &times; **\[minimum time \- maximum time\]**.
+> **\[sets\]** &times; **\[repetitions\]**  
+> or  
+> **\[sets\]** &times; **\[minimum repetitions\] \- \[maximum repetitions\]**  
+
+For time exercises:  
+> **\[time\]**  
+> or  
+> **\[sets\]** &times; **\[time\]**  
+> or  
+> **\[sets\]** &times; **\[minimum time\] \- \[maximum time\]**  
 
 + When no exercise in workout is a time exercise, the word ~~rep~~ is deleted\.
 + The last exercises with italic emphasis are always _optional_\.

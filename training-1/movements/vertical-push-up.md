@@ -1,6 +1,6 @@
 # [:arrow_left:][prev] $\color{#F08000}\textsf{VERTICAL PUSH-UP}$ [:arrow_right:][next]
 
-[![icon]](#)
+[![icon]](#levels)
 
 `TYPE: UPPER BODY`
 

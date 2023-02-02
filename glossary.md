@@ -19,7 +19,7 @@
 ## T
 
 + _**Tabata**_\: a HIIT workout that consists of performing an exercise for 20 seconds, resting for 10 and repeating the previous 8 times\.
-+ _**Tempo**_\: Muscle contraction time[<sup>?</sup>][temp-url]\. The smaller the tempo the faster the contraction\.
++ _**Tempo**_\: Muscle contraction time[<sup>:question:</sup>][temp-url]\. The smaller the tempo the faster the contraction\.
 
 [^con]: Abbreviated as "con"\.
 

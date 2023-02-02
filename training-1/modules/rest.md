@@ -1,6 +1,6 @@
-# [:arrow_left:][prev] You're done! :palm_tree: [:arrow_right:][next]
+# [:arrow_left:][prev] You're done\! :palm_tree: [:arrow_right:][next]
 
-You deserve a break: _an entire schedule._
+You deserve a break\: _an entire schedule for take a break\._
 
 ---
 

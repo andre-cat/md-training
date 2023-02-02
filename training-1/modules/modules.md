@@ -35,6 +35,10 @@
     > 3. [**`MIXED 3`**][mix 3]
     > 4. [**`MIXED 4`**][mix 4]
 
+5. ### [**`Rest`**][rest]
+
+    > Do nothing\. \:\)
+
 ## Secondary
 
 1. ### [**`Flexibility`**][flexibility]
@@ -48,10 +52,11 @@
 [soon]: endurance.md "Endurance"
 
 <!-- named -->
-[strength]: strength.md "Strength"
-[power]: power.md "Power"
-[mix 1]: mixed-1.md "Mixed 1"
-[mix 2]: mixed-2.md "Mixed 2"
-[mix 3]: mixed-3.md "Mixed 3"
-[mix 4]: mixed-4.md "Mixed 4"
-[flexibility]: flexibility.md "Flexibility"
+[flexibility]: flexibility.md
+[mix 1]: mixed-1.md
+[mix 2]: mixed-2.md
+[mix 3]: mixed-3.md
+[mix 4]: mixed-4.md
+[power]: power.md
+[rest]: rest.md
+[strength]: strength.md

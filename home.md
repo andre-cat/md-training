@@ -1,10 +1,10 @@
-# $\color{#F08000}\textsf{MD-BODY-TRAINING}$
+# $\color{#F08000}\textsf{HOME}$
 
 [//]: # (this menu also is called home)
 
 ## Trainings
 
-1. ### [Training 1]: Calisthenics \(amateur\)
+1. ### [Training 1] \- Calisthenics \(amateur\)
 
 ---
 
