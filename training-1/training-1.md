@@ -85,7 +85,7 @@ A workout session \(or day\) always consists of the same sequence\: first, warm-
 
 > ### :one::fire: &rarr; :two::sweat_drops: &rarr; :three::snowflake: &#8203;
 >
->> _Sequence of all workout sessions._
+> _<sup>Sequence of all workout sessions.</sup>_
 
 ## Notes
 

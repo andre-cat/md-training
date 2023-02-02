@@ -6,6 +6,8 @@
 
 1. ### [Training 1] \- Calisthenics \(amateur\)
 
+2. ### [Training 2](none.md) \- Barbells \(intermediate\)
+
 ---
 
 ## [:twisted_rightwards_arrows:][index] [:capital_abcd:][glossary]
