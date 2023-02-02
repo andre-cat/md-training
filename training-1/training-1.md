@@ -52,9 +52,9 @@ The nature of the modules differs in the following factors\:
 
 Each module lasts for the completion of the following schedule 2 or more times\.
 
-|D1   |D2      |D3         |D4   |D5      |D6         |D7         |D8                       |D9      |
-|:---:|:------:|:---------:|:---:|:------:|:---------:|:---------:|:-----------------------:|:------:|
-|:leg:|:muscle:|:palm_tree:|:leg:|:muscle:|:palm_tree:|:stopwatch:|:triangular_flag_on_post:|:shield:|
+|D1   |D2      |D3         |D4   |D5      |D6         |D7         |D8                       |D9         |
+|:---:|:------:|:---------:|:---:|:------:|:---------:|:---------:|:-----------------------:|:---------:|
+|:leg:|:muscle:|:palm_tree:|:leg:|:muscle:|:palm_tree:|:stopwatch:|:triangular_flag_on_post:|:palm_tree:|
 
 Each emoji specifies a different workout day\:
 
@@ -63,16 +63,21 @@ Each emoji specifies a different workout day\:
 |Challenge day   |:triangular_flag_on_post:|
 |Core day        |:shield:                 |
 |Flexibility day |:octopus:                |
-|HIIT day        |:stopwatch:              |
+|[HIIT][h] day   |:stopwatch:              |
 |Lower body day  |:leg:                    |
 |Rest day        |:palm_tree:              |
 |Upper body day  |:muscle:                 |
 
 > **Note**  
-> Since nowhere in the schedule is the [flexibility] day specified, it is recommended to incorporate a session every [HIIT][h] day\:
->
-> |:stopwatch::octopus:|
-> |--------------------|
+>> **About core day <sub>:shield:</sub>:**  
+>> Is optional, but if practiced it is recommended after the HIIT day sessions.
+>> |:stopwatch::shield:|
+>> |-------------------|
+> ---
+>> **About flexibility day <sub>:octopus:</sub>:**  
+>> Since there is no [flexibility] module, it is recommended to incorporate flexibility sessions after each challenge day sessions.
+>> |:triangular_flag_on_post::octopus:|
+>> |----------------------------------|
 
 ## Sequence
 
