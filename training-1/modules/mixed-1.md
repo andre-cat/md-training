@@ -11,7 +11,7 @@ TIME: (01 min, 02 min)
 
 ## Workout
 
-### :fire: Warm-up
+### :fire: Warm\-up
 
 + [ ] **`35 rep`** &emsp;\|&emsp; Jumping Jack
 + [ ] **`35 rep`** &emsp;\|&emsp; Mountain climber
@@ -19,7 +19,7 @@ TIME: (01 min, 02 min)
 + [ ] **`02 min`** &emsp;\|&emsp; Skipping
 
 > **Warning**  
-> Perform **dynamic stretching** before warm-up\.
+> Perform **dynamic stretching** before warm\-up\.
 
 ### :sweat_drops: Exercise
 
@@ -27,24 +27,24 @@ TIME: (01 min, 02 min)
 
 + [ ] **`03 ⨉ 08 - 10`** &emsp;\|&emsp; Box jump
 + [ ] **`03 ⨉ 08 - 10`** &emsp;\|&emsp; Jump lunge
-+ [ ] **`03 ⨉ 08 - 10`** &emsp;\|&emsp; Jump squat
++ [ ] **`03 ⨉ 08 - 10`** &emsp;\|&emsp; 180 jump squat
 + [ ] **`03 ⨉ 08 - 10`** &emsp;\|&emsp; Knee to chest hop
 + [ ] _**`03 ⨉ 08 - 10`** &emsp;\|&emsp; Heel raise_
 
 > #### :muscle: Upper body \(push\)
 
-+ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Uneven push-up
-+ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Deep push-up
-+ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Vertical push-up
++ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Uneven push\-up
++ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Deep push\-up
++ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Vertical push\-up
 + [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Dip
 + [ ] _**`02 ⨉ 03 - 05`** &emsp;\|&emsp; Medicine ball push up_
 
 > #### :muscle: Upper body \(pull\)
 
-+ [ ] **`03 ⨉ 03 - 05 rep`** &emsp;\|&emsp; Pull-up
-+ [ ] **`03 ⨉ 03 - 05 rep`** &emsp;\|&emsp; Horizontal pull-up
-+ [ ] **`03 ⨉ 03 - 05 rep`** &emsp;\|&emsp; Narrow grip pull-up
-+ [ ] **`03 ⨉ 03 - 05 rep`** &emsp;\|&emsp; Negative pull-up
++ [ ] **`03 ⨉ 03 - 05 rep`** &emsp;\|&emsp; Pull\-up
++ [ ] **`03 ⨉ 03 - 05 rep`** &emsp;\|&emsp; Horizontal pull\-up
++ [ ] **`03 ⨉ 03 - 05 rep`** &emsp;\|&emsp; Narrow grip pull\-up
++ [ ] **`03 ⨉ 03 - 05 rep`** &emsp;\|&emsp; Negative pull\-up
 + [ ] _**`01 ⨉ 15 - 30 sec`** &emsp;\|&emsp; Active hang_
 + [ ] _**`01 ⨉ 45 - 60 sec`** &emsp;\|&emsp; Dead hang_
 
@@ -58,18 +58,18 @@ TIME: (01 min, 02 min)
 
 > #### :stopwatch: [HIIT][h]
 
-+ [ ] [**`Tabata`**][t] &emsp;\|&emsp; 180 jump squat
++ [ ] [**`Tabata`**][t] &emsp;\|&emsp; Push\-up \(level 3\)
 
 > #### :triangular_flag_on_post: Challenge
 
-+ [ ] **`200 rep in 5 min`** &emsp;\|&emsp; Squat
++ [ ] **`200 rep in 5 min`** &emsp;\|&emsp; Squat \(level 3\)
 
-### :snowflake: Cool-down
+### :snowflake: Cool\-down
 
 + [ ] **`02 min`** &emsp;\|&emsp; Jumping rope
 
 > **Warning**  
-> Perform **static stretching** after cool-down\.
+> Perform **static stretching** after cool\-down\.
 
 ---
 

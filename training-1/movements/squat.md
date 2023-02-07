@@ -18,7 +18,7 @@
 
 <!-- predefined -->
 [next]: vertical-push-up.md "Vertical push-up"
-[prev]: push-up.md.md "Push-up"
+[prev]: push-up.md "Push-up"
 
 <!-- icons -->
 [icon]: ../icons/squat.svg

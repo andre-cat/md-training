@@ -9,14 +9,14 @@
 
 ## Test
 
-### :fire: Warm-up
+### :fire: Warm\-up
 
 + [ ] **`20 rep`** &emsp;|&emsp; Jumping Jack
 + [ ] **`20 rep`** &emsp;|&emsp; Mountain climber
 + [ ] **`20 rep`** &emsp;|&emsp; Reverse mountain climber
 + [ ] **`01 min`** &emsp;|&emsp; Skipping
 
-### :sweat_drops: Work-out
+### :sweat_drops: Work\-out
 
 For each movement, where `MAX` is the intensity reached \(see [table 1]\), do the following\:
 
@@ -57,21 +57,21 @@ flowchart TB
     4Y -- "NO " --> 4YN --> 4YN0 --> 3
 ```
 
-<sub>Click [here][int-cht] to see the complete chart\.</sub>
+<sub>Click [here][chart] to see the complete chart\.</sub>
 
-### :snowflake: Cool-down
+### :snowflake: Cool\-down
 
 + [ ] **`02 min`** &emsp;|&emsp; Jumping rope
 
 ## Levels
 
-|Movement \/<br>Level     |1     |2     |3     |4     |5     |
-|:------------------------|:----:|:----:|:----:|:----:|:----:|
-|**Abdominal**            |30 rep|30 rep|25 rep|15 rep|10 rep|
-|**Pull-up**              |[^pul]|10 rep|10 rep|08 rep|03 rep|
-|**Push-up**              |30 rep|30 rep|30 rep|30 rep|10 rep|
-|**Squat**                |30 rep|30 rep|30 rep|15 rep|10 rep|
-|**Vertical push-up**     |45 sec|45 sec|10 rep|10 rep|10 rep|
+|Movement \/<br>Level      |1     |2     |3     |4     |5     |
+|:-------------------------|:----:|:----:|:----:|:----:|:----:|
+|**Abdominal**             |30 rep|30 rep|25 rep|15 rep|10 rep|
+|**Pull\-up**              |[^pul]|10 rep|10 rep|08 rep|03 rep|
+|**Push\-up**              |30 rep|30 rep|30 rep|30 rep|10 rep|
+|**Squat**                 |30 rep|30 rep|30 rep|15 rep|10 rep|
+|**Vertical push\-up**     |45 sec|45 sec|10 rep|10 rep|10 rep|
 > _Table 1\: criteria to reach intensity levels._
 
 [^pul]: `45 sec | active hung` \& `20 sec | iso hold`\.
@@ -88,4 +88,4 @@ flowchart TB
 [movements]: ../movements/movements.md "Movements"
 
 <!-- charts -->
-[int-cht]: ../others/chart-intensity-test.md "Complete intensity test"
+[chart]: ../others/chart-intensity-test.md "Complete intensity test"

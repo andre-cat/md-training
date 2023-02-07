@@ -30,7 +30,7 @@ TIME: (45 sec, 90 sec)
 
 ## Workout
 
-### :sweat_drops: Warm-up
+### :sweat_drops: Warm\-up
 
 + [ ] **`30 rep`** &emsp;\|&emsp; Jumping Jack
 + [ ] **`30 rep`** &emsp;\|&emsp; Mountain climber
@@ -38,9 +38,9 @@ TIME: (45 sec, 90 sec)
 + [ ] **`02 min`** &emsp;\|&emsp; Skipping
 
 > **Warning**  
-> Perform **dynamic stretching** before warm-up\.
+> Perform **dynamic stretching** before warm\-up\.
 
-### :sweat_drops: Work-out
+### :sweat_drops: Work\-out
 
 > #### :leg: Lower body
 
@@ -52,19 +52,19 @@ TIME: (45 sec, 90 sec)
 
 > #### :muscle: Upper body \(push\)
 
-+ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Clapping push-up
-+ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Hindu push-up
-+ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Spartan push-up
-+ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Wall tricep extension
-+ [ ] _**`02 ⨉ 03 - 05`** &emsp;\|&emsp; T push-up_
++ [ ] **`03 ⨉ 05 - 08`** &emsp;\|&emsp; Clapping push\-up
++ [ ] **`03 ⨉ 05 - 08`** &emsp;\|&emsp; Hindu push\-up
++ [ ] **`03 ⨉ 05 - 08`** &emsp;\|&emsp; Spartan push\-up
++ [ ] **`03 ⨉ 05 - 08`** &emsp;\|&emsp; Wall tricep extension
++ [ ] _**`02 ⨉ 03 - 05`** &emsp;\|&emsp; T push\-up_
 
 > #### :muscle: Upper body \(pull\)
 
-+ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Pull-up
-+ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Horizontal pull-up
-+ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Chin-up
-+ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Muscle-up
-+ [ ] _**`02 ⨉ 03 - 05`** &emsp;\|&emsp; Commando pull-up_
++ [ ] **`03 ⨉ 05 - 08`** &emsp;\|&emsp; Pull\-up
++ [ ] **`03 ⨉ 05 - 08`** &emsp;\|&emsp; Horizontal pull\-up
++ [ ] **`03 ⨉ 05 - 08`** &emsp;\|&emsp; Chin\-up
++ [ ] **`03 ⨉ 05 - 08`** &emsp;\|&emsp; Muscle\-up
++ [ ] _**`02 ⨉ 05 - 08`** &emsp;\|&emsp; Commando pull\-up_
 
 > #### :shield: Core
 
@@ -82,12 +82,12 @@ TIME: (45 sec, 90 sec)
 
 + [ ] **`50 rep`** &emsp;\|&emsp; Burpee
 
-### :snowflake: Cool-down
+### :snowflake: Cool\-down
 
 + [ ] **`02 min`** &emsp;\|&emsp; Jumping rope
 
 > **Warning**  
-> Perform **static stretching** after cool-down\.
+> Perform **static stretching** after cool\-down\.
 
 ---
 

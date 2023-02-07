@@ -7,10 +7,10 @@
 ## Levels
 
 1. Active hang
-2. Assisted pull-up
-3. Pull-up
-4. One arm assisted pull-up
-5. One arm pull-up :star:
+2. Assisted pull\-up
+3. Pull\-up
+4. One arm assisted pull\-up
+5. One arm pull\-up :star:
 
 ---
 

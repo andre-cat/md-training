@@ -1,6 +1,6 @@
 # [:back:][back] $\color{#F08000}\textsf{CHART: INTENSITY TEST}$
 
-With the movements of abdominal, pull-up, push-up, squat and vertical push-up, do\:
+With the 5 [movements] do\:
 
 ```mermaid
 ---
@@ -55,3 +55,6 @@ flowchart TB
 
 <!-- predefined -->
 [back]: ../tests/intensity.md "Intensity test"
+
+<!-- named -->
+[movements]: ../movements/

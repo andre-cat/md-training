@@ -10,7 +10,7 @@
 2. Crunch kicks
 3. Lying leg rises
 4. Hanging knee raises
-5. Hanging L-sit :star:
+5. Hanging L\-sit :star:
 
 ---
 

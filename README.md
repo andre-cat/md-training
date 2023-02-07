@@ -1,4 +1,4 @@
-# $\color{#F08000}\textsf{MD-BODY-TRAINING}$
+# $\color{#F08000}\textsf{MD\-BODY\-TRAINING}$
 
 ## Welcome\! First, what is this?
 

@@ -10,7 +10,7 @@
 
 ## H
 
-+ _**HIIT**_\: High-Intensity Interval Training\.
++ _**HIIT**_\: High\-Intensity Interval Training\.
 
 ## I
 
@@ -18,7 +18,7 @@
 
 ## T
 
-+ _**Tabata**_\: a HIIT workout that consists of performing an exercise for 20 seconds, resting for 10 and repeating the previous 8 times\.
++ _**Tabata**_\: a HIIT workout that consists of doing an exercise at maximum speed for 20 seconds, jogging in place \(active rest\) for 10 seconds and repeating 7 times \(8 times in total\)\.
 + _**Tempo**_\: Muscle contraction time[<sup>:question:</sup>][temp-url]\. The smaller the tempo the faster the contraction\.
 
 [^con]: Abbreviated as "con"\.

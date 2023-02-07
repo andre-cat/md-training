@@ -6,11 +6,11 @@
 
 ## Levels
 
-1. Desk push-up
-2. Knee push-up
-3. Push-up
-4. Decline push-up
-5. One arm push-up :star:
+1. Desk push\-up
+2. Knee push\-up
+3. Push\-up
+4. Decline push\-up
+5. One arm push\-up :star:
 
 ---
 

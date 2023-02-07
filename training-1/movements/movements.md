@@ -4,11 +4,11 @@ Each movement has 5 exercises with a different intensity, where `1 = very easy` 
 
 You must know your maximum intensity or `MAX` for each movement to find out which of its 5 exercises to perform in the workouts\.
 
-|                               |                             |                                |
-|:-----------------------------:|:---------------------------:|:------------------------------:|
-|[![abd-ico]][soon]<br>ABDOMINAL|                             |[![pul-ico]][pull]<br>PULL-UP   |
-|                               |[![pus-ico]][push]<br>PUSH-UP|                                |
-|[![squ-ico]][squa]<br>SQUAT    |                             |[![ver-ico]][vert]<br>V. PUSH-UP|
+|                               |                              |                                 |
+|:-----------------------------:|:----------------------------:|:-------------------------------:|
+|[![abd-ico]][soon]<br>ABDOMINAL|                              |[![pul-ico]][pull]<br>PULL\-UP   |
+|                               |[![pus-ico]][push]<br>PUSH\-UP|                                 |
+|[![squ-ico]][squa]<br>SQUAT    |                              |[![ver-ico]][vert]<br>V. PUSH\-UP|
 
 ---
 

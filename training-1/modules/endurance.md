@@ -22,7 +22,7 @@ For normal:
 
 ```text
 LOAD: MAX - 1
-REPS: 10 - 12
+REPS: 08 - 12
 REST: 01
 SCHE: 02
 TIME: (30 sec, 60 sec)
@@ -30,7 +30,7 @@ TIME: (30 sec, 60 sec)
 
 ## Workout
 
-### :fire: Warm-up
+### :fire: Warm\-up
 
 + [ ] **`20 rep`** &emsp;\|&emsp; Jumping Jack
 + [ ] **`20 rep`** &emsp;\|&emsp; Mountain climber
@@ -38,14 +38,14 @@ TIME: (30 sec, 60 sec)
 + [ ] **`01 min`** &emsp;\|&emsp; Skipping
 
 > **Warning**  
-> Perform **dynamic stretching** before warm-up\.
+> Perform **dynamic stretching** before warm\-up\.
 
-### :sweat_drops: Work-out
+### :sweat_drops: Work\-out
 
 > #### :leg: Lower body
 
 + [ ] **`02`[`sup`](#footnotes)**&emsp;\|&emsp; Squat / Glute bridge
-+ [ ] **`02 sup`** &emsp;\|&emsp; Bulgarian split squat / Step-up
++ [ ] **`02 sup`** &emsp;\|&emsp; Bulgarian split squat / Step\-up
 + [ ] **`02 sup`** &emsp;\|&emsp; Lunge / Glute kickback
 + [ ] **`02 sup`** &emsp;\|&emsp; Side lunge / Heel raise
 + [ ] _**`12 rep`** &emsp;\|&emsp; Deadlift_
@@ -53,17 +53,17 @@ TIME: (30 sec, 60 sec)
 
 > #### :muscle: Upper body
 
-+ [ ] **`02 sup`** &emsp;\|&emsp; Push-up / Pull-up
-+ [ ] **`02 sup`** &emsp;\|&emsp; Vertical push-up / Horizontal pull-up
-+ [ ] **`02 sup`** &emsp;\|&emsp; Shoulder push-up / Chin-up
-+ [ ] **`02 sup`** &emsp;\|&emsp; Diamond push-up / Negative pull-up
-+ [ ] _**`30 sec`** &emsp;\|&emsp; Isometric push-up_
-+ [ ] _**`30 sec`** &emsp;\|&emsp; Isometric pull-up_
++ [ ] **`02 sup`** &emsp;\|&emsp; Push\-up / Pull\-up
++ [ ] **`02 sup`** &emsp;\|&emsp; Vertical push\-up / Horizontal pull\-up
++ [ ] **`02 sup`** &emsp;\|&emsp; Pike push\-up / Chin\-up
++ [ ] **`02 sup`** &emsp;\|&emsp; Diamond push\-up / Negative pull\-up
++ [ ] _**`30 sec`** &emsp;\|&emsp; Isometric push\-up_
++ [ ] _**`30 sec`** &emsp;\|&emsp; Isometric pull\-up_
 
 > #### :shield: Core
 
 + [ ] **`02 sup`** &emsp;\|&emsp; Abdominal / Side plank
-+ [ ] **`02 sup`** &emsp;\|&emsp; L-sit / Reverse plank
++ [ ] **`02 sup`** &emsp;\|&emsp; L\-sit / Reverse plank
 + [ ] **`02 sup`** &emsp;\|&emsp; Bird dog / Bicycle crunch
 + [ ] **`02 sup`** &emsp;\|&emsp; V with rotation / Plank
 + [ ] _**`01 sup`** &emsp;\|&emsp; Sitting punch / Flutter kick_
@@ -74,16 +74,16 @@ TIME: (30 sec, 60 sec)
 
 > #### :triangular_flag_on_post: Challenge
 
-+ [ ] **`100 rep`** &emsp;\|&emsp; Squat
-+ [ ] **`050 rep`** &emsp;\|&emsp; Push-up
++ [ ] **`100 rep`** &emsp;\|&emsp; Squat \(level 3\)
++ [ ] **`050 rep`** &emsp;\|&emsp; Push\-up \(level 3\)
 + [ ] **`004 min`** &emsp;\|&emsp; Jumping rope
 
-### :snowflake: Cool-down
+### :snowflake: Cool\-down
 
 + [ ] **`01 min`** &emsp;\|&emsp; Jumping rope
 
 > **Warning**  
-> Perform **static stretching** after cool-down\.
+> Perform **static stretching** after cool\-down\.
 
 ## <sub>Footnotes</sub>
 

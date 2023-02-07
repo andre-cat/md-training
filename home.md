@@ -4,9 +4,9 @@
 
 ## Trainings
 
-1. ### [Training 1] \- Calisthenics \(amateur\)
+1. ### [Training \#1] \- Calisthenics \(amateur\)
 
-2. ### [Training 2](none.md) \- Barbells \(intermediate\)
+2. ### [Training #2](none.md) \- Barbells \(intermediate\)
 
 ---
 
@@ -15,4 +15,4 @@
 <!-- named -->
 [glossary]: glossary.md "Glossary"
 [index]: index.md "Index"
-[training 1]: training-1/training-1.md
+[training \#1]: training-1/training-1.md

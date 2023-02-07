@@ -11,7 +11,7 @@ TIME: (30 sec, 01 min)
 
 ## Workout
 
-### :fire: Warm-up
+### :fire: Warm\-up
 
 + [ ] **`50 rep`** &emsp;\|&emsp; Jumping Jack
 + [ ] **`50 rep`** &emsp;\|&emsp; Mountain climber
@@ -19,7 +19,7 @@ TIME: (30 sec, 01 min)
 + [ ] **`04 min`** &emsp;\|&emsp; Skipping
 
 > **Warning**  
-> Perform **dynamic stretching** before warm-up\.
+> Perform **dynamic stretching** before warm\-up\.
 
 ### :sweat_drops: Exercise
 
@@ -32,18 +32,18 @@ TIME: (30 sec, 01 min)
 + [ ] **`20 rep`** &emsp;\|&emsp; Lunge
 + [ ] **`10 rep`** &emsp;\|&emsp; Burpee
 + [ ] **`20 rep`** &emsp;\|&emsp; Lateral lunge
-+ [ ] **`25 rep`** &emsp;\|&emsp; Running in place
++ [ ] **`25 rep`** &emsp;\|&emsp; Skipping
 
 > #### :muscle: Upper body
 
 &emsp;**`02 TIMES:`**
 
-+ [ ] **`10 rep`** &emsp;\|&emsp; Pull-up
++ [ ] **`10 rep`** &emsp;\|&emsp; Pull\-up
 + [ ] **`10 rep`** &emsp;\|&emsp; Burpee
-+ [ ] **`20 rep`** &emsp;\|&emsp; Push-up
++ [ ] **`20 rep`** &emsp;\|&emsp; Push\-up
 + [ ] **`10 rep`** &emsp;\|&emsp; Burpee
-+ [ ] **`10 rep`** &emsp;\|&emsp; Chin-up
-+ [ ] **`25 rep`** &emsp;\|&emsp; Running in place
++ [ ] **`10 rep`** &emsp;\|&emsp; Chin\-up
++ [ ] **`25 rep`** &emsp;\|&emsp; Skipping
 
 > #### :shield: Core
 
@@ -54,27 +54,27 @@ TIME: (30 sec, 01 min)
 + [ ] **`01 min`** &emsp;\|&emsp; Side plank
 + [ ] **`10 rep`** &emsp;\|&emsp; Burpee
 + [ ] **`01 min`** &emsp;\|&emsp; Reverse plank
-+ [ ] **`25 rep`** &emsp;\|&emsp; Running in place
++ [ ] **`25 rep`** &emsp;\|&emsp; Skipping
 
 > #### :stopwatch: [HIIT][h]
 
-+ [ ] [**`Tabata`**][t] &emsp;\|&emsp; Walk
+&emsp;**`06 TIMES:`**
+
++ [ ] **`10 rep`** &emsp;\|&emsp; Squat \(level 3\)
++ [ ] **`20 sec`** &emsp;\|&emsp; Sprint
++ [ ] **`10 rep`** &emsp;\|&emsp; Push\-up \(level 3\)
++ [ ] **`20 sec`** &emsp;\|&emsp; :palm_tree:
 
 > #### :triangular_flag_on_post: Challenge
 
-&emsp;**`06 TIMES:`**
-
-+ [ ] **`10 rep`** &emsp;\|&emsp; Squat
-+ [ ] **`20 sec`** &emsp;\|&emsp; Sprint
-+ [ ] **`10 rep`** &emsp;\|&emsp; Push-up
-+ [ ] **`20 sec`** &emsp;\|&emsp; :palm_tree:
++ [ ] **`50 rep`** &emsp;\|&emsp; Vertical jump
 
 ### :snowflake: Cool-down
 
 + [ ] **`04 min`** &emsp;\|&emsp; Jumping rope
 
 > **Warning**  
-> Perform **static stretching** after cool-down\.
+> Perform **static stretching** after cool\-down\.
 
 ---
 
@@ -86,7 +86,6 @@ TIME: (30 sec, 01 min)
 
 <!-- glossary -->
 [h]: ../../glossary.md#h "H"
-[t]: ../../glossary.md#t "T"
 
 <!-- named -->
 [parameters]: ../training-1.md#parameters "Parameters"

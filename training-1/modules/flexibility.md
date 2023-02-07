@@ -2,7 +2,7 @@
 
 ## Workout
 
-### :fire: Warm-up
+### :fire: Warm\-up
 
 1. Option one:
     + [ ] **`01 min`** &emsp;\|&emsp; [Alligator crawl][func-url]

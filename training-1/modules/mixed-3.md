@@ -11,7 +11,7 @@ TIME: (30 sec, 01 min)
 
 ## Workout
 
-### :fire: Warm-up
+### :fire: Warm\-up
 
 + [ ] **`45 rep`** &emsp;\|&emsp; Jumping Jack
 + [ ] **`45 rep`** &emsp;\|&emsp; Mountain climber
@@ -19,7 +19,7 @@ TIME: (30 sec, 01 min)
 + [ ] **`03 min`** &emsp;\|&emsp; Skipping
 
 > **Warning**  
-> Perform **dynamic stretching** before warm-up\.
+> Perform **dynamic stretching** before warm\-up\.
 
 ### :sweat_drops: Exercise
 
@@ -32,44 +32,48 @@ TIME: (30 sec, 01 min)
 
 > #### :muscle: Upper body \(push\)
 
-+ [ ] **`03 ⨉ MPR`** &emsp;\|&emsp; Push-up
-+ [ ] **`03 ⨉ MPR`** &emsp;\|&emsp; Vertical push-up
-+ [ ] **`03 ⨉ MPR`** &emsp;\|&emsp; Hindu push-up
++ [ ] **`03 ⨉ MPR`** &emsp;\|&emsp; Push\-up
++ [ ] **`03 ⨉ MPR`** &emsp;\|&emsp; Vertical push\-up
++ [ ] **`03 ⨉ MPR`** &emsp;\|&emsp; Hindu push\-up
 + [ ] [**`Tabata`**][t] &emsp;&emsp;&nbsp;\|&emsp; Burpee
 
 > #### :muscle: Upper body \(pull\)
 
-+ [ ] **`03 ⨉ MPR`** &emsp;\|&emsp; Pull-up
-+ [ ] **`03 ⨉ MPR`** &emsp;\|&emsp; Horizontal pull-up
-+ [ ] **`03 ⨉ MPR`** &emsp;\|&emsp; Comando pull-up
++ [ ] **`03 ⨉ MPR`** &emsp;\|&emsp; Pull\-up
++ [ ] **`03 ⨉ MPR`** &emsp;\|&emsp; Horizontal pull\-up
++ [ ] **`03 ⨉ MPR`** &emsp;\|&emsp; Commando pull\-up
 + [ ] **`Tabata`** &emsp;&emsp;&nbsp;\|&emsp; Burpee
 
 > #### :shield: Core
 
 + [ ] **`03 ⨉ MPR`** &emsp;\|&emsp; Abdominal
 + [ ] **`03 ⨉ MPR`** &emsp;\|&emsp; Back extension
-+ [ ] **`03 ⨉ MPR`** &emsp;\|&emsp; V-up
++ [ ] **`03 ⨉ MPR`** &emsp;\|&emsp; V\-up
 + [ ] **`Tabata`** &emsp;&emsp;&nbsp;\|&emsp; Burpee
 
 > #### :stopwatch: [HIIT][h]
 
-+ [ ] **`Tabata`** &emsp;\|&emsp; Jump
+&emsp;**`TABATA:`**
+
++ [ ] **`20 sec`** &emsp;\|&emsp; Sprint
++ [ ] **`10 sec`** &emsp;\|&emsp; Running
++ [ ] **`REPEAT 07 TIMES`**
 
 > #### :triangular_flag_on_post: Challenge
 
 + [ ] **`03 ⨉`[`MPT`](#footnotes)**&emsp;\|&emsp; Isometric squat
-+ [ ] **`03 ⨉ MPT`** &emsp;\|&emsp; Isometric pull-up
++ [ ] **`03 ⨉ MPT`** &emsp;\|&emsp; Isometric pull\-up
 + [ ] **`03 ⨉ MPT`** &emsp;\|&emsp; Isometric glute bridge
-+ [ ] **`03 ⨉ MPT`** &emsp;\|&emsp; Isometric push-up
++ [ ] **`03 ⨉ MPT`** &emsp;\|&emsp; Isometric push\-up
 + [ ] **`03 ⨉ MPT`** &emsp;\|&emsp; Isometric lunge
-+ [ ] **`03 ⨉ MPT`** &emsp;\|&emsp; Isometric vertical push-up
++ [ ] **`03 ⨉ MPT`** &emsp;\|&emsp; Isometric vertical push\-up
 
-### :snowflake: Cool-down
+### :snowflake: Cool\-down
 
 + [ ] **`03 min`** &emsp;\|&emsp; Jumping rope
 
 > **Warning**  
-> Perform **static stretching** after cool-down\.
+> Perform **static stretching** after cool\-down\.
 
 ## <sub>Footnotes</sub>
 

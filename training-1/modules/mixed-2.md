@@ -11,7 +11,7 @@ TIME: (01 min, 02 min)
 
 ## Workout
 
-### :fire: Warm-up
+### :fire: Warm\-up
 
 + [ ] **`40 rep`** &emsp;\|&emsp; Jumping Jack
 + [ ] **`40 rep`** &emsp;\|&emsp; Mountain climber
@@ -19,7 +19,7 @@ TIME: (01 min, 02 min)
 + [ ] **`03 min`** &emsp;\|&emsp; Skipping
 
 > **Warning**  
-> Perform **dynamic stretching** before warm-up\.
+> Perform **dynamic stretching** before warm\-up\.
 
 ### :sweat_drops: Exercise
 
@@ -33,19 +33,19 @@ TIME: (01 min, 02 min)
 
 > #### :muscle: Upper body \(push\)
 
-+ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Clapping push-up
-+ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Vertical push-up
-+ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Spartan push-up
-+ [ ] **`03 ⨉ 08 - 10`** &emsp;\|&emsp; Wall tricep extension
-+ [ ] _**`02 ⨉ 05 - 08`** &emsp;\|&emsp; Hindu push-up_
++ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Clapping push\-up
++ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Vertical push\-up
++ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Spartan push\-up
++ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Wall tricep extension
++ [ ] _**`02 ⨉ 03 - 05`** &emsp;\|&emsp; Hindu push\-up_
 
 > #### :muscle: Upper body \(pull\)
 
-+ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Pull-up
-+ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Horizontal pull-up
-+ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Narrow grip pull-up
-+ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Chin-up
-+ [ ] _**`02 ⨉ 03 - 05`** &emsp;\|&emsp; Comando pull-up_
++ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Pull\-up
++ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Horizontal pull\-up
++ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Narrow grip pull\-up
++ [ ] **`03 ⨉ 03 - 05`** &emsp;\|&emsp; Chin\-up
++ [ ] _**`02 ⨉ 03 - 05`** &emsp;\|&emsp; Commando pull\-up_
 
 > #### :shield: Core
 
@@ -57,18 +57,18 @@ TIME: (01 min, 02 min)
 
 > #### :stopwatch: [HIIT][h]
 
-+ [ ] [**`Tabata`**][t] &emsp;\|&emsp; 180 jump squat
++ [ ] [**`Tabata`**][t] &emsp;\|&emsp; Jump squat
 
 > #### :triangular_flag_on_post: Challenge
 
 + [ ] **`10 min`** &emsp;\|&emsp; Jumping rope
 
-### :snowflake: Cool-down
+### :snowflake: Cool\-down
 
 + [ ] **`03 min`** &emsp;\|&emsp; Jumping rope
 
 > **Warning**  
-> Perform **static stretching** after cool-down\.
+> Perform **static stretching** after cool\-down\.
 
 ---
 
