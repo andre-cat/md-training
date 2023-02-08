@@ -72,13 +72,16 @@ Each emoji specifies a different workout\:
 >> **About flexibility day <sub>:octopus:</sub>**  
 >> Since [flexibility] training is not explicitly mentioned anywhere, it is recommended to incorporate it after each hiit session\.
 >> |:stopwatch::octopus:|
->> |-------------------|
+>> |--------------------|
 > ---
 >> **About challenge workout <sub>:triangular_flag_on_post:</sub>**  
 >> It is optional, but in case it is incorporated, it is suggested to do it after the core training\.
+>> |:shield::triangular_flag_on_post:|
+>> |---------------------------------|
 
 <sub>
-:warning: Understanding the demands of challenge and HIIT workout, you may initially to consider the following schedule:
+:warning: Understanding the demands of challenge and HIIT workouts, you may initially to consider the following schedule:
+<br><br>
 
 |D1   |D2      |D3         |D4   |D5      |D6         |D7      |
 |:---:|:------:|:---------:|:---:|:------:|:---------:|:------:|
