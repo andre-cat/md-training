@@ -6,10 +6,10 @@
 
 ## Levels
 
-1. Crunch kicks on chair
-2. Crunch kicks
-3. Lying leg rises
-4. Hanging knee raises
+1. Seated knee tuck
+2. Bent leg raise
+3. Lying leg raise
+4. Hanging knee raise
 5. Hanging L\-sit :star:
 
 ---
