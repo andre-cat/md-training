@@ -13,12 +13,17 @@
 5. Hanging L\-sit :star:
 
 ---
+> **See tempo on** [:hourglass:]  
+> **See progression on** [:link:]
+---
 
 [![abs](../icons/six_pack_little.svg)](../training-1.md "Training 1")
 
 <!-- predefined -->
 [next]: pull-up.md "Pull-up"
 [prev]: movements.md "Movements"
+[:hourglass:]: ../../none.md "None"
+[:link:]: ../../none.md "None"
 
 <!-- icons -->
 [icon]: ../icons/abdominal.svg

@@ -2,11 +2,11 @@
 
 ## C
 
-+ _**Concentric**_[^con]\: Muscle contraction where the muscle becomes shorter\.
++ _**Concentric**_[^con]\: muscle contraction where the muscle becomes shorter\.
 
 ## E
 
-+ _**Eccentric**_[^ecc]\: Muscle contraction where the muscle becomes longer\.
++ _**Eccentric**_[^ecc]\: muscle contraction where the muscle becomes longer\.
 
 ## H
 
@@ -14,18 +14,18 @@
 
 ## I
 
-+ _**Isometric**_[^iso]\: Muscle contraction where the muscle does not change size\.
++ _**Isometric**_[^iso]\: muscle contraction where the muscle does not change size\.
 
 ## T
 
 + _**Tabata**_\: a HIIT workout that consists of doing an exercise at maximum speed for 20 seconds, jogging in place \(active rest\) for 10 seconds and repeating 7 times \(8 times in total\)\.
-+ _**Tempo**_\: Muscle contraction time[<sup>:question:</sup>][temp-url]\. The smaller the tempo the faster the contraction\.
++ _**Tempo**_\: muscle contraction time[<sup>:question:</sup>][temp-url]\. The smaller the tempo the faster the contraction\.
 
-[^con]: Abbreviated as "con"\.
+[^con]: abbreviated as "con"\.
 
-[^ecc]: Abbreviated as "ecc"\.
+[^ecc]: abbreviated as "ecc"\.
 
-[^iso]: Abbreviated as "iso"\.
+[^iso]: abbreviated as "iso"\.
 
 <!-- predefined -->
 [back]: index.md "Index"

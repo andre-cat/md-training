@@ -13,6 +13,7 @@
 5. Deep handstand push\-up :star:
 
 ---
+> **See tempo on** [:hourglass:]  
 > **See progression on** [:link:]
 ---
 
@@ -21,7 +22,8 @@
 <!-- predefined -->
 [next]: movements.md "Movements"
 [prev]: squat.md "Squat"
-[:link:]: https://www.reddit.com/r/yoga/comments/g7gywj/comp_bound_headstand_tripod_headstand_forearm/
+[:hourglass:]: ../../none.md "None"
+[:link:]: https://www.reddit.com/r/yoga/comments/g7gywj/comp_bound_headstand_tripod_headstand_forearm/ "Progression"
 
 <!-- icons -->
 [icon]: ../icons/vertical-push-up.svg

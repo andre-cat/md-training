@@ -144,7 +144,7 @@ Several tests and challenges\.
 
 <!-- predefined -->
 [back]: ../home.md "Home"
-[soon]: modules/endurance.md "Endurance module"
+[soon]: modules/modules.md "Modules"
 
 <!-- glossary -->
 [h]: ../glossary.md#h "H"
