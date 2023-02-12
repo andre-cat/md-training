@@ -34,7 +34,7 @@ TIME: (30 sec, 60 sec)
 
 + [ ] **`20 rep`** &emsp;\|&emsp; Jumping Jack
 + [ ] **`20 rep`** &emsp;\|&emsp; Mountain climber
-+ [ ] **`20 rep`** &emsp;\|&emsp; Reverse mountain climber
++ [ ] **`10 rep`** &emsp;\|&emsp; Reverse mountain climber
 + [ ] **`01 min`** &emsp;\|&emsp; Skipping
 
 > **Warning**  

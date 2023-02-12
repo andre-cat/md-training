@@ -24,7 +24,7 @@ TIME: (01 min, 02 min)
 
 + [ ] **`25 rep`** &emsp;\|&emsp; Jumping Jack
 + [ ] **`25 rep`** &emsp;\|&emsp; Mountain climber
-+ [ ] **`25 rep`** &emsp;\|&emsp; Reverse mountain climber
++ [ ] **`12 rep`** &emsp;\|&emsp; Reverse mountain climber
 + [ ] **`01 min`** &emsp;\|&emsp; Skipping
 
 > **Warning**  
