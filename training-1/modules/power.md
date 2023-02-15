@@ -23,7 +23,7 @@ For explosive:
 ```text
 LOAD: MAX
 REPS: 08 - 10
-REST: 01 - 02
+REST: 01 - 02 day(s)
 SCHE: 02
 TIME: (45 sec, 90 sec)
 ```

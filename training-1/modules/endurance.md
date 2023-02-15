@@ -23,7 +23,7 @@ For normal:
 ```text
 LOAD: MAX - 1
 REPS: 08 - 12
-REST: 01
+REST: 01 day
 SCHE: 02
 TIME: (30 sec, 60 sec)
 ```

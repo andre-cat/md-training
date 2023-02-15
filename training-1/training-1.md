@@ -1,4 +1,4 @@
-# [![abs](icons/six_pack.svg)](#)  $\color{#F08000}\textsf{TRAINING 1}$
+# [![abs](icons/six_pack.svg)](#plan)  $\color{#F08000}\textsf{TRAINING 1}$
 
 ## Plan
 
@@ -92,7 +92,7 @@ Each emoji specifies a different workout\:
 
 A workout session \(or day\) always consists of the same sequence\: first, warm\-up; second, workout; third, cool\-down\. Graphically\:
 
-> ### :one::fire: &rarr; :two::sweat_drops: &rarr; :three::snowflake: &#8203;
+> ### <sub><sub>:one:</sub></sub>:fire: &rarr; <sub><sub>:two:</sub></sub>:sweat_drops: &rarr; <sub><sub>:three:</sub></sub>:snowflake: &#8203;
 >
 > _<sup>Sequence of all workout sessions.</sup>_
 
@@ -101,18 +101,20 @@ A workout session \(or day\) always consists of the same sequence\: first, warm\
 + The following nomenclature is used to express the number of sets and repetitions, as well as their ranks\.
 
 For repetition exercises:
+
 > **\[repetitions\]**  
 > or  
 > **\[sets\]** &times; **\[repetitions\]**  
 > or  
-> **\[sets\]** &times; **\[minimum repetitions\] \- \[maximum repetitions\]**  
+> **\[sets\]** &times; **\[minimum repetitions\] \- \[maximum repetitions\]**
 
-For time exercises:  
+For time exercises:
+
 > **\[time\]**  
 > or  
 > **\[sets\]** &times; **\[time\]**  
 > or  
-> **\[sets\]** &times; **\[minimum time\] \- \[maximum time\]**  
+> **\[sets\]** &times; **\[minimum time\] \- \[maximum time\]**
 
 + When no exercise in workout is a time exercise, the word ~~rep~~ is deleted\.
 + The last exercises with italic emphasis are always _optional_\.
@@ -122,7 +124,7 @@ For time exercises:
 > **Warning**  
 > Each time at the beginning of this 11\-week training, the [intensity test] must be performed\.
 
-See [here][soon] the first module\.
+See [here][endurance] the first module\.
 
 ## [Movements]
 
@@ -150,6 +152,7 @@ Several tests and challenges\.
 [h]: ../glossary.md#h "H"
 
 <!-- named -->
+[endurance]: modules/endurance.md "Endurance module"
 [flexibility]: modules/flexibility.md "Flexibility module"
 [intensity test]: tests/intensity.md "Intensity test"
 [modules]: modules/modules.md "Modules"

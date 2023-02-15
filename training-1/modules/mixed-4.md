@@ -4,7 +4,6 @@
 
 ```text
 LOAD: MAX
-REST: 02
 SCHE: 01
 TIME: (30 sec, 01 min)
 ```

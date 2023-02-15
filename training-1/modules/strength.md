@@ -13,7 +13,7 @@
 ```text
 LOAD: MAX + 1
 REPS: 03 - 05
-REST: 02
+REST: 02 days
 SCHE: 02
 TIME: (01 min, 02 min)
 ```
