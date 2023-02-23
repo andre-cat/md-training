@@ -22,7 +22,7 @@
       > [Vertical-push-up](training-1/movements/vertical-push-up.md "")  
     + `Others`
       > [Chart: intensity test](training-1/others/chart-intensity-test.md "")
-    + [Tests](training-1/tests/tests.md "")
+    + `Tests`
       > [Intensity](training-1/tests/intensity.md "")  
 
 <!-- internal -->

@@ -1,5 +1,20 @@
 # [![abs](icons/six_pack.svg)](#plan)  $\color{#F08000}\textsf{TRAINING 1}$
 
+## Tour
+
+> Read me, please :eye::lips::eye: &#8203;
+
+It is suggested to view the content as follows\:
+
+[_MOVEMENTS_](#movements) **&#8702;**
+[_INTENSITY TEST_](#intensity) **&#8702;**
+[_PLAN*_](#plan) **&#8702;**
+[_SCHEDULE_](#schedule) **&#8702;**
+[_SEQUENCE_](#sequence) **&#8702;**
+[_NOTES_](#notes) **&#8702;**
+[_PARAMETERS_](#parameters) **&#8702;**
+[_MODULES_](#modules)
+
 ## Plan
 
 `TYPE: CALISTHENICS`
@@ -64,8 +79,8 @@ Each emoji specifies a different workout\:
 |Core       |:shield:                 |
 |Flexibility|:octopus:                |
 |[HIIT][h]  |:stopwatch:              |
-|Lower      |:leg:                    |
-|Rest day   |:palm_tree:              |
+|Lower body |:leg:                    |
+|Rest       |:palm_tree:              |
 |Upper body |:muscle:                 |
 
 > **Note**  
@@ -122,7 +137,7 @@ For time exercises:
 ## [Modules]
 
 > **Warning**  
-> Each time at the beginning of this 11\-week training, the [intensity test] must be performed\.
+> Each time at the beginning of this 11\-week training, the [intensity test](intensity) must be performed\.
 
 See [here][endurance] the first module\.
 
@@ -130,9 +145,9 @@ See [here][endurance] the first module\.
 
 The 5 basic movements from which the other exercises of the program are derived\.
 
-## [Tests]
+## Tests
 
-Several tests and challenges\.
++ ### [Intensity]
 
 ---
 
@@ -154,7 +169,6 @@ Several tests and challenges\.
 <!-- named -->
 [endurance]: modules/endurance.md "Endurance module"
 [flexibility]: modules/flexibility.md "Flexibility module"
-[intensity test]: tests/intensity.md "Intensity test"
+[intensity]: tests/intensity.md "Intensity test"
 [modules]: modules/modules.md "Modules"
 [movements]: movements/movements.md "Movements"
-[tests]: tests/tests.md "Tests"

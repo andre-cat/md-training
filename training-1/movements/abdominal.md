@@ -8,7 +8,7 @@
 
 1. Seated knee tuck
 2. Bent leg raise
-3. Lying leg raise
+3. Straight leg raise
 4. Hanging knee raise
 5. Hanging L\-sit :star:
 

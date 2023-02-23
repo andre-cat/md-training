@@ -6,7 +6,7 @@
 
 ## Levels
 
-1. Desk push\-up
+1. Incline push\-up
 2. Knee push\-up
 3. Push\-up
 4. Decline push\-up

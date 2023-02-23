@@ -6,8 +6,8 @@
 
 ## Levels
 
-1. Tripod push\-up
-2. Headstand
+1. Headstand
+2. Tripod push\-up
 3. Decline pike push\-up
 4. Handstand push\-up
 5. Deep handstand push\-up :star:

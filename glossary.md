@@ -19,6 +19,17 @@
 ## T
 
 + _**Tabata**_\: a HIIT workout that consists of doing an exercise at maximum speed for 20 seconds, jogging in place \(active rest\) for 10 seconds and repeating 7 times \(8 times in total\)\.
+
+:running: :walking: :running: :walking: :running: :walking: :running: :walking: :running: :walking: :running: :walking: :running: :walking: :running:  
+:one:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+:two:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+:three:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+:four:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+:five:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+:six:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+:seven:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+:eight:
+
 + _**Tempo**_\: muscle contraction time[<sup>:question:</sup>][temp-url]\. The smaller the tempo the faster the contraction\.
 
 [^con]: abbreviated as "con"\.
