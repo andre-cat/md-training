@@ -2,6 +2,6 @@
 
 ## Welcome\! First, what is this?
 
-A markdown practice with physical training routines to practice GitHub Flavored Markdown\.
+A markdown practice with physical body training routines to practice GitHub Flavored Markdown\.
 
 **Start [here](home.md "🏠")\!\!\!** :point_left:
